@@ -1,0 +1,194 @@
+-DOCSTART-
+
+NASA	B-NASA
+launched	O
+a	O
+new	O
+satellite	O
+from	O
+Cape	B-Cape_Canaveral
+Canaveral	I-Cape_Canaveral
+on	O
+Monday	O
+.	O
+
+The	O
+satellite	O
+,	O
+named	O
+Landsat	B-Landsat_program
+9	I-Landsat_program
+,	O
+will	O
+monitor	O
+earth	O
+resources	O
+.	O
+
+Mission	O
+control	O
+is	O
+located	O
+at	O
+Johnson	B-Lyndon_B._Johnson_Space_Center
+Space	I-Lyndon_B._Johnson_Space_Center
+Center	I-Lyndon_B._Johnson_Space_Center
+in	O
+Houston	B-Houston
+.	O
+
+-DOCSTART-
+
+Lionel	B-Lionel_Messi
+Messi	I-Lionel_Messi
+scored	O
+twice	O
+for	O
+Inter	B-Inter_Miami_CF
+Miami	I-Inter_Miami_CF
+against	O
+Orlando	B-Orlando_City_SC
+City	I-Orlando_City_SC
+.	O
+
+The	O
+match	O
+was	O
+part	O
+of	O
+the	O
+MLS	B-Major_League_Soccer
+regular	O
+season	O
+.	O
+
+Miami	B-Miami
+fans	O
+celebrated	O
+at	O
+DRV	B-DRV_PNK_Stadium
+PNK	I-DRV_PNK_Stadium
+Stadium	I-DRV_PNK_Stadium
+.	O
+
+-DOCSTART-
+
+Angela	B-Angela_Merkel
+Merkel	I-Angela_Merkel
+met	O
+with	O
+Emmanuel	B-Emmanuel_Macron
+Macron	I-Emmanuel_Macron
+in	O
+Paris	B-Paris
+to	O
+discuss	O
+climate	O
+policy	O
+.	O
+
+They	O
+agreed	O
+to	O
+revisit	O
+the	O
+Paris	B-Paris_Agreement
+Agreement	I-Paris_Agreement
+targets	O
+.	O
+
+Germany	B-Germany
+and	O
+France	B-France
+have	O
+taken	O
+leadership	O
+roles	O
+in	O
+EU	B-European_Union
+climate	O
+efforts	O
+.	O
+
+-DOCSTART-
+
+The	O
+iPhone	B-IPhone
+15	I-IPhone
+was	O
+announced	O
+by	O
+Apple	B-Apple_Inc.
+at	O
+its	O
+annual	O
+event	O
+in	O
+Cupertino	B-Cupertino,_California
+.	O
+
+Tim	B-Tim_Cook
+Cook	I-Tim_Cook
+introduced	O
+new	O
+features	O
+like	O
+USB-C	B-USB-C
+charging	O
+and	O
+improved	O
+battery	O
+life	O
+.	O
+
+Apple	B-Apple_Inc.
+fans	O
+shared	O
+their	O
+reactions	O
+online	O
+.	O
+
+-DOCSTART-
+
+Serena	B-Serena_Williams
+Williams	I-Serena_Williams
+returned	O
+to	O
+the	O
+court	O
+at	O
+Wimbledon	B-Wimbledon_Championships
+after	O
+a	O
+year-long	O
+break	O
+.	O
+
+She	O
+faced	O
+Emma	B-Emma_Raducanu
+Raducanu	I-Emma_Raducanu
+in	O
+the	O
+second	O
+round	O
+.	O
+
+The	O
+All	O
+England	B-All_England_Club
+Club	I-All_England_Club
+was	O
+packed	O
+with	O
+fans	O
+.	O
+
+BBC	B-BBC_Sport
+broadcasted	O
+the	O
+match	O
+live	O
+.	O
+

@@ -1,0 +1,222 @@
+-DOCSTART-
+
+Google	B-Google
+announced	O
+a	O
+new	O
+AI	B-Artificial_intelligence
+feature	O
+for	O
+Gmail	B-Gmail
+during	O
+its	O
+I/O	B-Google_I/O
+conference	O
+.	O
+
+Sundar	B-Sundar_Pichai
+Pichai	I-Sundar_Pichai
+highlighted	O
+improvements	O
+to	O
+Bard	B-Google_Bard
+.	O
+
+The	O
+event	O
+was	O
+held	O
+in	O
+Mountain	B-Mountain_View,_California
+View	I-Mountain_View,_California
+.	O
+
+-DOCSTART-
+
+Taylor	B-Taylor_Swift
+Swift	I-Taylor_Swift
+performed	O
+in	O
+London	B-London
+as	O
+part	O
+of	O
+her	O
+Eras	B-The_Eras_Tour
+Tour	I-The_Eras_Tour
+.	O
+
+Fans	O
+at	O
+Wembley	B-Wembley_Stadium
+Stadium	I-Wembley_Stadium
+cheered	O
+for	O
+hours	O
+.	O
+
+Swifties	B-Swifties
+from	O
+around	O
+the	O
+world	O
+attended	O
+.	O
+
+-DOCSTART-
+
+The	O
+UN	B-United_Nations
+held	O
+a	O
+summit	O
+in	O
+New	B-New_York_City
+York	I-New_York_City
+to	O
+discuss	O
+global	O
+warming	O
+.	O
+
+Delegates	O
+from	O
+India	B-India
+,	O
+Brazil	B-Brazil
+,	O
+and	O
+Canada	B-Canada
+joined	O
+.	O
+
+Greta	B-Greta_Thunberg
+Thunberg	I-Greta_Thunberg
+gave	O
+a	O
+speech	O
+.	O
+
+-DOCSTART-
+
+Cristiano	B-Cristiano_Ronaldo
+Ronaldo	I-Cristiano_Ronaldo
+signed	O
+with	O
+Al	B-Al_Nassr_FC
+Nassr	I-Al_Nassr_FC
+Football	I-Al_Nassr_FC
+Club	I-Al_Nassr_FC
+in	O
+Saudi	B-Saudi_Arabia
+Arabia	I-Saudi_Arabia
+.	O
+
+The	O
+deal	O
+was	O
+worth	O
+$200	O
+million	O
+per	O
+year	O
+.	O
+
+He	O
+will	O
+wear	O
+number	O
+7	O
+.	O
+
+-DOCSTART-
+
+Microsoft	B-Microsoft
+released	O
+Copilot	B-Microsoft_Copilot
+in	O
+Windows	B-Windows_11
+11	I-Windows_11
+.	O
+
+It	O
+integrates	O
+AI	B-Artificial_intelligence
+into	O
+Office	B-Microsoft_Office
+apps	O
+like	O
+Word	B-Microsoft_Word
+and	O
+Excel	B-Microsoft_Excel
+.	O
+
+Satya	B-Satya_Nadella
+Nadella	I-Satya_Nadella
+called	O
+it	O
+a	O
+"gamechanger"	O
+.	O
+
+-DOCSTART-
+
+Barack	B-Barack_Obama
+Obama	I-Barack_Obama
+visited	O
+Kenya	B-Kenya
+for	O
+a	O
+charity	O
+event	O
+organized	O
+by	O
+the	O
+Obama	B-Obama_Foundation
+Foundation	I-Obama_Foundation
+.	O
+
+He	O
+spoke	O
+about	O
+youth	O
+empowerment	O
+in	O
+Nairobi	B-Nairobi
+.	O
+
+-DOCSTART-
+
+The	O
+Olympics	B-Olympic_Games
+will	O
+be	O
+held	O
+in	O
+Paris	B-Paris
+in	O
+2024	B-2024_Summer_Olympics
+.	O
+
+Athletes	O
+from	O
+over	O
+200	O
+countries	O
+will	O
+compete	O
+in	O
+track	O
+,	O
+swimming	O
+,	O
+and	O
+gymnastics	O
+.	O
+
+The	O
+IOC	B-International_Olympic_Committee
+confirmed	O
+the	O
+schedule	O
+.	O

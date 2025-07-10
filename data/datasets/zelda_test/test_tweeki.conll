@@ -1,0 +1,10154 @@
+-DOCSTART-
+
+# tweet_id=1
+Syracuse	B-Syracuse_Orange_men's_basketball
+and	O
+Pitt	B-Pittsburgh_Panthers_men's_basketball
+in	O
+the	O
+#	O
+ACC	B-Atlantic_Coast_Conference
+...	O
+its	O
+gon	O
+na	O
+be	O
+a	O
+long	O
+year	O
+for	O
+Maryland	B-Maryland_Terrapins_men's_basketball
+
+-DOCSTART-
+
+# tweet_id=2
+MSU	B-Michigan_State_Spartans_men's_basketball
+mens	O
+basketball	O
+signs	O
+Gary	B-Gary_Harris
+Harris	I-Gary_Harris
+.	O
+Womens	O
+basketball	O
+gets	O
+Mariah	O
+Harris	O
+.	O
+Harrises	O
+on	O
+Harrises	O
+on	O
+Harrises	O
+.	O
+#	O
+GottaHaveIt	O
+
+-DOCSTART-
+
+# tweet_id=3
+Nirvanas	B-Nirvana
+Nevermind	B-Nevermind
+was	O
+a	O
+damn	O
+near	O
+perfect	O
+album	O
+,	O
+like	O
+Marleys	B-Bob_Marley
+Talking	B-Talkin'_Blues
+Blues	I-Talkin'_Blues
+or	O
+Coltranes	B-John_Coltrane
+A	B-A_Love_Supreme
+Love	I-A_Love_Supreme
+Supreme	I-A_Love_Supreme
+.	O
+-	O
+Talib	B-Talib_Kweli
+Kweli	I-Talib_Kweli
+
+-DOCSTART-
+
+# tweet_id=4
+This	O
+F.S.U	B-Florida_State_Seminoles_football
+vs	O
+Oklahoma	B-Oklahoma_Sooners_football
+game	O
+is	O
+insane	O
+.	O
+#	O
+Freshmen	O
+qb	O
+.	O
+#	O
+GONOLES	O
+
+-DOCSTART-
+
+# tweet_id=5
+@mitch_way	O
+I	O
+just	O
+tweeted	O
+a	O
+similar	O
+article	O
+.	O
+Penn	B-Pennsylvania_State_University
+State	I-Pennsylvania_State_University
+knew	O
+about	O
+the	O
+investigation	O
+which	O
+makes	O
+me	O
+wonder	O
+why	O
+were	O
+nt	O
+they	O
+prepared	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=6
+Anyone	O
+in	O
+Austin	B-Austin,_Texas
+going	O
+to	O
+the	O
+Best	B-Best_Buy
+Buy	I-Best_Buy
+on	O
+Airport	O
+Blvd	O
+tonight	O
+/	O
+tomorrow	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=7
+Chris	B-Chris_Brown
+Brown	I-Chris_Brown
+,	O
+Beyonce	B-Beyoncé
+,	O
+Nicki	B-Nicki_Minaj
+Minaj	I-Nicki_Minaj
+,	O
+Kelly	B-Kelly_Rowland
+Rowland	I-Kelly_Rowland
+Win	O
+@	O
+Soul	B-Soul_Train_Music_Awards
+Train	I-Soul_Train_Music_Awards
+Awards	I-Soul_Train_Music_Awards
+List	O
+Of	O
+Winners	O
+
+-DOCSTART-
+
+# tweet_id=8
+I	O
+ca	O
+nt	O
+WAIT	O
+to	O
+take	O
+Jamal	O
+to	O
+see	O
+Lion	B-The_Lion_King
+King	I-The_Lion_King
+D	I-The_Lion_King
+
+-DOCSTART-
+
+# tweet_id=9
+AHAHAH	O
+RT	O
+@politico	O
+The	B-The_Roots
+Roots	I-The_Roots
+use	O
+entrance	O
+music	O
+to	O
+bash	O
+Michele	B-Michele_Bachmann
+Bachmann	I-Michele_Bachmann
+on	O
+Jimmy	B-Jimmy_Fallon
+Fallon	I-Jimmy_Fallon
+:	O
+
+-DOCSTART-
+
+# tweet_id=10
+@DominickAnthony	O
+@DorionRenaud	O
+I	O
+have	O
+this	O
+other	O
+one	O
+and	O
+they	O
+only	O
+sell	O
+it	O
+at	O
+Saks	B-Saks_Fifth_Avenue
+
+-DOCSTART-
+
+# tweet_id=11
+Picking	O
+up	O
+the	O
+hubby	O
+(	O
+@	O
+New	B-New_England_Baptist_Hospital
+England	I-New_England_Baptist_Hospital
+Baptist	I-New_England_Baptist_Hospital
+Hospital	I-New_England_Baptist_Hospital
+)	O
+
+-DOCSTART-
+
+# tweet_id=12
+Journalism	O
+:|	O
+(	O
+@	O
+Carolina	B-Carolina_Coliseum
+Coliseum	I-Carolina_Coliseum
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=13
+Me	O
+and	O
+@__CertainlyMe	O
+were	O
+cracking	O
+up	O
+at	O
+Wedding	B-Wedding_Crashers
+Crashers	I-Wedding_Crashers
+last	O
+night	O
+lol	O
+
+-DOCSTART-
+
+# tweet_id=14
+A	O
+beautiful	O
+day	O
+for	O
+a	O
+post	O
+-	O
+prandial	O
+drive	O
+back	O
+home	O
+in	O
+NC	B-North_Carolina
+!	O
+
+-DOCSTART-
+
+# tweet_id=15
+Waiting	O
+for	O
+the	O
+Don	O
+.	O
+(	O
+@	O
+Terenine	O
+in	O
+Chattanooga	B-Chattanooga,_Tennessee
+)	O
+
+-DOCSTART-
+
+# tweet_id=16
+Lest	O
+we	O
+forget	O
+,	O
+Blacbeard	B-Blackbeard
+,	O
+real	O
+name	O
+Edward	B-Blackbeard
+Teach	I-Blackbeard
+,	O
+was	O
+killed	O
+day	O
+n	O
+n	O
+a	O
+battle	O
+w	O
+British	B-British_people
+sailors	O
+off	O
+coast	O
+of	O
+N.C.	B-North_Carolina
+#	O
+arrgh	O
+
+-DOCSTART-
+
+# tweet_id=17
+On	O
+an	O
+inbound	O
+train	O
+from	O
+#	O
+Ashmont	B-Ashmont
+going	O
+to	O
+#	O
+OccupyBoston	O
+march	O
+at	O
+:	O
+PM	O
+
+-DOCSTART-
+
+# tweet_id=18
+Ill	O
+eventually	O
+stop	O
+eating	O
+Doritos	B-Doritos
+.	O
+Eventually	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=19
+#	O
+finally	O
+(	O
+@	O
+Chicago	B-O'Hare_International_Airport
+OHare	I-O'Hare_International_Airport
+International	I-O'Hare_International_Airport
+Airport	I-O'Hare_International_Airport
+(	O
+ORD	B-O'Hare_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=20
+Anthony	B-Anthony_Wayne
+Wayne	I-Anthony_Wayne
+up	O
+-	O
+at	O
+half	O
+..	O
+#	O
+Fridaynightfrenzy	O
+(	O
+@	O
+Anthony	B-Anthony_Wayne_High_School
+Wayne	I-Anthony_Wayne_High_School
+High	I-Anthony_Wayne_High_School
+School	I-Anthony_Wayne_High_School
+)	O
+
+-DOCSTART-
+
+# tweet_id=21
+Floored	O
+!	O
+!	O
+!	O
+@IZMA_Apparel	O
+makes	O
+the	O
+iconic	O
+Christmas	B-Christmas
+window	O
+@HoltRenfrew	O
+on	O
+Bloor	O
+St	O
+in	O
+#	O
+toronto	B-Toronto
+
+-DOCSTART-
+
+# tweet_id=22
+Last	O
+night	O
+in	O
+NYC	B-New_York_City
+(	O
+@	O
+Days	B-Days_Inn
+Inn	I-Days_Inn
+)	O
+
+-DOCSTART-
+
+# tweet_id=23
+@PiersTonight	O
+@piersmorgan	O
+CNN	B-CNN
+just	O
+asked	O
+Obama	B-Barack_Obama
+about	O
+the	O
+situation	O
+in	O
+Libya	B-Libya
+...	O
+He	O
+said	O
+,	O
+I	O
+did	O
+nt	O
+know	O
+the	O
+Situation	O
+left	O
+the	O
+Jersey	B-Jersey_Shore
+Shore	I-Jersey_Shore
+
+-DOCSTART-
+
+# tweet_id=24
+Pizarro	O
+:	O
+Willow	O
+Street	O
+Wood	O
+-	O
+Fired	O
+Pizza	O
+gets	O
+a	O
+fresh	O
+look	O
+for	O
+th	O
+anniversary	O
+:	O
+When	O
+Ed	O
+Rathmann	O
+,	O
+owner	O
+of	O
+Willo	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=25
+And	O
+Lake	B-Lake_Dallas,_Texas
+Dallas	I-Lake_Dallas,_Texas
+murders	O
+another	O
+hit	O
+..	O
+
+-DOCSTART-
+
+# tweet_id=26
+Good	O
+Morning	O
+NYC	B-New_York_City
+!	O
+@	O
+AP	O
+Roof	O
+Deck	O
+
+-DOCSTART-
+
+# tweet_id=27
+Winters	O
+,	O
+California	B-California
+is	O
+gorgeous	O
+.	O
+Glad	O
+we	O
+came	O
+here	O
+instead	O
+of	O
+Lake	B-Lake_Tahoe
+Tahoe	I-Lake_Tahoe
+.	O
+Plus	O
+so	O
+many	O
+cute	O
+farm	O
+boys	O
+:)	O
+
+-DOCSTART-
+
+# tweet_id=28
+It	O
+was	O
+great	O
+to	O
+see	O
+Jordan	O
+&	O
+Rock	O
+Williams	O
+play	O
+again	O
+.	O
+( 	O
+@	O
+Western	B-Western_Carolina_Catamounts
+Carolina	I-Western_Carolina_Catamounts
+-	O
+Hennon	B-Hennon_Stadium
+Stadium	I-Hennon_Stadium
+)	O
+
+-DOCSTART-
+
+# tweet_id=29
+This	O
+holiday	O
+,	O
+record	O
+a	O
+story	O
+with	O
+a	O
+loved	O
+one	O
+at	O
+our	O
+StoryBooths	O
+in	O
+Atlanta	B-Atlanta
+.	O
+Reserve	O
+now	O
+!	O
+--	O
+or	O
+#	O
+fb	O
+Aunt	O
+Gin	O
+
+-DOCSTART-
+
+# tweet_id=30
+Since	O
+Deutschetelekom	B-Deutsche_Telekom
+has	O
+mentioned	O
+their	O
+Windows	O
+Mango	O
+rollout	O
+,	O
+what	O
+does	O
+T-Mobile	B-T-Mobile_US
+USA	B-United_States
+have	O
+to	O
+say	O
+about	O
+this	O
+side	O
+of	O
+the	O
+pond	O
+..	O
+#	O
+HD	O
+
+-DOCSTART-
+
+# tweet_id=31
+Got	O
+the	O
+rig	O
+set	O
+up	O
+in	O
+the	O
+rain	O
+.	O
+:)	O
+(	O
+@	O
+Kohler	B-Kohler_Co.
+Co.	I-Kohler_Co.
+w/	O
+others	O
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=32
+@NameRingBells	O
+:	O
+FAMU	O
+Homecoming	O
+or	O
+stay	O
+in	O
+Miami	B-Miami
+for	O
+Miami	O
+Carnival	O
+..	O
+sigh	O
+,	O
+,	O
+I	O
+wanna	O
+go	O
+...	O
+you	O
+suppose	O
+to	O
+been	O
+my	O
+tour	O
+guide	O
+
+-DOCSTART-
+
+# tweet_id=33
+OneMain	B-OneMain_Financial
+Financial	I-OneMain_Financial
+(	O
+FSN	B-Full_Service_Network
+)	O
+Consumer	O
+Finance	O
+Sales	O
+Repres	O
+...	O
+-	O
+Citigroup	B-Citigroup
+:	O
+(	O
+#	O
+Columbia	B-Columbia
+,	O
+SC	B-South_Carolina
+)	O
+#	O
+CitiJobs	O
+#	O
+Finance	O
+#	O
+Jobs	O
+#	O
+Job	O
+
+-DOCSTART-
+
+# tweet_id=34
+San	B-San_José
+Jose	I-San_José
+Hosts	O
+Solar	O
+Tour	O
+to	O
+Help	O
+Residents	O
+Cut	O
+Energy	O
+Costs	O
+&	O
+Create	O
+a	O
+Bright	O
+Green	O
+Future	O
+:	O
+The	O
+City	B-San_José
+of	I-San_José
+San	I-San_José
+Jos	I-San_José
+...	O
+
+-DOCSTART-
+
+# tweet_id=35
+In	O
+Frederick	B-Frederick,_Maryland
+,	O
+MD	B-Maryland
+.	O
+Could	O
+this	O
+bus	O
+make	O
+it	O
+to	O
+Union	B-Washington_Union_Station
+Station	I-Washington_Union_Station
+,	O
+DC	B-Washington,_D.C.
+by	O
+:	O
+?	O
+#	O
+bathroombreak	O
+
+-DOCSTART-
+
+# tweet_id=36
+We	O
+can	O
+send	O
+you	O
+to	O
+Neverland	B-Neverland_Ranch
+Ranch	I-Neverland_Ranch
+,	O
+a	O
+Catholic	B-Catholic_Church
+church	O
+,	O
+or	O
+Penn	B-Pennsylvania_State_University
+State	I-Pennsylvania_State_University
+University	I-Pennsylvania_State_University
+!	O
+....	O
+or	O
+Syracuse	B-Syracuse_University
+University	I-Syracuse_University
+@bfmitchell	O
+we	O
+have	O
+fun	O
+here	O
+
+-DOCSTART-
+
+# tweet_id=37
+Back	O
+to	O
+school	O
+(	O
+@	O
+Art	B-The_Art_Institutes
+Institutes	I-The_Art_Institutes
+International	I-The_Art_Institutes
+-	I-The_Art_Institutes
+Kansas	I-The_Art_Institutes
+City	I-The_Art_Institutes
+)	O
+
+-DOCSTART-
+
+# tweet_id=38
+I	O
+m	O
+at	O
+The	O
+Royal	B-Royal_Copenhagen
+Copenhagen	I-Royal_Copenhagen
+(	O
+Mission	O
+Dr.	O
+,	O
+Solvang	B-Solvang,_California
+)	O
+
+-DOCSTART-
+
+# tweet_id=39
+Taste	O
+testing	O
+Texas	B-Texas
+toast	O
+steak	O
+sandwich	O
+(	O
+@	O
+Texas	O
+Saloon	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=40
+Ferry	B-Ferry
+to	O
+Amalfi	B-Amalfi
+.	O
+Now	O
+waiting	O
+on	O
+bus	O
+that	O
+will	O
+take	O
+us	O
+up	O
+to	O
+Ravello	B-Ravello
+.	O
+#	O
+fb	O
+
+-DOCSTART-
+
+# tweet_id=41
+Heading	O
+up	O
+to	O
+Santa	B-Santa_Fe,_New_Mexico
+Fe	I-Santa_Fe,_New_Mexico
+again	O
+.	O
+(	O
+@	O
+Rail	O
+Runner	O
+:	O
+Sandova	B-Sandoval_County,_New_Mexico
+/	O
+U.S.	O
+HWY	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=42
+@TrapSquadNard	O
+_	O
+Boutta	O
+Leave	O
+New	B-Province_of_New_Jersey
+Jersey	I-Province_of_New_Jersey
+
+-DOCSTART-
+
+# tweet_id=44
+Dirty	B-Dirty_South_(musician)
+South	I-Dirty_South_(musician)
+&	O
+Gareth	B-Gareth_Emery
+Emery	I-Gareth_Emery
+(	O
+@	O
+Marquee	O
+Nightclub	O
+&	O
+Dayclub	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=45
+The	O
+only	O
+place	O
+to	O
+get	O
+service	O
+in	O
+Blue	O
+Rodge	O
+is	O
+the	O
+Bear	O
+store	O
+
+-DOCSTART-
+
+# tweet_id=46
+Onward	O
+to	O
+Houston	B-Houston
+(	O
+@	O
+Dallas	O
+Love	O
+Field	O
+Gate	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=47
+A	O
+Lady	O
+In	O
+Da	O
+Streets	O
+&	O
+amp	O
+;	O
+A	O
+Freak	O
+In	O
+Da	O
+U	O
+Know	O
+What	O
+?	O
+Beyonce	B-Beyoncé
+#	O
+
+-DOCSTART-
+
+# tweet_id=48
+Art	O
+Show	O
+at	O
+Rittenhouse	B-Rittenhouse_Square
+#	O
+sonice	O
+
+-DOCSTART-
+
+# tweet_id=49
+Just	O
+got	O
+me	O
+some	O
+boudain	O
+from	O
+Billy	O
+Rays	O
+in	O
+Opelousas	B-Opelousas,_Louisiana
+.	O
+Hit	O
+the	O
+spot	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=50
+I	O
+m	O
+at	O
+Northpark	O
+Townhomes	O
+(	O
+Apricot	O
+drive	O
+,	O
+San	B-San_Antonio
+Antonio	I-San_Antonio
+)	O
+
+-DOCSTART-
+
+# tweet_id=51
+Karaoke	O
+and	O
+beeeer	O
+with	O
+Bert	O
+(	O
+@	O
+Escondidos	O
+Mexican	O
+Restaurant	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=52
+getting	O
+closer	O
+to	O
+home	O
+.	O
+(	O
+@	O
+Hartsfield	B-Hartsfield–Jackson_Atlanta_International_Airport
+-	I-Hartsfield–Jackson_Atlanta_International_Airport
+Jackson	I-Hartsfield–Jackson_Atlanta_International_Airport
+Atlanta	I-Hartsfield–Jackson_Atlanta_International_Airport
+International	I-Hartsfield–Jackson_Atlanta_International_Airport
+Airport	I-Hartsfield–Jackson_Atlanta_International_Airport
+(	O
+ATL	B-Hartsfield–Jackson_Atlanta_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=53
+A	O
+few	O
+more	O
+days	O
+until	O
+I	O
+can	O
+watch	O
+Penn	B-Penn_State_Nittany_Lions_football
+state	O
+get	O
+bent	O
+over	O
+and	O
+rammed	O
+by	O
+Alabama	B-Alabama_Crimson_Tide_football
+lol	O
+
+-DOCSTART-
+
+# tweet_id=54
+Goldie	B-Goldie_Hawn
+Hawn	I-Goldie_Hawn
+Spotted	O
+In	O
+Manhattan	B-Manhattan,_Kansas
+,	O
+NYC	B-New_York_City
+.	O
+
+-DOCSTART-
+
+# tweet_id=55
+About	O
+to	O
+have	O
+brunch	O
+.	O
+In	O
+north	O
+Miami	B-Miami_Beach,_Florida
+Beach	I-Miami_Beach,_Florida
+.	O
+
+-DOCSTART-
+
+# tweet_id=56
+@carolfowler	O
+Caleb	O
+Janie	O
+serviceable	O
+backup	O
+.	O
+KC	B-Kansas_City_metropolitan_area
+,	O
+Denver	B-Denver
+&	O
+Seattle	B-Seattle
+still	O
+left	O
+on	O
+schedule	O
+.	O
+Optimist	O
+with	O
+knowledge	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=57
+Miss	B-Miss_Angola
+Angola	I-Miss_Angola
+was	O
+crowned	O
+as	O
+Miss	B-Miss_Universe_2011
+Universe	I-Miss_Universe_2011
+.	O
+Wonder	O
+what	O
+the	O
+ppl	O
+from	O
+Venus	B-Venus
+and	O
+Mars	B-Mars
+think	O
+about	O
+that	O
+.	O
+#	O
+AlesUnsolvedMisteries	O
+
+-DOCSTART-
+
+# tweet_id=58
+At	O
+the	O
+airport	O
+in	O
+Dallas	B-Dallas
+,	O
+waiting	O
+to	O
+board	O
+my	O
+last	O
+flight	O
+to	O
+Denver	B-Denver
+!	O
+!	O
+#	O
+GroupUNO	O
+#	O
+NCMCO	O
+#	O
+redjacketswag	O
+Who	O
+s	O
+ready	O
+?	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=59
+Big	O
+game	O
+today	O
+...	O
+If	O
+we	O
+win	O
+I	O
+wo	O
+nt	O
+have	O
+to	O
+work	O
+a	O
+playoff	O
+game	O
+during	O
+Dawgs	B-Georgia_Bulldogs_football
+v.	O
+Nebraska	B-Nebraska_Cornhuskers_football
+(	O
+@	O
+The	B-Seattle_Storm
+Seattle	I-Seattle_Storm
+Storm	I-Seattle_Storm
+)	O
+
+-DOCSTART-
+
+# tweet_id=60
+Happy	O
+October	B-October
+everyone	O
+!	O
+:)	O
+Thank	O
+you	O
+God	B-Deity
+for	O
+this	O
+new	O
+season	O
+.	O
+Fall	O
+is	O
+by	O
+far	O
+my	O
+favorite	O
+season	O
+in	O
+NYC	B-New_York_City
+.	O
+Yay	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=61
+I	O
+m	O
+at	O
+The	O
+Centre	O
+Apartments	O
+(	O
+Croyden	O
+Ave	O
+,	O
+Croyden	O
+Ave	O
+&	O
+Drake	O
+,	O
+Kalamazoo	B-Kalamazoo,_Michigan
+)	O
+
+-DOCSTART-
+
+# tweet_id=62
+Dear	O
+citizens	O
+of	O
+Phoenix	B-Phoenix,_Arizona
+,	O
+Arizona	B-Arizona
+:	O
+The	O
+loud	O
+laughter	O
+followed	O
+by	O
+deep	O
+sobbing	O
+you	O
+heard	O
+was	O
+the	O
+TSA	O
+after	O
+I	O
+went	O
+through	O
+the	O
+body	O
+scan	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=63
+Miami	B-Miami
+are	O
+you	O
+ready	O
+for	O
+Bobby	B-Bobby_V
+V	I-Bobby_V
+at	O
+cafe	O
+iguana	O
+tonight	O
+Live	O
+
+-DOCSTART-
+
+# tweet_id=64
+Tim	O
+Hightower	O
+make	O
+me	O
+wanna	O
+kiss	O
+Jessica	O
+Sowerbrower	O
+.	O
+-Dan	O
+Bowman	O
+lmaaaaoooo	O
+
+-DOCSTART-
+
+# tweet_id=65
+Watching	O
+Green	B-Green_Bay_Packers
+Bay	I-Green_Bay_Packers
+Do	O
+There	O
+Thing	O
+.	O
+#	O
+NFL	B-National_Football_League
+
+-DOCSTART-
+
+# tweet_id=66
+Sons	O
+of	O
+the	O
+Republic	B-Republic_of_Texas
+of	I-Republic_of_Texas
+Texas	I-Republic_of_Texas
+(	O
+@	O
+San	O
+Antonio	O
+Country	O
+Club	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=67
+Coffee	O
+for	O
+the	O
+road	O
+-	O
+hampton	B-Hampton_Bays,_New_York
+bays	I-Hampton_Bays,_New_York
+bound	O
+with	O
+carol	O
+:)	O
+(	O
+@	O
+Dunkin	B-Dunkin'_Donuts
+Donuts	I-Dunkin'_Donuts
+)	O
+
+-DOCSTART-
+
+# tweet_id=68
+Time	O
+to	O
+go	O
+Black	B-Black_Friday_(shopping)
+Friday	I-Black_Friday_(shopping)
+shopping	O
+.	O
+Dawkins	B-Dawkins
+,	O
+help	O
+me	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=69
+Roundtable	O
+(	O
+@	O
+Naval	B-Naval_Air_Station_Jacksonville
+Air	I-Naval_Air_Station_Jacksonville
+Station	I-Naval_Air_Station_Jacksonville
+Jacksonville	I-Naval_Air_Station_Jacksonville
+)	O
+
+-DOCSTART-
+
+# tweet_id=70
+Trying	O
+out	O
+the	O
+new	O
+place	O
+with	O
+Mark	O
+and	O
+Randee	O
+.	O
+(	O
+@	O
+Dos	O
+Gringos	O
+Southwestern	O
+Grill	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=71
+Excited	O
+to	O
+be	O
+producing	O
+video	O
+for	O
+@NWEN_ORGs	O
+Entrepreneur	O
+University	O
+this	O
+AM	O
+at	O
+Bell	O
+Harbor	O
+.	O
+#	O
+NWENEU	O
+
+-DOCSTART-
+
+# tweet_id=72
+Boise	B-Boise_State_Broncos_football
+vs	O
+oklahoma	B-Oklahoma_Sooners_football
+in	O
+the	O
+championship	O
+would	O
+be	O
+hilarious	O
+.	O
+#	O
+ncaa	O
+
+-DOCSTART-
+
+# tweet_id=73
+#	O
+NP	O
+"	O
+New	B-The_Wild,_the_Innocent_&_the_E_Street_Shuffle
+York	I-The_Wild,_the_Innocent_&_the_E_Street_Shuffle
+City	I-The_Wild,_the_Innocent_&_the_E_Street_Shuffle
+Serenade	I-The_Wild,_the_Innocent_&_the_E_Street_Shuffle
+"	O
+Bruce	B-Bruce_Springsteen
+Springsteen	I-Bruce_Springsteen
+.	O
+One	O
+of	O
+my	O
+favorites	O
+,	O
+and	O
+under	O
+appreciated	O
+songs	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=74
+@pitbull	O
+so	O
+what	O
+s	O
+going	O
+in	O
+Akron	B-Akron,_Ohio
+today	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=75
+Willie	B-Willie_Nelson
+Nelson	I-Willie_Nelson
+just	O
+made	O
+me	O
+cry	O
+and	O
+join	O
+the	O
+ASPCA	B-American_Society_for_the_Prevention_of_Cruelty_to_Animals
+.	O
+
+-DOCSTART-
+
+# tweet_id=76
+Oh	O
+TSA	B-Transportation_Security_Administration
+,	O
+you	O
+are	O
+a	O
+marvel	O
+of	O
+inefficiency	O
+.	O
+(	O
+@	O
+El	B-El_Paso_International_Airport
+Paso	I-El_Paso_International_Airport
+International	I-El_Paso_International_Airport
+Airport	I-El_Paso_International_Airport
+(	O
+ELP	B-El_Paso_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=77
+Chris	O
+from	O
+Brooklyn	B-Brooklyn
+is	O
+yelling	O
+out	O
+the	O
+#	O
+OWS	B-Occupy_Wall_Street
+message	O
+being	O
+chanted	O
+.	O
+"	O
+I	O
+feel	O
+like	O
+I	O
+m	O
+in	O
+church	O
+"	O
+he	O
+laughs	O
+
+-DOCSTART-
+
+# tweet_id=78
+Enjoying	O
+this	O
+snowy	O
+night	O
+in	O
+New	B-New_York_City
+York	I-New_York_City
+City	I-New_York_City
+while	O
+listening	O
+to	O
+some	O
+Adele	B-Adele
+&	O
+lt	O
+;	O
+
+-DOCSTART-
+
+# tweet_id=79
+QA	O
+Automation	O
+Engineer	O
+(	O
+#	O
+SanFrancisco	B-San_Francisco
+,	O
+CA	B-California
+)	O
+#	O
+HRIJobs	O
+#	O
+Sales	O
+#	O
+Jobs	O
+#	O
+Job	O
+
+-DOCSTART-
+
+# tweet_id=80
+Watching	O
+some	O
+Monday	B-Monday
+night	O
+football	O
+!	O
+!	O
+!	O
+(	O
+@	O
+Buffalo	B-Buffalo_Wild_Wings
+Wild	I-Buffalo_Wild_Wings
+Wings	I-Buffalo_Wild_Wings
+)	O
+
+-DOCSTART-
+
+# tweet_id=81
+Jus	O
+listen	O
+to	O
+Beyonce	B-Beyoncé
+whole	O
+album	O
+in	O
+like	O
+mins	O
+to	O
+SHORT	O
+
+-DOCSTART-
+
+# tweet_id=82
+getting	O
+ready	O
+for	O
+some	O
+good	O
+jazz	O
+music	O
+(	O
+@	O
+House	B-House_of_Blues
+of	I-House_of_Blues
+Blues	I-House_of_Blues
+w/	O
+@denverleonard	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=84
+Kassidy	O
+and	O
+Yaya	O
+.	O
+:-)	O
+(	O
+@	O
+Atlantic	O
+Station	O
+Arch	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=85
+POKO	O
+wins	O
+!	O
+!	O
+(	O
+@	O
+NYC	B-NYC_Social_Sports_Club
+Social	I-NYC_Social_Sports_Club
+Sports	I-NYC_Social_Sports_Club
+Club	I-NYC_Social_Sports_Club
+-	O
+Village	O
+Pourhouse	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=86
+FAIR	O
+.	O
+tasting	O
+this	O
+afternoon	O
+(	O
+@	O
+Whole	B-Whole_Foods_Market
+Foods	I-Whole_Foods_Market
+Market	I-Whole_Foods_Market
+)	O
+
+-DOCSTART-
+
+# tweet_id=87
+@LouisCK	O
+about	O
+to	O
+take	O
+stage	O
+at	O
+Beacon	B-Beacon_Theatre_(New_York_City)
+Theater	I-Beacon_Theatre_(New_York_City)
+!	O
+(	O
+@	O
+Beacon	B-Beacon_Theatre_(New_York_City)
+Theatre	I-Beacon_Theatre_(New_York_City)
+w/	O
+others	O
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=88
+Blackberry	B-BlackBerry_OS
+app	O
+world	O
+finally	O
+got	O
+a	O
+face	O
+lift	O
+
+-DOCSTART-
+
+# tweet_id=89
+Back	O
+to	O
+work	O
+after	O
+an	O
+awesome	O
+weekend	O
+off	O
+(	O
+@	O
+Panera	B-Panera_Bread
+Bread	I-Panera_Bread
+)	O
+
+-DOCSTART-
+
+# tweet_id=90
+@MissCaliJay	O
+buckeye	O
+an	O
+hour	O
+west	O
+of	O
+Phoenix	B-Phoenix,_Arizona
+
+-DOCSTART-
+
+# tweet_id=91
+I	O
+spent	O
+$	O
+in	O
+Morgantown	B-Morgantown,_West_Virginia
+,	O
+WV	B-West_Virginia
+this	O
+weekend	O
+,	O
+which	O
+is	O
+like	O
+a	O
+West	O
+Virginians	O
+yearly	O
+income	O
+.	O
+You	O
+re	O
+welcome	O
+for	O
+the	O
+stimulus	O
+package	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=92
+At	O
+the	O
+Hilton	O
+Regional	O
+Owner	O
+Conference	O
+:	O
+Hampton	B-Hampton_by_Hilton
+Inn	I-Hampton_by_Hilton
+&	I-Hampton_by_Hilton
+Suites	I-Hampton_by_Hilton
+,	O
+Sacramento	B-Sacramento,_California
+
+-DOCSTART-
+
+# tweet_id=93
+I	O
+think	O
+Kelly	B-Kelly_Clarkson
+Clarkson	I-Kelly_Clarkson
+is	O
+a	O
+lesbian	O
+.	O
+All	O
+her	O
+songs	O
+are	O
+about	O
+hating	O
+men	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=94
+Wayne	B-Wayne_Rooney
+Rooney	I-Wayne_Rooney
+has	O
+nothing	O
+on	O
+David	B-David_Villa
+Villa	I-David_Villa
+...	O
+Unbelievable	O
+free	O
+kick	O
+for	O
+a	O
+goal	O
+.	O
+#	O
+latetweet	O
+
+-DOCSTART-
+
+# tweet_id=95
+The	O
+horror	O
+is	O
+back	O
+and	O
+improved	O
+for	O
+Halloween	B-Halloween
+...	O
+always	O
+fun	O
+in	O
+Mountain	B-Mountain_View,_California
+View	I-Mountain_View,_California
+!	O
+–	O
+at	O
+DC	O
+Cemetery	O
+
+-DOCSTART-
+
+# tweet_id=96
+@BOOMERESIASON	O
+I	O
+hate	O
+Omar	O
+from	O
+Brooklyn	B-Brooklyn
+.	O
+
+-DOCSTART-
+
+# tweet_id=97
+Boats	O
+!	O
+(	O
+@	O
+Dewey	B-Dewey_Beach,_Delaware
+Beach	I-Dewey_Beach,_Delaware
+!	O
+w/	O
+others	O
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=98
+so	O
+proud	O
+of	O
+LA	B-Los_Angeles
+;)	O
+“	O
+@WWLTV	O
+:	O
+Video	O
+:	O
+Stompers	O
+at	O
+Macys	B-Macy's_Thanksgiving_Day_Parade
+Thanksgiving	I-Macy's_Thanksgiving_Day_Parade
+Day	I-Macy's_Thanksgiving_Day_Parade
+parade	I-Macy's_Thanksgiving_Day_Parade
+”	O
+
+-DOCSTART-
+
+# tweet_id=99
+bieber	B-Justin_Bieber
+yeahhh	O
+,	O
+we	O
+love	O
+#	O
+CANADA	B-Canada
+:)	O
+.	O
+Come	O
+to	O
+montreal	B-Montreal
+,	O
+ctober	O
+?	O
+:D	O
+Je	O
+taime	O
+justin	B-Justin_Bieber
+&	O
+lt	O
+;	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=100
+A	O
+foot	O
+next	O
+to	O
+Katharine	B-Katharine_McPhee
+McPhee	I-Katharine_McPhee
+.	O
+My	O
+idol	O
+moment	O
+finally	O
+complete	O
+.	O
+(	O
+@	O
+Cafe	O
+Cluny	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=101
+Everyone	O
+follow	O
+@locopeztacos	O
+.	O
+Best	O
+food	O
+in	O
+Philadelphia	B-Philadelphia
+!	O
+
+-DOCSTART-
+
+# tweet_id=102
+In	O
+my	O
+bunk	O
+enjoying	O
+a	O
+movie	O
+.	O
+Sleep	O
+soon	O
+so	O
+I	O
+can	O
+drive	O
+to	O
+Seattle	B-Seattle
+early	O
+...	O
+@	O
+Portland	B-Portland,_Oregon
+,	O
+OR	B-Oregon
+
+-DOCSTART-
+
+# tweet_id=103
+War	B-War_Memorial_Stadium_(Arkansas)
+Memorial	I-War_Memorial_Stadium_(Arkansas)
+Stadium	I-War_Memorial_Stadium_(Arkansas)
+looks	O
+amazing	O
+tonight	O
+!	O
+Go	O
+Hogs	O
+!	O
+!	O
+!	O
+#	O
+WPS	O
+#	O
+Razorbacks	O
+
+-DOCSTART-
+
+# tweet_id=104
+Ryan	B-Ryan_Adams
+Adams	I-Ryan_Adams
+Heartbreaker	B-Heartbreaker
+album	O
+on	O
+...	O
+Yes	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=105
+On	O
+the	O
+way	O
+back	O
+to	O
+Durham	B-Durham,_England
+
+-DOCSTART-
+
+# tweet_id=106
+That	O
+Old	B-Old_Navy
+Navy	I-Old_Navy
+commercial	O
+is	O
+so	O
+damn	O
+#	O
+STUPID	O
+
+-DOCSTART-
+
+# tweet_id=107
+Duran	B-Duran_Duran
+Duran	I-Duran_Duran
+Concert	O
+(	O
+@	O
+Nokia	B-Microsoft_Theater
+Theatre	I-Microsoft_Theater
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=108
+Just	O
+posted	O
+a	O
+photo	O
+@	O
+Charlotte	B-Charlotte_Douglas_International_Airport
+-	I-Charlotte_Douglas_International_Airport
+Douglas	I-Charlotte_Douglas_International_Airport
+International	I-Charlotte_Douglas_International_Airport
+Airport	I-Charlotte_Douglas_International_Airport
+(	O
+CLT	B-Charlotte_Douglas_International_Airport
+)	O
+
+-DOCSTART-
+
+# tweet_id=109
+This	O
+nigga	O
+had	O
+me	O
+thinking	O
+I	O
+was	O
+going	O
+to	O
+Long	B-Long_Beach,_California
+Beach	I-Long_Beach,_California
+tonite	O
+...	O
+Had	O
+a	O
+nigga	O
+all	O
+dressed	O
+up	O
+and	O
+shit	O
+...	O
+I	O
+hate	O
+flakes	O
+
+-DOCSTART-
+
+# tweet_id=110
+Maybe	O
+ill	O
+kick	O
+it	O
+one	O
+last	O
+night	O
+in	O
+Ohio	B-Ohio
+
+-DOCSTART-
+
+# tweet_id=111
+Chai	O
+Latte	O
+to	O
+get	O
+me	O
+home	O
+!	O
+(	O
+@	O
+Starbucks	B-Starbucks
+)	O
+
+-DOCSTART-
+
+# tweet_id=112
+The	O
+Sis	O
+and	O
+the	O
+Dunnys	O
+@	O
+The	B-Cosmopolitan_of_Las_Vegas
+Cosmopolitan	I-Cosmopolitan_of_Las_Vegas
+of	I-Cosmopolitan_of_Las_Vegas
+Las	I-Cosmopolitan_of_Las_Vegas
+Vegas	I-Cosmopolitan_of_Las_Vegas
+
+-DOCSTART-
+
+# tweet_id=113
+Watching	O
+"	O
+The	B-The_King_of_Queens
+King	I-The_King_of_Queens
+of	I-The_King_of_Queens
+Queens	I-The_King_of_Queens
+"	O
+gettin	O
+weak	O
+haha	O
+
+-DOCSTART-
+
+# tweet_id=114
+@Showtime_Guard	O
+u	O
+got	O
+that	O
+done	O
+in	O
+Texas	B-Texas
+?	O
+
+-DOCSTART-
+
+# tweet_id=115
+@JessicaFackler	O
+//	O
+I	O
+bet	O
+they	O
+have	O
+perms	O
+in	O
+Michigan	B-Michigan
+.	O
+#	O
+justsayin	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=116
+@BIEBERINLA	O
+cuz	O
+Janice	O
+what	O
+to	O
+eat	O
+filipino	B-Filipino
+food	O
+so	O
+we	O
+love	O
+to	O
+eat	O
+Filipino	B-Filipino
+food	O
+
+-DOCSTART-
+
+# tweet_id=117
+Mole	O
+Poblano	O
+@Javiers	O
+#	O
+Dallas	B-Dallas
+#	O
+addicted	O
+
+-DOCSTART-
+
+# tweet_id=118
+DMb	B-Dave_Matthews_Band_Caravan
+caravan	I-Dave_Matthews_Band_Caravan
+.	O
+Pics	O
+of	O
+"	O
+the	O
+reverend	O
+"	O
+to	O
+follow	O
+...	O
+(	O
+@	O
+Randalls	B-Randalls_and_Wards_Islands
+Island	I-Randalls_and_Wards_Islands
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=119
+currently	O
+at	O
+the	O
+best	O
+thing	O
+about	O
+Florida	B-Florida
+...	O
+Steak	B-Steak_'n_Shake
+n	I-Steak_'n_Shake
+Shake	I-Steak_'n_Shake
+!	O
+!	O
+:)	O
+
+-DOCSTART-
+
+# tweet_id=120
+@brianjohnsonM	O
+I	O
+just	O
+bought	O
+it	O
+on	O
+eBay	B-EBay
+:	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=121
+Found	O
+out	O
+Bon	B-Bon_Iver
+Iver	I-Bon_Iver
+is	O
+in	O
+Council	B-Council_Bluffs,_Iowa
+Bluffs	I-Council_Bluffs,_Iowa
+on	O
+the	O
+th	O
+.	O
+I	O
+need	O
+to	O
+look	O
+into	O
+these	O
+things	O
+more	O
+in	O
+advance	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=122
+#	O
+transamerica	O
+#	O
+pyramid	O
+#	O
+transamericapyramid	O
+#	O
+sfo	O
+#	O
+sanfrancisco	B-San_Francisco
+#	O
+california	B-California
+#	O
+usa	O
+#	O
+us	O
+#	O
+unit	O
+@	O
+Transamerica	B-Transamerica_Pyramid
+Pyramid	I-Transamerica_Pyramid
+
+-DOCSTART-
+
+# tweet_id=123
+Good	O
+morning	O
+.	O
+Been	O
+up	O
+and	O
+driving	O
+hours	O
+already	O
+.	O
+Less	O
+than	O
+miles	O
+from	O
+home	O
+...	O
+@	O
+Cedar	B-Cedar_City,_Utah
+City	I-Cedar_City,_Utah
+,	O
+UT	B-Utah
+
+-DOCSTART-
+
+# tweet_id=124
+Wow	O
+FIFA	B-FIFA
+bout	O
+to	O
+be	O
+sick	O
+
+-DOCSTART-
+
+# tweet_id=125
+Child	O
+Abduction	O
+Emergency	O
+issued	O
+for	O
+Chicago	B-Chicago
+,	O
+IL	B-Illinois
+
+-DOCSTART-
+
+# tweet_id=126
+@I_AM_HOTROD	O
+when	O
+and	O
+where	O
+did	O
+you	O
+go	O
+to	O
+Canada	B-Canada
+?	O
+?	O
+Go	O
+to	O
+Montreal	B-Montreal
+you	O
+re	O
+so	O
+Hot	O
+
+-DOCSTART-
+
+# tweet_id=127
+Damn	O
+it	O
+,	O
+back	O
+to	O
+Boston	B-Boston
+.	O
+Ill	O
+miss	O
+you	O
+NYC	B-New_York_City
+.	O
+
+-DOCSTART-
+
+# tweet_id=128
+My	O
+view	O
+outside	O
+the	O
+cabin	O
+...	O
+just	O
+breathtaking	O
+@	O
+Big	B-Big_Bear_Lake,_California
+Bear	I-Big_Bear_Lake,_California
+Lake	I-Big_Bear_Lake,_California
+,	O
+CA	B-California
+
+-DOCSTART-
+
+# tweet_id=129
+My	O
+favorite	O
+buffet	O
+!	O
+(	O
+@	O
+Golden	B-Golden_Corral
+Corral	I-Golden_Corral
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=130
+Forgot	O
+to	O
+check	O
+in	O
+hell	O
+!	O
+(	O
+@	O
+JP	B-JPMorgan_Chase
+Morgan	I-JPMorgan_Chase
+Chase	I-JPMorgan_Chase
+)	O
+
+-DOCSTART-
+
+# tweet_id=131
+#	O
+CoastToCoast	O
+.	O
+Anaheim	B-Anaheim,_California
+,	O
+California	B-California
+@CodySimpson	O
+#	O
+EveningsInLondon	O
+
+-DOCSTART-
+
+# tweet_id=132
+Coffee	O
+in	O
+the	O
+park	O
+with	O
+Mr	O
+Vonnegut	O
+(	O
+@	O
+Centra	B-Rat_Rock
+Park	I-Rat_Rock
+-	I-Rat_Rock
+The	I-Rat_Rock
+Rocks	I-Rat_Rock
+w/	O
+others	O
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=133
+Hey	O
+!	O
+I	O
+have	O
+an	O
+extra	O
+ticket	O
+for	O
+Wilco	B-Wilco
+at	O
+Merriweather	B-Merriweather_Post_Pavilion
+Post	I-Merriweather_Post_Pavilion
+Pavillion	I-Merriweather_Post_Pavilion
+on	O
+Sunday	O
+.	O
+Who	O
+wants	O
+it	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=134
+Niggas	O
+hatin	O
+on	O
+Maryland	B-Maryland
+uniforms	O
+,	O
+I	O
+think	O
+them	O
+hoes	O
+nice	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=135
+Nuthin	O
+better	O
+to	O
+do	O
+...	O
+hope	O
+USC	B-USC_Trojans_football
+ai	O
+nt	O
+lame	O
+tho	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=136
+@JoshLevine	O
+Bradley	B-Bradley_Cooper
+Cooper	I-Bradley_Cooper
+was	O
+in	O
+Philly	B-Philadelphia
+tonight	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=137
+Christmas	B-Christmas
+in	O
+Hell	O
+&	O
+gt	O
+;	O
+Christmas	B-Christmas
+in	O
+El	B-El_Paso,_Texas
+Paso	I-El_Paso,_Texas
+
+-DOCSTART-
+
+# tweet_id=138
+Trent	B-Trent_Richardson
+Richardson	I-Trent_Richardson
+is	O
+embarrassin	O
+UF	B-Florida_Gators_football
+
+-DOCSTART-
+
+# tweet_id=139
+Come	O
+on	O
+down	O
+to	O
+the	O
+Bank	B-Bank_of_America
+of	I-Bank_of_America
+America	I-Bank_of_America
+building	O
+.	O
+Measure	O
+J	O
+rally	O
+!	O
+Lets	O
+put	O
+Palm	B-Palm_Springs,_California
+Springs	I-Palm_Springs,_California
+back	O
+to	O
+work	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=140
+Nothing	O
+like	O
+Starbucks	B-Starbucks
+to	O
+start	O
+my	O
+morning	O
+
+-DOCSTART-
+
+# tweet_id=141
+@Sexyb	O
+yea	O
+I	O
+just	O
+got	O
+back	O
+from	O
+Chicago	B-Chicago
+I	O
+was	O
+in	O
+phoniex	B-Phoenix
+weeks	O
+before	O
+that	O
+...	O
+I	O
+going	O
+to	O
+Vegas	B-Las_Vegas
+and	O
+la	B-Los_Angeles
+in	O
+feburary	O
+
+-DOCSTART-
+
+# tweet_id=142
+Yeah	O
+TERPS	B-Maryland_Terrapins_football
+lets	O
+go	O
+.	O
+(	O
+@	O
+Capital	B-SECU_Stadium
+One	I-SECU_Stadium
+Field	I-SECU_Stadium
+at	I-SECU_Stadium
+Byrd	I-SECU_Stadium
+Stadium	I-SECU_Stadium
+for	O
+WVU	B-West_Virginia_Mountaineers_football
+vs	O
+MD	B-Maryland_Terrapins_football
+w/	O
+others	O
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=143
+Haha	O
+!	O
+That	O
+Arkham	B-Batman:_Arkham_City
+City	I-Batman:_Arkham_City
+big	O
+head	O
+mode	O
+is	O
+hilarious	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=144
+ready	O
+for	O
+this	O
+upcoming	O
+Atlanta	B-Atlanta
+trip	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=145
+We	O
+are	O
+at	O
+the	O
+Food	O
+,	O
+Fiber	O
+&	O
+Energy	O
+Fest	O
+@	O
+ledgeview	O
+nature	O
+center	O
+in	O
+Chilton	B-Chilton,_Wisconsin
+.	O
+Tons	O
+of	O
+great	O
+exhibits	O
+&	O
+producers	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=146
+ABC	B-ABC_News
+News	I-ABC_News
+:	O
+Breaking	O
+:	O
+Plane	O
+Reportedly	O
+Crashes	O
+Into	O
+Superstition	B-Superstition_Mountains
+Mountains	I-Superstition_Mountains
+Near	O
+Phoenix	B-Phoenix,_Arizona
+,	O
+Ariz.	B-Arizona
+”	O
+this	O
+is	O
+why	O
+I	O
+m	O
+scrd	O
+of	O
+flyn	O
+
+-DOCSTART-
+
+# tweet_id=147
+Parking	O
+before	O
+the	O
+show	O
+.	O
+I	O
+m	O
+totally	O
+gon	O
+na	O
+see	O
+WICKED	O
+!	O
+Again	O
+.	O
+(	O
+@	O
+Nashville	B-Nashville_Public_Library
+Public	I-Nashville_Public_Library
+Library	I-Nashville_Public_Library
+)	O
+
+-DOCSTART-
+
+# tweet_id=148
+Now	O
+to	O
+the	O
+San	B-Feast_of_San_Gennaro
+Gennaro	I-Feast_of_San_Gennaro
+in	O
+Little	B-Little_Italy,_Manhattan
+Italy	I-Little_Italy,_Manhattan
+!	O
+(	O
+@	O
+Times	B-Times_Square
+Square	I-Times_Square
+New	I-Times_Square
+York	I-Times_Square
+)	O
+
+-DOCSTART-
+
+# tweet_id=149
+Holly	B-Holly_Madison
+Madison	I-Holly_Madison
+is	O
+literally	O
+the	O
+only	O
+mainstream	O
+celebrity	O
+i	O
+havnt	O
+unfollowed	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=150
+Ben	O
+Savage	O
+Lol	O
+.	O
+I	O
+hope	O
+you	O
+enjoyed	O
+your	O
+visit	O
+to	O
+Virginia	B-Virginia
+!	O
+The	O
+weather	O
+was	O
+beautiful	O
+:)	O
+
+-DOCSTART-
+
+# tweet_id=151
+Not	O
+sure	O
+what	O
+s	O
+more	O
+depressing	O
+,	O
+that	O
+I	O
+m	O
+watching	O
+Piranha	B-Piranha
+or	O
+that	O
+I	O
+m	O
+allowing	O
+my	O
+kids	O
+to	O
+watch	O
+Piranha	B-Piranha
+.	O
+
+-DOCSTART-
+
+# tweet_id=152
+Geek	B-Geek_Charming
+Charming	I-Geek_Charming
+is	O
+probably	O
+my	O
+new	O
+favorite	O
+movie	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=153
+Denise	O
+Boylan	O
+I	O
+leave	O
+this	O
+upcoming	O
+monday	B-Monday
+!	O
+Mallory	O
+invited	O
+me	O
+:)	O
+#	O
+dzloveonthewestcoast	O
+
+-DOCSTART-
+
+# tweet_id=154
+Snoopy	B-Snoopy
+band	O
+aid	O
+beyond	O
+tough	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=155
+Watching	O
+#	O
+snow	O
+from	O
+the	O
+subway	B-New_York_City_Subway
+window	O
+,	O
+float	O
+and	O
+crash	O
+and	O
+in	O
+every	O
+direction	O
+make	O
+a	O
+dash	O
+.	O
+#	O
+NYC	B-New_York_City
+#	O
+queens	O
+
+-DOCSTART-
+
+# tweet_id=156
+I	O
+m	O
+at	O
+Burger	B-Burger_King
+King	I-Burger_King
+(	O
+N	O
+Ocean	O
+Ave	O
+,	O
+Farmingville	B-Farmingville,_New_York
+)	O
+
+-DOCSTART-
+
+# tweet_id=157
+What	O
+s	O
+better	O
+shanghai	B-Shanghai
+or	O
+Beijing	B-Beijing
+?	O
+
+-DOCSTART-
+
+# tweet_id=158
+I	O
+want	O
+to	O
+watch	O
+Swiss	B-The_Swiss_Family_Robinson
+Family	I-The_Swiss_Family_Robinson
+Robinson	I-The_Swiss_Family_Robinson
+right	O
+MEOW	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=159
+I	O
+m	O
+at	O
+Animal	O
+House	O
+(	O
+Buffalo	B-Buffalo,_New_York
+,	O
+NY	B-New_York_City
+)	O
+
+-DOCSTART-
+
+# tweet_id=160
+Eeeep	O
+!	O
+“	O
+@msleamichele	O
+:	O
+Just	O
+left	O
+a	O
+screening	O
+of	O
+tonights	O
+episode	O
+of	O
+#	O
+glee	B-Glee_(TV_series)
+and	O
+can	O
+I	O
+just	O
+say-	O
+Probably	O
+one	O
+of	O
+the	O
+best	O
+Glee	B-Glee_(TV_series)
+episodes	O
+EVER	O
+!	O
+”	O
+
+-DOCSTART-
+
+# tweet_id=161
+Molly	O
+this	O
+is	O
+why	O
+i	O
+love	O
+Flickr	B-Flickr
+....	O
+
+-DOCSTART-
+
+# tweet_id=162
+Fresh	O
+coffee	O
+,	O
+Amy	B-Amy_Winehouse
+Winehouse	I-Amy_Winehouse
+and	O
+Norah	B-Norah_Jones
+Jones	I-Norah_Jones
+joining	O
+me	O
+on	O
+my	O
+homework	O
+quest	O
+.	O
+Happy	O
+Tuesday	O
+,	O
+and	O
+thank	O
+you	O
+Starbucks	B-Starbucks
+Coffee	O
+for	O
+the	O
+soundtrack	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=163
+Home	O
+again	O
+!	O
+(	O
+@	O
+Lake	B-Lake_Placid,_New_York
+Placid	I-Lake_Placid,_New_York
+,	O
+New	B-New_York_City
+York	I-New_York_City
+)	O
+
+-DOCSTART-
+
+# tweet_id=164
+Watching	O
+Manchester	B-Manchester_United_F.C.
+United	I-Manchester_United_F.C.
+vs	O
+Chelsea	B-Chelsea_F.C.
+
+-DOCSTART-
+
+# tweet_id=165
+I	O
+m	O
+listening	O
+to	O
+Kelly	B-Kelly_Clarkson
+Clarkson	I-Kelly_Clarkson
+(	O
+others	O
+checked	O
+-	O
+in	O
+)	O
+GetGlue	B-Tvtag
+@kelly_clarkson	O
+
+-DOCSTART-
+
+# tweet_id=166
+RT	B-RT
+Breaking	O
+News	O
+:	O
+Chicago	B-Chicago
+police	O
+officers	O
+among	O
+indicted	O
+on	O
+federal	O
+gang	O
+charges	O
+-	O
+
+-DOCSTART-
+
+# tweet_id=167
+To	O
+NYC	B-New_York_City
+!	O
+(	O
+@	O
+Chicago	B-Midway_International_Airport
+Midway	I-Midway_International_Airport
+International	I-Midway_International_Airport
+Airport	I-Midway_International_Airport
+(	O
+MDW	B-Midway_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=168
+Off	O
+to	O
+Cleveland	B-Cleveland
+via	O
+Charlotte	B-Charlotte,_North_Carolina
+!	O
+(	O
+@	O
+RDU	O-Raleigh–Durham_International_Airport
+-	O
+Gate	O
+D	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=169
+Another	O
+hour	O
+car	O
+ride	O
+with	O
+my	O
+brother	O
+singing	O
+Adele	B-Adele
+to	O
+the	O
+top	O
+of	O
+his	O
+lungs	O
+is	O
+nt	O
+gon	O
+na	O
+cut	O
+it	O
+.	O
+#	O
+stfu	O
+	O
+,	O
+
+-DOCSTART-
+
+# tweet_id=170
+@TheRealKurtHess	O
+are	O
+you	O
+going	O
+to	O
+sing	O
+me	O
+some	O
+Justin	B-Justin_Bieber
+bieber	I-Justin_Bieber
+,	O
+take	O
+my	O
+psych	O
+quiz	O
+,	O
+or	O
+do	O
+both	O
+at	O
+the	O
+same	O
+time	O
+?	O
+#	O
+BestSuperHeroEver	O
+
+-DOCSTART-
+
+# tweet_id=171
+So	O
+cool	O
+Boeing	B-Boeing
+Airplanes	O
+:	O
+Heres	O
+video	O
+of	O
+st	O
+#	O
+ANA	B-All_Nippon_Airways
+taking	O
+off	O
+from	O
+the	O
+Seattle	B-Seattle
+area	O
+abt	O
+.	O
+hours	O
+ago	O
+,	O
+w/	O
+wing	O
+wave	O
+
+-DOCSTART-
+
+# tweet_id=172
+Rebecca	B-Rebecca_Black
+Black	I-Rebecca_Black
+Apperently	O
+JB	B-Justin_Bieber
+is	O
+a	O
+baby	O
+daddy	O
+!	O
+That	O
+s	O
+why	O
+
+-DOCSTART-
+
+# tweet_id=173
+I	O
+ve	O
+had	O
+firework	O
+by	O
+Katy	B-Katy_Perry
+perry	I-Katy_Perry
+in	O
+my	O
+head	O
+all	O
+day	O
+but	O
+now	O
+I	O
+afraid	O
+to	O
+listen	O
+to	O
+it	O
+because	O
+@PatYoWeave	O
+will	O
+hear	O
+and	O
+feel	O
+smug	O
+
+-DOCSTART-
+
+# tweet_id=174
+howie	O
+Soo	O
+sad	O
+I	O
+ca	O
+nt	O
+make	O
+to	O
+HMV	B-HMV
+tonight	O
+in	O
+Toronto	B-Toronto
+!	O
+Ca	O
+nt	O
+wait	O
+to	O
+listen	O
+to	O
+Back	B-Back_to_Me_(Fantasia_album)
+to	I-Back_to_Me_(Fantasia_album)
+Me	I-Back_to_Me_(Fantasia_album)
+after	O
+work	O
+#	O
+ktbspa	O
+
+-DOCSTART-
+
+# tweet_id=175
+I	O
+forgot	O
+to	O
+check	O
+in	O
+yesterday	O
+!	O
+Fail	O
+!	O
+Ahh	O
+well	O
+,	O
+coffee	O
+makes	O
+everything	O
+better	O
+:)	O
+(	O
+@	O
+Tim	B-Tim_Hortons
+Hortons	I-Tim_Hortons
+)	O
+
+-DOCSTART-
+
+# tweet_id=176
+The	O
+more	O
+you	O
+lose	O
+yourself	O
+in	O
+something	O
+bigger	O
+than	O
+yourself	O
+,	O
+the	O
+more	O
+energy	O
+you	O
+will	O
+have	O
+.	O
+Norman	B-Norman_Vincent_Peale
+Vincent	I-Norman_Vincent_Peale
+Peale	I-Norman_Vincent_Peale
+
+-DOCSTART-
+
+# tweet_id=177
+Hey	O
+Chris	B-Chris_Guillebeau
+Guillebeau	I-Chris_Guillebeau
+,	O
+my	O
+friend	O
+just	O
+told	O
+me	O
+about	O
+u	O
+,	O
+now	O
+I	O
+want	O
+read	O
+ur	O
+book	O
+.	O
+I	O
+liv	O
+in	O
+Lib	O
+pt	O
+&	O
+fundraise	O
+pt	O
+.	O
+Ur	O
+life	O
+seems	O
+cool	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=178
+Ellen	B-Ellen_DeGeneres
+DeGeneres	I-Ellen_DeGeneres
+Hav	O
+secs	O
+help	O
+a	O
+child	O
+prostitute	O
+get	O
+school	O
+for	O
+the	O
+st	O
+time	O
+in	O
+Liberia	B-Liberia
+?	O
+Vote	O
+:	O
+#	O
+chasegiving	O
+
+-DOCSTART-
+
+# tweet_id=179
+Heading	O
+to	O
+church	O
+this	O
+AM	O
+!	O
+!	O
+Excited	O
+to	O
+worship	O
+with	O
+Jeremy	B-Jeremy_Bryan
+Bryan	I-Jeremy_Bryan
+!	O
+!	O
+Hope	O
+you	O
+guys	O
+are	O
+worshipping	O
+with	O
+those	O
+you	O
+love	O
+this	O
+AM	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=180
+I	O
+think	O
+its	O
+hilarious	O
+that	O
+I	O
+love	O
+Will	B-Will_Smith
+Smith	I-Will_Smith
+.	O
+
+-DOCSTART-
+
+# tweet_id=181
+#	O
+nowplaying	O
+♪	O
+P.S.	O
+(	O
+I	O
+m	O
+Still	O
+Not	O
+Over	O
+You	O
+)	O
+by	O
+Rihanna	B-Rihanna
+
+-DOCSTART-
+
+# tweet_id=182
+Fashion	O
+show	O
+Milwaukee	B-Milwaukee
+style	O
+.	O
+(	O
+@	O
+Milwaukee	B-Milwaukee_Art_Museum
+Art	I-Milwaukee_Art_Museum
+Museum	I-Milwaukee_Art_Museum
+for	O
+Runup	O
+to	O
+the	O
+Runway	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=183
+ti	O
+status	O
+.	O
+Brooklyn	B-Brooklyn
+bound	O
+(	O
+@	O
+Columbia	B-Columbia_University
+University	I-Columbia_University
+:	O
+Graduate	B-Columbia_University_Graduate_School_of_Journalism
+School	I-Columbia_University_Graduate_School_of_Journalism
+of	I-Columbia_University_Graduate_School_of_Journalism
+Journalism	I-Columbia_University_Graduate_School_of_Journalism
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=184
+Breaking	O
+News	O
+:	O
+UEFA	B-UEFA_Champions_League
+bans	O
+England	B-England
+forward	O
+Wayne	B-Wayne_Rooney
+Rooney	I-Wayne_Rooney
+for	O
+European	B-European_Championship
+Championship	I-European_Championship
+matches	O
+-	O
+APhehehe	O
+
+-DOCSTART-
+
+# tweet_id=185
+Victoria	B-Victoria_Justice
+Justice	I-Victoria_Justice
+all	B-All_I_Want_Is_Everything
+I	I-All_I_Want_Is_Everything
+want	I-All_I_Want_Is_Everything
+is	I-All_I_Want_Is_Everything
+everything	I-All_I_Want_Is_Everything
+
+-DOCSTART-
+
+# tweet_id=186
+Laurie	B-Laurie_Anderson
+Anderson	I-Laurie_Anderson
+in	O
+conversation	O
+w/	O
+Martha	O
+Lavey	O
+(	O
+@	O
+Chicago	B-Chicago_Humanities_Festival
+Humanities	I-Chicago_Humanities_Festival
+Festival	I-Chicago_Humanities_Festival
+@	O
+Francis	B-Francis_W._Parker_School_(Chicago)
+W.	I-Francis_W._Parker_School_(Chicago)
+Parker	I-Francis_W._Parker_School_(Chicago)
+School	I-Francis_W._Parker_School_(Chicago)
+)	O
+
+-DOCSTART-
+
+# tweet_id=187
+Its	O
+times	O
+like	O
+these	O
+when	O
+I	O
+wish	O
+I	O
+had	O
+more	O
+friends	O
+in	O
+Charlotte	B-Charlotte,_North_Carolina
+.	O
+And	O
+its	O
+raining	O
+...	O
+peachy	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=188
+Kris	B-Kris_Humphries
+Humphries	I-Kris_Humphries
+:	O
+are	O
+you	O
+excited	O
+about	O
+getting	O
+married	O
+?	O
+Kim	B-Kim_Kardashian
+Kardashian	I-Kim_Kardashian
+:	O
+totes	O
+.	O
+#	O
+hilarious	O
+#	O
+soundslikeme	O
+
+-DOCSTART-
+
+# tweet_id=189
+Fuck	O
+alllll	O
+who	O
+met	O
+Mac	B-Mac_(rapper)
+tonight	O
+#	O
+sooooojealous	O
+
+-DOCSTART-
+
+# tweet_id=190
+Line	O
+out	O
+the	O
+door	O
+at	O
+Chipotle	B-Chipotle_Mexican_Grill
+for	O
+a	O
+straight	O
+hour	O
+now	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=191
+I	O
+get	O
+fucking	O
+livid	O
+when	O
+people	O
+who	O
+know	O
+nothing	O
+about	O
+Soccer	B-Association_football
+say	O
+to	O
+me	O
+that	O
+Rooney	B-Wayne_Rooney
+is	O
+better	O
+than	O
+Messi	B-Lionel_Messi
+.	O
+#	O
+whatajoke	O
+#	O
+theonlyplayeryouknow	O
+
+-DOCSTART-
+
+# tweet_id=192
+Third	O
+time	O
+today	O
+.	O
+(	O
+@	O
+Westin	B-Westin_Building
+Building	I-Westin_Building
+)	O
+
+-DOCSTART-
+
+# tweet_id=193
+#	O
+gigem	O
+(	O
+@	O
+Kyle	B-Kyle_Field
+Field	I-Kyle_Field
+for	O
+Kansas	B-Kansas_Jayhawks_football
+Jayhawks	I-Kansas_Jayhawks_football
+vs.	O
+Texas	B-Texas_A&M_Aggies_football
+A&M	I-Texas_A&M_Aggies_football
+Aggies	I-Texas_A&M_Aggies_football
+w/	O
+@jcpalmer	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=194
+I	O
+m	O
+at	O
+Bradford	B-Bradford_Academy
+Academy	I-Bradford_Academy
+(	O
+Garner	O
+,	O
+Telegraph	B-Telegraph_Avenue
+,	O
+Oakland	B-Oakland,_California
+)	O
+
+-DOCSTART-
+
+# tweet_id=195
+Cake	O
+flour	O
+bakery	O
+is	O
+on	O
+Food	B-Food_Network
+Network	I-Food_Network
+!	O
+#	O
+Louisville	B-Louisville,_Kentucky
+
+-DOCSTART-
+
+# tweet_id=196
+Watching	O
+my	O
+MacBook	B-MacBook_Pro
+Pro	I-MacBook_Pro
+,	O
+iPad	B-IPad
+,	O
+and	O
+iPhone	B-IPhone
+sync	O
+wirelessly	O
+in	O
+via	O
+iCloud	B-ICloud
+.	O
+I	O
+know	O
+Apple	B-Apple_Inc.
+was	O
+behind	O
+on	O
+this	O
+,	O
+but	O
+still	O
+so	O
+cool	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=197
+Visiting	O
+Mama	O
+and	O
+Papa	O
+!	O
+!	O
+(	O
+@	O
+Ripley	B-Ripley
+,	O
+WV	B-West_Virginia
+)	O
+
+-DOCSTART-
+
+# tweet_id=198
+Miami	B-Miami
+is	O
+colder	O
+than	O
+Gainesville	B-Gainesville,_Florida
+#	O
+wat	O
+
+-DOCSTART-
+
+# tweet_id=199
+All	O
+this	O
+Joe	B-Joe_Paterno
+Paterno	I-Joe_Paterno
+shit	O
+goin	O
+on	O
+my	O
+mom	O
+over	O
+talkin	O
+about	O
+all	O
+the	O
+football	O
+players	O
+she	O
+used	O
+date	O
+when	O
+she	O
+went	O
+to	O
+penn	B-Pennsylvania_State_University
+state	I-Pennsylvania_State_University
+-_-	O
+lmao	O
+
+-DOCSTART-
+
+# tweet_id=200
+Going	O
+to	O
+Port	B-Port_Authority_of_New_York_and_New_Jersey
+Authority	I-Port_Authority_of_New_York_and_New_Jersey
+
+-DOCSTART-
+
+# tweet_id=201
+#	O
+YouKnowWhatIHateTheMost	O
+SNOW	O
+!	O
+Ca	O
+nt	O
+believe	O
+its	O
+snowing	O
+in	O
+Connecticut	B-Connecticut
+,	O
+glad	O
+I	O
+m	O
+in	O
+NC	B-North_Carolina
+
+-DOCSTART-
+
+# tweet_id=202
+Beautifully	O
+designed	O
+Apple	B-Apple_Inc.
+logo	O
+written	O
+into	O
+the	O
+top	O
+of	O
+the	O
+Newsstand	B-Newsstand_(software)
+folder	O
+.	O
+Its	O
+the	O
+little	O
+things	O
+
+-DOCSTART-
+
+# tweet_id=203
+I	O
+canceled	O
+my	O
+rent	O
+-	O
+a	O
+-	O
+car	O
+reservation	O
+and	O
+am	O
+heading	O
+for	O
+the	O
+downtown	O
+of	O
+Seattle	B-Seattle
+by	O
+train	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=204
+@graviora_manent	O
+Wait	O
+a	O
+second	O
+,	O
+does	O
+Nebraska	B-Nebraska
+even	O
+have	O
+people	O
+living	O
+there	O
+?	O
+!	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=205
+We	O
+made	O
+it	O
+guys	O
+!	O
+Onto	O
+Florida	B-Florida
+.	O
+FYI	O
+the	O
+Denver	B-Denver
+rain	O
+has	O
+begun	O
+.	O
+Hoping	O
+the	O
+snow	O
+starts	O
+after	O
+all	O
+MBTers	O
+depart	O
+morz	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=206
+Yes	O
+,	O
+I	O
+d	O
+love	O
+to	O
+donate	O
+to	O
+Greenpeace	B-Greenpeace
+.	O
+Unfortunately	O
+,	O
+I	O
+m	O
+a	O
+college	O
+student	O
+that	O
+still	O
+relies	O
+on	O
+my	O
+parents	O
+income	O
+.	O
+Ask	O
+me	O
+in	O
+years	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=207
+@RyanBohac	O
+can	O
+get	O
+a	O
+spray	O
+at	O
+Walgreens	B-Walgreens
+where	O
+you	O
+spray	O
+it	O
+up	O
+one	O
+nostril	O
+and	O
+it	O
+goes	O
+all	O
+the	O
+way	O
+up	O
+your	O
+sinuses	O
+and	O
+comes	O
+out	O
+the	O
+other	O
+
+-DOCSTART-
+
+# tweet_id=208
+Cool	O
+,	O
+Honda	B-Honda
+.	O
+Just	O
+break	O
+on	O
+me	O
+right	O
+now	O
+at	O
+my	O
+most	O
+broke	O
+point	O
+in	O
+my	O
+life	O
+.	O
+Any	O
+manly	O
+man	O
+know	O
+how	O
+to	O
+fix	O
+a	O
+car	O
+in	O
+sru	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=209
+Got	O
+a	O
+meeting	O
+with	O
+a	O
+chiropractor	O
+in	O
+Beverly	B-Beverly_Hills,_California
+Hills	I-Beverly_Hills,_California
+.	O
+Hoping	O
+to	O
+find	O
+a	O
+LA	B-Los_Angeles
+home	O
+for	O
+my	O
+nutrition	O
+program	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=210
+Taking	O
+a	O
+work	O
+call	O
+in	O
+Office	B-The_ODP_Corporation
+Depot	I-The_ODP_Corporation
+sitting	O
+at	O
+a	O
+nice	O
+desk	O
+.	O
+Ha	O
+!	O
+New	O
+definition	O
+of	O
+home	O
+office	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=211
+Ok	O
+,	O
+so	O
+I	O
+would	O
+like	O
+to	O
+talk	O
+about	O
+how	O
+absolutely	O
+freaking	O
+adorable	O
+Adam	B-Adam_Pascal
+Pascal	I-Adam_Pascal
+looks	O
+in	O
+this	O
+photo	O
+.	O
+@MemphisBroadway	O
+
+-DOCSTART-
+
+# tweet_id=212
+After	O
+hrs	O
+of	O
+studying	O
+/	O
+tweeting	O
+.	O
+I	O
+m	O
+going	O
+to	O
+run	O
+,	O
+come	O
+back	O
+and	O
+SLEEEEEEEP	O
+.	O
+Goodnight	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=213
+@martincesare	O
+LOL	O
+could	O
+make	O
+a	O
+bot	O
+
+-DOCSTART-
+
+# tweet_id=214
+Estimated	O
+snow	O
+totals	O
+so	O
+far	O
+from	O
+The	B-The_Weather_Channel
+Weather	I-The_Weather_Channel
+Channel	I-The_Weather_Channel
+
+-DOCSTART-
+
+# tweet_id=215
+@DawsonRob	O
+right	O
+,	O
+he	O
+had	O
+to	O
+win	O
+because	O
+Maryland	B-Maryland_Terrapins_football
+football	O
+has	O
+been	O
+a	O
+superpower	O
+for	O
+the	O
+past	O
+years	O
+
+-DOCSTART-
+
+# tweet_id=216
+Florida	B-Florida_State_Seminoles_football
+-	O
+Alabama	B-Alabama_Crimson_Tide_football
+game	O
+is	O
+real	O
+.	O
+#	O
+chompchomp	O
+
+-DOCSTART-
+
+# tweet_id=217
+FCS	B-NCAA_Division_I
+has	O
+five	O
+wins	O
+over	O
+the	O
+FBS	B-NCAA_Division_I_Football_Bowl_Subdivision
+,	O
+half	O
+of	O
+last	O
+years	O
+total	O
+but	O
+pretty	O
+good	O
+showing	O
+nonetheless	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=218
+@hokieguru	O
+That	O
+NDSU	B-North_Dakota_State_Bison_football
+-	O
+UNI	B-Northern_Iowa_Panthers_football
+game	O
+is	O
+going	O
+to	O
+be	O
+fantastic	O
+.	O
+great	O
+Ds	O
+,	O
+great	O
+running	O
+games	O
+
+-DOCSTART-
+
+# tweet_id=219
+Just	O
+in	O
+case	O
+anyone	O
+forgets	O
+we	O
+are	O
+near	O
+Memphis	B-Memphis,_Tennessee
+.	O
+#	O
+fb	O
+
+-DOCSTART-
+
+# tweet_id=220
+Its	O
+game	O
+time	O
+!	O
+Lets	O
+go	O
+Buffalo	B-Buffalo_Bulls_football
+!	O
+!	O
+Fuck	O
+the	O
+Flyers	B-Dayton_Flyers_football
+:)	O
+#	O
+lordstanley	O
+
+-DOCSTART-
+
+# tweet_id=221
+I	O
+m	O
+at	O
+Southampton	B-Southampton,_Pennsylvania
+-	O
+PA	B-Pennsylvania
+(	O
+nd	O
+St.	O
+Pike	O
+,	O
+Southampton	B-Southampton,_Pennsylvania
+)	O
+
+-DOCSTART-
+
+# tweet_id=222
+Most	O
+beautiful	O
+girl	O
+in	O
+the	O
+world	O
+I	O
+think	O
+is	O
+Natalie	B-Natalie_Portman
+Portman	I-Natalie_Portman
+!	O
+💙	O
+@_Natalieportman	O
+
+-DOCSTART-
+
+# tweet_id=223
+Computer	O
+freezing	O
+much	O
+less	O
+often	O
+.	O
+(	O
+@	O
+Department	B-Department_of_motor_vehicles
+of	I-Department_of_motor_vehicles
+Motor	I-Department_of_motor_vehicles
+Vehicles	I-Department_of_motor_vehicles
+)	O
+
+-DOCSTART-
+
+# tweet_id=224
+Pulling	O
+up	O
+to	O
+taco	B-Taco_Bell
+bell	I-Taco_Bell
+blasting	O
+Norma	B-Norma_Jean_(singer)
+Jean	I-Norma_Jean_(singer)
+#	O
+
+-DOCSTART-
+
+# tweet_id=225
+@XPajarillo	O
+have	O
+you	O
+ever	O
+been	O
+there	O
+?	O
+My	O
+friend	O
+owns	O
+a	O
+little	O
+restaurant	O
+Philippine	B-Philippines
+in	O
+south	O
+Austin	B-Austin,_Texas
+by	O
+my	O
+old	O
+high	O
+school	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=226
+My	O
+wife	O
+convinced	O
+me	O
+that	O
+@alan_tudyk	O
+is	O
+perfect	O
+casting	O
+for	O
+Barry	B-Barry_Allen
+Allen	I-Barry_Allen
+/	O
+The	B-Flash_(DC_Comics_character)
+Flash	I-Flash_(DC_Comics_character)
+.	O
+By	O
+suggesting	O
+it	O
+.	O
+She	O
+s	O
+good	O
+and	O
+smart	O
+and	O
+pretty	O
+.	O
+#	O
+fb	O
+
+-DOCSTART-
+
+# tweet_id=227
+So	O
+uptight	O
+it	O
+almost	O
+makes	O
+me	O
+long	O
+for	O
+the	O
+"	O
+political	O
+correctness	O
+"	O
+of	O
+the	O
+s	O
+:	O
+NBC	B-NBC
+Apologizes	O
+To	O
+Michele	B-Michele_Bachmann
+Bachmann	I-Michele_Bachmann
+-	O
+
+-DOCSTART-
+
+# tweet_id=228
+Tebow	B-Tim_Tebow
+would	O
+ve	O
+won	O
+that	O
+Denver	B-Denver_Broncos
+game	O
+at	O
+Tennessee	B-Tennessee
+.	O
+(	O
+via	O
+@RealSkipBayless	O
+)	O
+/cc	O
+@cheesymac	O
+
+-DOCSTART-
+
+# tweet_id=229
+Sad	O
+to	O
+be	O
+leaving	O
+CO	B-Colombia
+.	O
+Thanks	O
+@jayosea	O
+for	O
+always	O
+making	O
+it	O
+feel	O
+like	O
+home	O
+.	O
+(	O
+@	O
+Denver	B-Denver_International_Airport
+International	I-Denver_International_Airport
+Airport	I-Denver_International_Airport
+(	O
+DEN	B-Denver_International_Airport
+)	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=230
+Kids	O
+just	O
+discovered	O
+#	O
+Skype	B-Skype
+.	O
+We	O
+just	O
+did	O
+a	O
+video	O
+call	O
+from	O
+about	O
+feet	O
+away	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=231
+Sent	O
+my	O
+information	O
+to	O
+the	O
+Art	B-The_Art_Institute_of_Washington
+Institute	I-The_Art_Institute_of_Washington
+on	I-The_Art_Institute_of_Washington
+Washington	I-The_Art_Institute_of_Washington
+this	O
+morning	O
+...	O
+Thinkin	O
+about	O
+sending	O
+my	O
+info	O
+to	O
+Corcoran	B-Corcoran_Gallery_of_Art
+as	O
+well	O
+
+-DOCSTART-
+
+# tweet_id=232
+Old	O
+school	O
+chicken	O
+sandwhich	O
+:-)	O
+(	O
+@	O
+Burger	B-Burger_King
+King	I-Burger_King
+)	O
+
+-DOCSTART-
+
+# tweet_id=233
+IBMs	B-Watson
+Watson	I-Watson
+vs	O
+Harvard	B-Harvard_Business_School
+Business	I-Harvard_Business_School
+School	I-Harvard_Business_School
+and	O
+MIT	B-MIT_Sloan_School_of_Management
+Sloan	I-MIT_Sloan_School_of_Management
+(	O
+@	O
+Burden	B-Harvard_Business_School
+Auditorium	I-Harvard_Business_School
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=234
+There&#;s	O
+zombies	O
+running	O
+through	O
+downtown	O
+Nashville	B-Nashville,_Tennessee
+right	O
+now	O
+for	O
+the	O
+k.	O
+Wish	O
+I	O
+had	O
+signed	O
+up	O
+for	O
+this	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=235
+The	O
+guy	O
+working	O
+the	O
+McDonalds	B-McDonald's
+drive	O
+thru	O
+definitely	O
+judged	O
+me	O
+as	O
+I	O
+was	O
+singing	O
+Defying	B-Defying_Gravity_(song)
+Gravity	I-Defying_Gravity_(song)
+at	O
+the	O
+top	O
+of	O
+my	O
+lungs	O
+.	O
+Live	O
+a	O
+little	O
+,	O
+bro	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=236
+Hahahahahaha	O
+Kohls	O
+remade	O
+the	O
+song	O
+Friday	B-Friday
+into	O
+a	O
+Black	B-Black_Friday_(shopping)
+Friday	I-Black_Friday_(shopping)
+commercial	O
+.	O
+Too	O
+funny	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=237
+Its	O
+Business	O
+Time-	O
+off	O
+to	O
+SF	B-San_Francisco
+!	O
+(	O
+@	O
+McCarran	B-Harry_Reid_International_Airport
+International	I-Harry_Reid_International_Airport
+Airport	I-Harry_Reid_International_Airport
+(	O
+LAS	B-Harry_Reid_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=238
+Mississippi	B-Mississippi_State_Bulldogs_football
+State	I-Mississippi_State_Bulldogs_football
+fans	O
+seem	O
+to	O
+be	O
+taking	O
+over	O
+every	O
+bar	O
+I	O
+walk	O
+past	O
+.	O
+Glad	O
+I	O
+have	O
+nt	O
+heard	O
+any	O
+annoying	O
+cowbells	O
+yet	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=239
+In	O
+front	O
+of	O
+Michelle	B-Michelle_Rodriguez
+Rodriguez	I-Michelle_Rodriguez
+at	O
+YYZ	B-Toronto_Pearson_International_Airport
+,	O
+about	O
+to	O
+tell	O
+her	O
+I	O
+love	O
+Blue	B-Blue_Crush
+Crush	I-Blue_Crush
+...	O
+I	O
+did	O
+nt	O
+
+-DOCSTART-
+
+# tweet_id=240
+@_erykuhhhx	O
+you	O
+re	O
+in	O
+the	O
+OC	B-Orange_County
+?	O
+
+-DOCSTART-
+
+# tweet_id=241
+Goodnight	O
+#	O
+twitter	B-Twitter
+...	O
+see	O
+u	O
+tomorrow	O
+plus	O
+talking	O
+to	O
+my	O
+grandparents	O
+in	O
+the	O
+Philippines	B-Philippines
+:	O
+)	O
+love	O
+em	O
+
+-DOCSTART-
+
+# tweet_id=242
+Dinner	O
+at	O
+my	O
+second	O
+favorite	O
+restaurant	O
+in	O
+Knoxville	B-Knoxville,_Tennessee
+...	O
+#	O
+score	O
+
+-DOCSTART-
+
+# tweet_id=243
+waiting	O
+for	O
+my	O
+wife	O
+(	O
+@	O
+Oakland	B-Oakland_International_Airport
+International	I-Oakland_International_Airport
+Airport	I-Oakland_International_Airport
+(	O
+OAK	B-Oakland_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=244
+@WriteJaxWrite	O
+ok	O
+I	O
+m	O
+doing	O
+my	O
+Verizon	B-Verizon_Communications
+thing	O
+:*	O
+
+-DOCSTART-
+
+# tweet_id=245
+Is	O
+Herman	B-Herman_Cain
+Cain	I-Herman_Cain
+really	O
+running	O
+for	O
+office	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=246
+in	O
+a	O
+John	B-John_Mayer
+Mayer	I-John_Mayer
+mood	O
+this	O
+morning	O
+
+-DOCSTART-
+
+# tweet_id=247
+@ststev	O
+I	O
+thought	O
+they	O
+went	O
+and	O
+printed	O
+different	O
+UK	B-United_Kingdom
+and	O
+USA	B-United_States
+versions	O
+with	O
+different	O
+spellings	O
+,	O
+actually	O
+
+-DOCSTART-
+
+# tweet_id=248
+@LnxPrgr	O
+i	O
+have	O
+never	O
+used	O
+either	O
+a	O
+Twitter	B-Twitter
+or	O
+Facebook	B-Facebook
+native	O
+desktop	O
+OS	B-Operating_system
+app	O
+:	O
+the	O
+website	O
+is	O
+the	O
+whole	O
+thing	O
+,	O
+right	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=249
+Its	O
+impossible	O
+to	O
+not	O
+fall	O
+in	O
+love	O
+with	O
+Manhattan	B-Manhattan
+on	O
+a	O
+night	O
+like	O
+this	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=250
+Alright	O
+.	O
+ESPN	B-ESPN
+not	O
+in	O
+HD	B-High-definition_television
+has	O
+sound	O
+.	O
+HD	B-High-definition_television
+does	O
+nt	O
+.	O
+Boo	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=251
+Pledge	O
+event	O
+(	O
+@	O
+AU	O
+–	O
+Washington	B-Washington_College_of_Law
+College	I-Washington_College_of_Law
+of	I-Washington_College_of_Law
+Law	I-Washington_College_of_Law
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=252
+Love	O
+love	O
+LOVE	O
+Disney	B-The_Walt_Disney_Company
+movies	O
+:))	O
+
+-DOCSTART-
+
+# tweet_id=253
+John	B-John_Elway
+Elway	I-John_Elway
+is	O
+at	O
+the	O
+Baylor	B-Baylor_Bears_football
+game	O
+tonight	O
+!	O
+#	O
+rgtobaylor	O
+
+-DOCSTART-
+
+# tweet_id=254
+Headed	O
+to	O
+Salt	B-Salt_Lake_City
+Lake	I-Salt_Lake_City
+City	I-Salt_Lake_City
+for	O
+the	O
+day	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=255
+Just	O
+thinking	O
+about	O
+last	O
+night	O
+when	O
+@kbrees	O
+said	O
+(	O
+Chase	B-Chase_Bank
+Bank	I-Chase_Bank
+in	O
+the	O
+HOOOOOUSE	O
+)	O
+Inside	O
+joke	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=256
+I	O
+need	O
+some	O
+breakfast	O
+!	O
+What	O
+s	O
+good	O
+around	O
+John	B-John_Wayne_Airport
+Wayne	I-John_Wayne_Airport
+airport	I-John_Wayne_Airport
+?	O
+
+-DOCSTART-
+
+# tweet_id=257
+One	O
+less	O
+question	O
+to	O
+ask	O
+Apple	B-Apple_Inc.
+tomorrow	O
+-	O
+turning	O
+off	O
+most	O
+iCloud	B-ICloud
+services	O
+returned	O
+the	O
+snappiness	O
+of	O
+my	O
+phone	O
+
+-DOCSTART-
+
+# tweet_id=258
+What	O
+s	O
+up	O
+with	O
+the	O
+single	O
+LA	B-Los_Angeles
+women	O
+I	O
+want	O
+to	O
+take	O
+one	O
+out	O
+to	O
+dinner	O
+in	O
+Beverly	B-Beverly_Hills,_California
+hills	I-Beverly_Hills,_California
+any	O
+ladies	O
+down	O
+?	O
+?	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=259
+@ALLsportsINTEL	O
+Franchise	O
+tag	O
+most	O
+likely	O
+on	O
+DeSean	B-DeSean_Jackson
+Jackson	I-DeSean_Jackson
+
+-DOCSTART-
+
+# tweet_id=260
+Post	O
+blackfriday	B-Black_Friday
+day	O
+(	O
+@	O
+Home	B-The_Home_Depot
+Depot	I-The_Home_Depot
+)	O
+
+-DOCSTART-
+
+# tweet_id=261
+Already	O
+loving	O
+this	O
+LSU	B-LSU_Tigers_football
+-	O
+Arkansas	B-Arkansas_Razorbacks_football
+game	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=262
+I	O
+am	O
+Nicki	B-Nicki_Minaj
+Minaj	I-Nicki_Minaj
+,	O
+I	O
+mack	O
+them	O
+dudes	O
+up	O
+,	O
+back	O
+coupes	O
+up	O
+and	O
+chuck	O
+the	O
+deuce	O
+up	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=263
+Taylor	B-Taylor_Swift
+Swift	I-Taylor_Swift
+opened	O
+both	O
+of	O
+her	O
+North	O
+American	O
+tours	O
+(	O
+Fearless	O
+&	O
+Speak	O
+Now	O
+)	O
+in	O
+the	O
+only	O
+states	O
+I	O
+ve	O
+ever	O
+lived	O
+in	O
+:)	O
+she	O
+s	O
+stalking	O
+me	O
+lol	O
+
+-DOCSTART-
+
+# tweet_id=264
+Before	O
+I	O
+die	O
+,	O
+I	O
+want	O
+to	O
+...	O
+(	O
+@	O
+Brooklyn	B-Brooklyn_Law_School
+Law	I-Brooklyn_Law_School
+School	I-Brooklyn_Law_School
+)	O
+
+-DOCSTART-
+
+# tweet_id=265
+Knoxville	B-Knoxville,_Tennessee
+is	O
+a	O
+sketchy	O
+place	O
+
+-DOCSTART-
+
+# tweet_id=266
+Its	O
+nice	O
+to	O
+see	O
+Will	B-Will_Arnett
+Arnett	I-Will_Arnett
+back	O
+on	O
+TV	O
+even	O
+though	O
+its	O
+NBC	B-NBC
+and	O
+NOTHING	O
+is	O
+funny	O
+on	O
+NBC	B-NBC
+
+-DOCSTART-
+
+# tweet_id=267
+Best	O
+steak	O
+I	O
+ve	O
+had	O
+in	O
+years	O
+.	O
+Truly	O
+amazing	O
+.	O
+(	O
+@	O
+Charlie	B-Charlie_Palmer_(chef)
+Palmer	I-Charlie_Palmer_(chef)
+Steak	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=268
+On	O
+second	O
+thought	O
+,	O
+that	O
+Spike	B-Spike_Lee
+Lee	I-Spike_Lee
+(	O
+Old	B-Old_boy
+Boy	I-Old_boy
+)	O
+remake	O
+(	O
+starring	O
+Will	B-Will_Smith
+Smith	I-Will_Smith
+)	O
+could	O
+ve	O
+been	O
+amazing	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=269
+Our	O
+dreams	O
+are	O
+not	O
+independent	O
+from	O
+God	B-Deity
+,	O
+but	O
+instead	O
+exist	O
+because	O
+of	O
+God	B-Deity
+.	O
+-	O
+Bill	O
+Johnson	O
+
+-DOCSTART-
+
+# tweet_id=270
+Were	O
+seeing	O
+a	O
+fair	O
+amount	O
+of	O
+flood	O
+damage	O
+from	O
+Irene	B-Hurricane_Irene
+as	O
+we	O
+drive	O
+through	O
+the	O
+Catskills	B-Catskill_Mountains
+--	O
+the	O
+rivers	O
+are	O
+still	O
+high	O
+and	O
+its	O
+raining	O
+again	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=271
+The	B-The_Haunting
+Haunting	I-The_Haunting
+in	O
+Connecticut	B-Connecticut
+is	O
+the	O
+best	O
+horror	O
+/	O
+thriller	O
+movie	O
+I	O
+ve	O
+seen	O
+in	O
+a	O
+long	O
+time	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=272
+You	O
+know	O
+you	O
+re	O
+back	O
+in	O
+Colorado	B-Colorado
+when	O
+the	O
+prepackaged	O
+bags	O
+are	O
+about	O
+to	O
+pop	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=273
+Lets	O
+get	O
+this	O
+day	O
+over	O
+with	O
+.	O
+Lots	O
+to	O
+do	O
+this	O
+weekend	O
+.	O
+(	O
+@	O
+Dish	B-Dish_Network
+Network	I-Dish_Network
+w/	O
+@danholden	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=274
+Our	O
+friends	O
+Jordan	O
+and	O
+Justin	O
+are	O
+up	O
+on	O
+the	O
+blog	O
+!	O
+Check	O
+out	O
+their	O
+sweet	O
+engagement	O
+session	O
+in	O
+Maryland	B-Maryland
+.	O
+
+-DOCSTART-
+
+# tweet_id=275
+Trying	O
+to	O
+sell	O
+my	O
+Mossimo	B-Mossimo
+from	O
+Target	B-Target_Corporation
+stuff	O
+on	O
+EBay	B-EBay
+.	O
+Not	O
+selling	O
+well	O
+.	O
+should	O
+of	O
+just	O
+bought	O
+high	O
+end	O
+#	O
+Missoni	B-Missoni
+f/	O
+a	O
+lady	O
+in	O
+the	O
+parking	O
+lot	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=276
+Urgent	O
+coffee	O
+need	O
+combined	O
+with	O
+craving	O
+for	O
+sweet	O
+snack	O
+=	O
+Starbucks	B-Starbucks
+run	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=277
+Hungry	O
+but	O
+I	O
+really	O
+do	O
+nt	O
+want	O
+McDonalds	B-McDonald's
+again	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=278
+Picking	O
+up	O
+Michele	B-Michele
+after	O
+two	O
+weeks	O
+visiting	O
+kids	O
+&	O
+grandkids	O
+.	O
+(	O
+@	O
+Spokane	B-Spokane_International_Airport
+International	I-Spokane_International_Airport
+Airport	I-Spokane_International_Airport
+(	O
+GEG	I-Spokane_International_Airport
+)	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=279
+Taking	O
+a	O
+quick	O
+break	O
+before	O
+powering	O
+through	O
+into	O
+Kentucky	B-Kentucky
+/	O
+Tennessee	B-Tennessee
+.	O
+Mountains	O
+are	O
+beautiful	O
+.	O
+(	O
+@	O
+Pilot	B-Pilot_Flying_J
+Travel	I-Pilot_Flying_J
+Center	I-Pilot_Flying_J
+)	O
+
+-DOCSTART-
+
+# tweet_id=280
+I	O
+want	O
+to	O
+marry	O
+Daria	B-Daria_(name)
+
+-DOCSTART-
+
+# tweet_id=281
+Going	O
+to	O
+have	O
+a	O
+Harry	B-Harry_Potter_(character)
+Potter	I-Harry_Potter_(character)
+themed	O
+wedding	O
+.	O
+Dress	O
+will	O
+be	O
+Sirius	B-Sirius_Black
+Black	I-Sirius_Black
+Tie	O
+
+-DOCSTART-
+
+# tweet_id=282
+Words	O
+are	O
+only	O
+painted	O
+fire	O
+;	O
+a	O
+book	O
+is	O
+the	O
+fire	O
+itself	O
+.	O
+Mark	B-Mark_Twain
+Twain	I-Mark_Twain
+
+-DOCSTART-
+
+# tweet_id=283
+Lil	B-Lil_Wayne
+Wayne	I-Lil_Wayne
+looks	O
+like	O
+a	O
+monkey	O
+running	O
+around	O
+with	O
+them	O
+dread	O
+knots	O
+hahaha	O
+
+-DOCSTART-
+
+# tweet_id=284
+Loving	O
+Seattle	B-Seattle
+but	O
+still	O
+missing	O
+home	O
+...	O
+Excited	O
+to	O
+come	O
+back	O
+to	O
+NYC	B-New_York_City
+Thursday	O
+night	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=285
+Where	O
+is	O
+Jessica	B-Jessica_Jones
+Jones	I-Jessica_Jones
+?	O
+(	O
+@	O
+Hooters	B-Hooters
+)	O
+
+-DOCSTART-
+
+# tweet_id=286
+Peter	B-Peter_Bradley_Adams
+Bradley	I-Peter_Bradley_Adams
+Adams	I-Peter_Bradley_Adams
+pandora	O
+radio	O
+station	O
+is	O
+bringin	O
+it	O
+today	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=287
+Back	O
+to	O
+baton	O
+rouge	O
+BOLD	O
+...	O
+home	O
+of	O
+the	O
+#	O
+tigers	O
+!	O
+!	O
+!	O
+:)	O
+(	O
+@	O
+Norfolk	B-Norfolk_International_Airport
+International	I-Norfolk_International_Airport
+Airport	I-Norfolk_International_Airport
+(	O
+ORF	B-Norfolk_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=288
+@VelVelHoller	O
+ahhh	O
+,	O
+my	O
+baby	O
+mother	O
+,	O
+I	O
+can	O
+dream	O
+ca	O
+nt	O
+I	O
+?	O
+You	O
+are	O
+my	O
+favorite	O
+female	O
+wrestler	O
+besides	O
+Angelia	B-Angelina_Love
+love	I-Angelina_Love
+,	O
+Jeff	B-Jeff_Jarrett
+Jarrett	I-Jeff_Jarrett
+did	O
+good	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=289
+Holy	O
+crap	O
+this	O
+Siri	B-Siri
+thing	O
+is	O
+awesome	O
+
+-DOCSTART-
+
+# tweet_id=290
+@cbfowler	O
+Could	O
+have	O
+swore	O
+ISU	B-Iowa_State_Cyclones
+player	O
+tipped	O
+the	O
+ball	O
+not	O
+Blackmon	B-Justin_Blackmon
+.	O
+Regardless	O
+OSU	B-Oklahoma_State_Cowboys_football
+looked	O
+beatable	O
+all	O
+night	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=291
+Jordan	B-Jordan
+w	O
+/	O
+Expedition	B-Expedition_Everest
+Everest	I-Expedition_Everest
+in	O
+background	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=292
+Today	O
+I	O
+was	O
+reminded	O
+of	O
+the	O
+poetry	O
+I	O
+used	O
+to	O
+read	O
+,	O
+the	O
+books	O
+I	O
+left	O
+behind	O
+in	O
+NYC	B-New_York_City
+,	O
+and	O
+...	O
+and	O
+that	O
+I	O
+should	O
+write	O
+more	O
+
+-DOCSTART-
+
+# tweet_id=293
+The	O
+Cowboys	B-Dallas_Cowboys
+might	O
+win	O
+in	O
+spite	O
+of	O
+themselves	O
+.	O
+They	O
+really	O
+are	O
+the	O
+Notre	B-Notre_Dame_Fighting_Irish_football
+Dame	I-Notre_Dame_Fighting_Irish_football
+of	O
+the	O
+NFL	B-National_Football_League
+.	O
+
+-DOCSTART-
+
+# tweet_id=294
+Lets	O
+go	O
+Badgers	B-Wisconsin_Badgers_football
+(	O
+@	O
+TCF	B-Huntington_Bank_Stadium
+Bank	I-Huntington_Bank_Stadium
+Stadium	I-Huntington_Bank_Stadium
+for	O
+Wisconsin	B-Wisconsin_Badgers_football
+Badgers	I-Wisconsin_Badgers_football
+vs.	O
+Minnesota	B-Minnesota_Golden_Gophers_football
+Golden	I-Minnesota_Golden_Gophers_football
+Gophers	I-Minnesota_Golden_Gophers_football
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=295
+Yelp	B-Yelp
+business	O
+sucks	O
+today	O
+,	O
+will	O
+get	O
+worse	O
+as	O
+Foursquare	B-Foursquare_(company)
+,	O
+Google	O
+Local	O
+and	O
+others	O
+take	O
+share	O
+:	O
+.	O
+Too	O
+bad	O
+-	O
+I	O
+love	O
+the	O
+site	O
+
+-DOCSTART-
+
+# tweet_id=296
+Nyjer	B-Nyjer_Morgan
+Morgan	I-Nyjer_Morgan
+makes	O
+Jose	B-José_Reyes_(infielder)
+Reyes	I-José_Reyes_(infielder)
+seem	O
+tolerable	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=297
+@THEnONLYaspenS	O
+yupp	O
+...	O
+Kosuke	B-Kosuke_Fukudome
+Fukodome	I-Kosuke_Fukudome
+,	O
+now	O
+plays	O
+for	O
+Cleveland	B-Cleveland_Guardians
+,	O
+used	O
+to	O
+play	O
+for	O
+Chicago	B-Chicago_Cubs
+,	O
+pretty	O
+solid	O
+young	O
+Japanese	B-Japanese_people
+outfield	O
+
+-DOCSTART-
+
+# tweet_id=298
+hacking	O
+into	O
+the	O
+main	O
+frame	O
+at	O
+Starbucks	B-Starbucks
+with	O
+Jubal	O
+.	O
+Ill	O
+be	O
+back	O
+at	O
+some	O
+point	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=299
+A	O
+family	O
+JUST	O
+came	O
+to	O
+this	O
+Bank	B-Bank_of_America
+of	I-Bank_of_America
+America	I-Bank_of_America
+and	O
+closed	O
+out	O
+her	O
+account	O
+!	O
+She	O
+stopped	O
+by	O
+to	O
+express	O
+her	O
+solidarity	O
+.	O
+#	O
+OccupyPV	O
+
+-DOCSTART-
+
+# tweet_id=300
+@mogrunt	O
+its	O
+a	O
+reference	O
+to	O
+Buffy	B-Buffy_the_Vampire_Slayer
+the	I-Buffy_the_Vampire_Slayer
+Vampire	I-Buffy_the_Vampire_Slayer
+Slayer	I-Buffy_the_Vampire_Slayer
+
+-DOCSTART-
+
+# tweet_id=301
+Watching	O
+classic	O
+comedy	O
+.	O
+Dick	B-Dick_Van_Dyke
+Van	I-Dick_Van_Dyke
+Dyke	I-Dick_Van_Dyke
+show	O
+still	O
+hilarious	O
+!	O
+The	O
+grandfather	O
+to	O
+a	O
+lot	O
+of	O
+todays	O
+successful	O
+shows	O
+.	O
+#	O
+timing	O
+#	O
+pratfalls	O
+
+-DOCSTART-
+
+# tweet_id=302
+AM	O
+at	O
+my	O
+gate	O
+.	O
+Why	O
+am	O
+I	O
+traveling	O
+at	O
+such	O
+an	O
+ungodly	O
+hour	O
+?	O
+(	O
+@	O
+Philadelphia	B-Philadelphia_International_Airport
+International	I-Philadelphia_International_Airport
+Airport	I-Philadelphia_International_Airport
+(	O
+PHL	B-Philadelphia_International_Airport
+)	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=303
+I	O
+got	O
+the	O
+moves	O
+like	O
+Mick	B-Mick_Jagger
+Jagger	I-Mick_Jagger
+
+-DOCSTART-
+
+# tweet_id=304
+Boone	B-Boone,_North_Carolina
+the	O
+first	O
+weekend	O
+of	O
+Oct	O
+,	O
+Harrisonburg	B-Harrisonburg,_Louisiana
+the	O
+last	O
+weekend	O
+of	O
+Oct	O
+,	O
+and	O
+PHX	B-Phoenix
+the	O
+first	O
+weekend	O
+of	O
+Dec.	O
+I	O
+should	O
+just	O
+go	O
+on	O
+tour	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=305
+It	O
+is	O
+a	O
+fine	O
+rainy	O
+Monday	B-Monday
+morning	O
+in	O
+NOLA	B-New_Orleans
+.	O
+#	O
+Humidityville	O
+
+-DOCSTART-
+
+# tweet_id=306
+Lunch	O
+w/@mishastudley	O
+@	O
+California	B-California_Pizza_Kitchen
+Pizza	I-California_Pizza_Kitchen
+Kitchen	I-California_Pizza_Kitchen
+
+-DOCSTART-
+
+# tweet_id=307
+Just	O
+saw	O
+James	B-James_Madison
+Madison	I-James_Madison
+girl	O
+lecturing	O
+freshman	O
+ahhhahahha	O
+
+-DOCSTART-
+
+# tweet_id=308
+I	O
+wanna	O
+live	O
+in	O
+Austin	B-Austin,_Texas
+
+-DOCSTART-
+
+# tweet_id=309
+with	O
+@benweigold	O
+and	O
+@thatkidmelissa	O
+!	O
+so	O
+excited	O
+!	O
+!	O
+!	O
+!	O
+(	O
+@	O
+Turner	B-Turner_Field
+Field	I-Turner_Field
+for	O
+Philadelphia	B-Philadelphia_Phillies
+Phillies	I-Philadelphia_Phillies
+vs.	O
+Atlanta	B-Atlanta_Braves
+Braves	I-Atlanta_Braves
+)	O
+
+-DOCSTART-
+
+# tweet_id=310
+This	O
+new	O
+show	O
+with	O
+Claire	B-Claire_Danes
+Danes	I-Claire_Danes
+is	O
+...	O
+not	O
+good	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=311
+Crazy	O
+lines	O
+(	O
+@	O
+Whole	B-Whole_Foods_Market
+Foods	I-Whole_Foods_Market
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=312
+Going	O
+to	O
+watch	O
+Corpse	B-Corpse_Bride
+Bride	I-Corpse_Bride
+now	O
+and	O
+then	O
+maybe	O
+do	O
+some	O
+writing	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=313
+Kim	B-Kim_Kardashian
+Kardashian	I-Kim_Kardashian
+:	O
+Why	O
+I	O
+Filed	O
+for	O
+Divorce	O
+
+-DOCSTART-
+
+# tweet_id=314
+@BrianMaiden	O
+lol	O
+!	O
+glad	O
+you	O
+re	O
+having	O
+fun	O
+!	O
+I	O
+so	O
+badly	O
+want	O
+to	O
+go	O
+to	O
+Florida	B-Florida
+but	O
+worked	O
+better	O
+for	O
+ppl	O
+to	O
+come	O
+here	O
+.	O
+You	O
+back	O
+soon	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=315
+This	O
+Penn	B-Pennsylvania_State_University
+State	I-Pennsylvania_State_University
+tragedy	O
+is	O
+getting	O
+worse	O
+,	O
+I	O
+posted	O
+to	O
+Facebook	B-Facebook
+that	O
+they	O
+re	O
+investigating	O
+if	O
+Sandusky	B-Jerry_Sandusky
+"	O
+pimped	O
+"	O
+out	O
+kids	O
+to	O
+boosters	O
+
+-DOCSTART-
+
+# tweet_id=316
+I	O
+really	O
+feel	O
+this	O
+Occupy	B-Occupy_movement
+Movement	I-Occupy_movement
+was	O
+a	O
+big	O
+flop	O
+I	O
+think	O
+their	O
+intention	O
+was	O
+good	O
+but	O
+nothing	O
+was	O
+accomplished	O
+but	O
+a	O
+bunch	O
+of	O
+ppl	O
+arrested	O
+
+-DOCSTART-
+
+# tweet_id=317
+Watching	O
+the	O
+last	O
+episode	O
+of	O
+Entourage	B-Entourage
+ever	O
+,	O
+but	O
+on	O
+TV	O
+live	O
+for	O
+the	O
+first	O
+time	O
+#	O
+ironic	O
+
+-DOCSTART-
+
+# tweet_id=318
+Starting	O
+season	O
+,	O
+episode	O
+of	O
+Saturday	B-Saturday_Night_Live
+Night	I-Saturday_Night_Live
+Live	I-Saturday_Night_Live
+.	O
+Let	O
+the	O
+marathon	O
+begin	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=319
+HBO	B-HBO_Go
+Go	I-HBO_Go
+.	O
+My	O
+.	O
+Life	O
+.	O
+Is	O
+.	O
+Over	O
+.	O
+But	O
+.	O
+So	O
+.	O
+Awesome	O
+.	O
+So	O
+.	O
+I.	O
+Do	O
+nt	O
+.	O
+Care	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=320
+Pit	O
+stop	O
+to	O
+Sacramento	B-Sacramento,_California
+.	O
+(	O
+@	O
+Salt	B-Salt_Lake_City_International_Airport
+Lake	I-Salt_Lake_City_International_Airport
+City	I-Salt_Lake_City_International_Airport
+International	I-Salt_Lake_City_International_Airport
+Airport	I-Salt_Lake_City_International_Airport
+(	O
+SLC	B-Salt_Lake_City_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=321
+Got	O
+my	O
+Mickey	B-Mickey_Mouse
+mouse	I-Mickey_Mouse
+socks	O
+from	O
+Disney	B-Walt_Disney_World
+World	I-Walt_Disney_World
+on	O
+and	O
+its	O
+gon	O
+na	O
+be	O
+a	O
+good	O
+day	O
+
+-DOCSTART-
+
+# tweet_id=322
+A	O
+reason	O
+why	O
+I	O
+m	O
+a	O
+Giants	B-San_Francisco_Giants
+fan	O
+in	O
+Los	B-Los_Angeles
+Angeles	I-Los_Angeles
+:	O
+Twitter	B-Twitter
+trending	O
+topic	O
+in	O
+SF	B-San_Francisco
+is	O
+#	O
+BeatLA	O
+;	O
+in	O
+LA	B-Los_Angeles
+,	O
+a	O
+reality	O
+show	O
+premiere	O
+(	O
+NOTHING	O
+ABOUT	O
+SPORTS	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=323
+I	O
+hope	O
+my	O
+phone	O
+gets	O
+updated	O
+to	O
+LTE	B-LTE_(telecommunication)
+;	O
+what	O
+about	O
+LA	B-Los_Angeles
+?	O
+!	O
+:-(	O
+
+-DOCSTART-
+
+# tweet_id=324
+Let	O
+the	O
+season	O
+of	O
+work	O
+travel	O
+commence	O
+...	O
+(	O
+@	O
+Ronald	B-Ronald_Reagan_Washington_National_Airport_station
+Reagan	I-Ronald_Reagan_Washington_National_Airport_station
+Washington	I-Ronald_Reagan_Washington_National_Airport_station
+National	I-Ronald_Reagan_Washington_National_Airport_station
+Airport	I-Ronald_Reagan_Washington_National_Airport_station
+(	O
+DCA	B-Ronald_Reagan_Washington_National_Airport_station
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=325
+Fire	O
+at	O
+hollywood	B-Hollywood_Hills
+hills	I-Hollywood_Hills
+home	O
+owned	O
+by	O
+actor	O
+Jack	B-Jack_Nicholson
+Nicholson	I-Jack_Nicholson
+one	O
+hour	O
+ago	O
+...	O
+#	O
+ktla	O
+
+-DOCSTART-
+
+# tweet_id=326
+Since	O
+moving	O
+to	O
+LA	B-Los_Angeles
+i	O
+met	O
+so	O
+many	O
+Jewish	B-Judaism
+ppl	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=327
+Golf	O
+course	O
+with	O
+a	O
+view	O
+!	O
+That	O
+s	O
+the	O
+Golden	B-Golden_Gate
+Gate	I-Golden_Gate
+.	O
+@	O
+Lincoln	O
+Park	O
+Golf	O
+Course	O
+
+-DOCSTART-
+
+# tweet_id=328
+Checking	O
+out	O
+Yountville	B-Yountville,_California
+for	O
+the	O
+first	O
+time	O
+.	O
+Kind	O
+of	O
+exciting	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=329
+inside	O
+the	O
+top	O
+of	O
+the	O
+Capitol	B-United_States_Capitol
+(	O
+@	O
+United	B-United_States_Capitol
+States	I-United_States_Capitol
+Capitol	I-United_States_Capitol
+Building	I-United_States_Capitol
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=330
+Woo	O
+states	O
+down	O
+to	O
+go	O
+(	O
+@	O
+Kentucky	B-Kentucky
+)	O
+
+-DOCSTART-
+
+# tweet_id=331
+Thanks	O
+for	O
+visiting	O
+Chapel	B-Chapel_Hill,_North_Carolina
+Hill	I-Chapel_Hill,_North_Carolina
+,	O
+now	O
+heres	O
+a	O
+free	O
+parking	O
+ticket	O
+
+-DOCSTART-
+
+# tweet_id=332
+Pre	O
+-	O
+thanksgiving	O
+walk	O
+(	O
+@	O
+Arnold	B-Arnold_Arboretum
+Arboretum	I-Arnold_Arboretum
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=333
+@Heart_BreAKAh	O
+r	O
+u	O
+goin	O
+to	O
+b	O
+n	O
+Charlotte	B-Charlotte,_North_Carolina
+for	O
+sat	O
+night	O
+
+-DOCSTART-
+
+# tweet_id=334
+I	O
+m	O
+at	O
+Wild	O
+Bills	O
+for	O
+Bret	B-Bret_Michaels
+Michaels	I-Bret_Michaels
+(	O
+Market	O
+St	O
+,	O
+Duluth	B-Duluth,_Minnesota
+)	O
+w/	O
+others	O
+
+-DOCSTART-
+
+# tweet_id=335
+#	O
+Lehigh	B-Lehigh_Mountain_Hawks_football
+moving	O
+the	O
+ball	O
+well	O
+here	O
+in	O
+the	O
+fourth	O
+quarter	O
+,	O
+going	O
+-for-	O
+on	O
+third	O
+-	O
+down	O
+conversions	O
+this	O
+drive	O
+.	O
+First	O
+-	O
+and-	O
+on	O
+#	O
+Colgate	B-Colgate_Raiders_football
+.	O
+
+-DOCSTART-
+
+# tweet_id=336
+Just	O
+landed	O
+and	O
+were	O
+half	O
+an	O
+hour	O
+early	O
+!	O
+(	O
+@	O
+Los	B-Los_Angeles_International_Airport
+Angeles	I-Los_Angeles_International_Airport
+International	I-Los_Angeles_International_Airport
+Airport	I-Los_Angeles_International_Airport
+(	O
+LAX	B-Los_Angeles_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=337
+Its	O
+getting	O
+a	O
+little	O
+hot	O
+out	O
+here	O
+.	O
+What	O
+is	O
+this	O
+Austin	B-Austin,_Texas
+?	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=338
+Rest	O
+in	O
+peace	O
+to	O
+Frank	O
+and	O
+Pablo	O
+who	O
+sacrificed	O
+their	O
+lives	O
+to	O
+save	O
+people	O
+in	O
+the	O
+north	O
+tower	O
+of	O
+the	O
+World	B-World_Trade_Center_(1973–2001)
+Trade	I-World_Trade_Center_(1973–2001)
+Center	I-World_Trade_Center_(1973–2001)
+.	O
+
+-DOCSTART-
+
+# tweet_id=339
+Finally	O
+made	O
+it	O
+here	O
+.	O
+(	O
+@	O
+Museum	B-Museum_of_Osteology
+of	I-Museum_of_Osteology
+Osteology	I-Museum_of_Osteology
+)	O
+
+-DOCSTART-
+
+# tweet_id=340
+So	O
+just	O
+finished	O
+an	O
+Apple	B-Apple_Inc.
+store	O
+meeting	O
+and	O
+got	O
+ta	O
+say	O
+I	O
+LOVE	O
+my	O
+job	O
+and	O
+the	O
+peeps	O
+I	O
+work	O
+with	O
+!	O
+All	O
++	O
+of	O
+us	O
+need	O
+to	O
+go	O
+get	O
+DRUNK	O
+sometime	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=341
+The	O
+Google	B-Google_Play_Music
+Music	I-Google_Play_Music
+app	O
+I	O
+tweeted	O
+about	O
+is	O
+already	O
+on	O
+the	O
+AppStore	B-App_Store_(iOS/iPadOS)
+,	O
+just	O
+search	O
+for	O
+"	O
+gMusic	O
+"	O
+
+-DOCSTART-
+
+# tweet_id=342
+Breakfast	O
+at	O
+The	O
+Olympic	B-Olympic_Games
+club	O
+and	O
+the	O
+Sun	O
+is	O
+shining:-	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=343
+the	O
+new	O
+new	O
+Carnifex	B-Carnifex_(band)
+album	O
+is	O
+literally	O
+carrying	O
+me	O
+through	O
+the	O
+day	O
+.	O
+I	O
+would	O
+be	O
+nothing	O
+without	O
+this	O
+music	O
+
+-DOCSTART-
+
+# tweet_id=344
+When	O
+you	O
+say	O
+Wisconsin	B-Wisconsin
+you	O
+said	O
+embarrassing	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=345
+Hello	O
+Ottawa	B-Ottawa
+(	O
+@	O
+Ottawa	B-Ottawa
+MacDonald	B-McDonald's
+-	O
+Cartier	B-Ottawa_Macdonald–Cartier_International_Airport
+International	I-Ottawa_Macdonald–Cartier_International_Airport
+Airport	I-Ottawa_Macdonald–Cartier_International_Airport
+(	O
+YOW	B-Ottawa_Macdonald–Cartier_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=346
+So	O
+long	O
+Prince	O
+,	O
+it	O
+was	O
+a	O
+great	O
+run	O
+in	O
+Milwaukee	B-Milwaukee
+-	O
+see	O
+you	O
+in	O
+Anaheim	B-Anaheim,_California
+soon	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=347
+Looking	O
+at	O
+trucks	O
+in	O
+Alberta	B-Alberta
+makes	O
+me	O
+feel	O
+like	O
+a	O
+man	O
+.	O
+:-p	O
+(	O
+@	O
+Sean	O
+Sargent	O
+Toyota	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=348
+Walking	O
+the	O
+river	O
+with	O
+the	O
+Blunts	O
+.	O
+(	O
+@	O
+Ohio	B-Ohio_River
+River	I-Ohio_River
+)	O
+
+-DOCSTART-
+
+# tweet_id=349
+Gas	O
+is	O
+down	O
+to	O
+$	O
+.	O
+at	O
+the	O
+Sheetz	B-Sheetz
+in	O
+DuBois	B-DuBois,_Pennsylvania
+with	O
+the	O
+MySheetz	O
+card	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=350
+Heading	O
+to	O
+Salinas	B-Salinas,_California
+to	O
+buy	O
+my	O
+costume	O
+.	O
+Ugh	O
+,	O
+this	O
+is	O
+going	O
+to	O
+be	O
+hell	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=351
+Sunday	O
+is	O
+my	O
+favorite	O
+day	O
+of	O
+the	O
+week	O
+;	O
+the	O
+one	O
+day	O
+where	O
+I	O
+expect	O
+EVERY	O
+catholic	B-Catholic_Church
+to	O
+apologize	O
+for	O
+the	O
+Jersey	B-Jersey_Shore
+Shore	I-Jersey_Shore
+.	O
+
+-DOCSTART-
+
+# tweet_id=352
+@yoditw	O
+Steve	B-Steve_Harvey
+Harvey	I-Steve_Harvey
+is	O
+satan	O
+?	O
+Makes	O
+sense	O
+..	O
+fuck	O
+that	O
+nigga	O
+..	O
+
+-DOCSTART-
+
+# tweet_id=353
+Wow	O
+.	O
+I	O
+get	O
+full	O
+bars	O
+in	O
+DC	B-Washington,_D.C.
+airport	O
+subway	O
+train	O
+.	O
+Impressive	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=354
+Headed	O
+to	O
+Spartan	B-Spartan_Stadium_(East_Lansing,_Michigan)
+Stadium	I-Spartan_Stadium_(East_Lansing,_Michigan)
+!	O
+#	O
+gogreen	O
+
+-DOCSTART-
+
+# tweet_id=355
+Watching	O
+my	O
+brother	O
+play	O
+a	O
+soccer	O
+game	O
+in	O
+the	O
+Texas	B-Texas
+mens	O
+league	O
+!	O
+(	O
+@	O
+Onion	O
+Creek	O
+Soccer	O
+Complex	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=356
+Fuck	O
+Kenny	B-Kenny_Phillips
+Phillips	I-Kenny_Phillips
+to	O
+death	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=357
+It	O
+feels	O
+wrong	O
+having	O
+two	O
+big	O
+sandwiches	O
+in	O
+one	O
+day	O
+.	O
+Too	O
+much	O
+bread	O
+.	O
+I	O
+dunno	O
+.	O
+Sorry	O
+.	O
+I	O
+have	O
+nt	O
+felt	O
+very	O
+Twitter	B-Twitter
+recently	O
+
+-DOCSTART-
+
+# tweet_id=358
+I	O
+can	O
+not	O
+listen	O
+to	O
+Super	B-Super_Bass
+Bass	I-Super_Bass
+by	O
+Nicki	B-Nicki_Minaj
+Minaj	I-Nicki_Minaj
+without	O
+hearing	O
+those	O
+adorable	O
+girls	O
+singing	O
+it	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=359
+Right	O
+now	O
+I	O
+m	O
+watching	O
+the	O
+Arkansas	B-Arkansas
+game	O
+because	O
+my	O
+roommate	O
+watched	O
+the	O
+series	O
+with	O
+me	O
+.	O
+This	O
+is	O
+how	O
+roommates	O
+support	O
+each	O
+other	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=360
+Browsing	O
+for	O
+clothes	O
+at	O
+the	O
+J.	B-J.Crew
+Crew	I-J.Crew
+store	O
+next	O
+to	O
+Rock	O
+.	O
+Next	O
+up	O
+,	O
+the	O
+view	O
+from	O
+the	O
+Top	B-30_Rockefeller_Plaza
+of	I-30_Rockefeller_Plaza
+the	I-30_Rockefeller_Plaza
+Rock	I-30_Rockefeller_Plaza
+#	O
+nycturkeytrip	O
+
+-DOCSTART-
+
+# tweet_id=361
+#	O
+rain	O
+is	O
+a	O
+good	O
+thing	O
+,	O
+off	O
+to	O
+magic	B-Magic_Kingdom
+kingdom	I-Magic_Kingdom
+with	O
+fi	O
+,	O
+maybe	O
+Hollywood	B-Hollywood
+studios	O
+after	O
+:)	O
+
+-DOCSTART-
+
+# tweet_id=362
+The	O
+Asians	B-Asian_people
+that	O
+bank	O
+together	O
+,	O
+stay	O
+together	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=363
+Alpha	B-Alpha_Kappa_Alpha
+Kappa	I-Alpha_Kappa_Alpha
+Alpha	I-Alpha_Kappa_Alpha
+Sorority	I-Alpha_Kappa_Alpha
+hosts	O
+Thanksgiving	B-Thanksgiving
+dinner	O
+:	O
+The	O
+lunch	O
+is	O
+always	O
+held	O
+the	O
+Sunday	O-Sunday
+before	O
+Thanksgiving	O-Thanksgiving
+an	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=364
+I	O
+will	O
+be	O
+dropping	O
+some	O
+bills	O
+at	O
+the	O
+new	O
+Polo	B-Ralph_Lauren_Corporation
+outlet	O
+in	O
+Kansas	B-Kansas_City,_Missouri
+City	I-Kansas_City,_Missouri
+.	O
+#	O
+guaranteed	O
+
+-DOCSTART-
+
+# tweet_id=365
+@scribblepotemus	O
+love	O
+that	O
+you	O
+are	O
+in	O
+my	O
+Kansas	B-Kansas
+tonight	O
+.	O
+love	O
+more	O
+that	O
+I	O
+will	O
+see	O
+you	O
+tomorrow	O
+.	O
+thanks	O
+for	O
+all	O
+you	O
+do	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=366
+Costco	B-Costco
+is	O
+not	O
+a	O
+cheap	O
+place	O
+.	O
+Ugh	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=367
+Which	O
+is	O
+going	O
+to	O
+result	O
+in	O
+me	O
+not	O
+getting	O
+my	O
+goody	O
+bag	O
+of	O
+drugs	O
+from	O
+San	B-San_Francisco
+Francisco	I-San_Francisco
+.	O
+
+-DOCSTART-
+
+# tweet_id=368
+Go	O
+Sounders	O
+!	O
+You	O
+can	O
+do	O
+it	O
+!	O
+(	O
+@	O
+CenturyLink	B-Lumen_Field
+Field	I-Lumen_Field
+for	O
+Real	B-Real_Salt_Lake
+Salt	I-Real_Salt_Lake
+Lake	I-Real_Salt_Lake
+vs.	O
+Seattle	B-Seattle_Sounders_FC
+Sounders	I-Seattle_Sounders_FC
+FC	I-Seattle_Sounders_FC
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=369
+@tweetgrubes	O
+my	O
+hotel	O
+room	O
+and	O
+Disney	B-Walt_Disney_World
+World	I-Walt_Disney_World
+only	O
+gets	O
+CBS	B-CBS
+,	O
+not	O
+FOX	B-Fox_Broadcasting_Company
+.	O
+Stuck	O
+watching	O
+one	O
+game	O
+.	O
+#	O
+firstworldpains	O
+
+-DOCSTART-
+
+# tweet_id=370
+Dinner	O
+with	O
+the	O
+fam	O
+!	O
+!	O
+(	O
+@	O
+Olive	B-Olive_Garden
+Garden	I-Olive_Garden
+)	O
+
+-DOCSTART-
+
+# tweet_id=371
+Babe	O
+and	O
+I	O
+always	O
+take	O
+a	O
+nap	O
+...	O
+That	O
+s	O
+why	O
+we	O
+sleep	O
+sooo	O
+late	O
+everyday	O
+.	O
+Lol	O
+
+-DOCSTART-
+
+# tweet_id=372
+There	O
+is	O
+nothing	O
+like	O
+the	O
+sound	O
+of	O
+waves	O
+crashing	O
+to	O
+relax	O
+your	O
+mind	O
+and	O
+let	O
+your	O
+body	O
+rest	O
+...	O
+I	O
+love	O
+Hawaii	B-Hawaii
+!	O
+
+-DOCSTART-
+
+# tweet_id=373
+@ReverendCBaker	O
+I	O
+ve	O
+been	O
+debating	O
+on	O
+whether	O
+or	O
+not	O
+to	O
+get	O
+an	O
+iPad	B-IPad
+and	O
+that	O
+may	O
+just	O
+put	O
+me	O
+over	O
+the	O
+edge	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=374
+Last	O
+day	O
+in	O
+Jamaica	B-Jamaica
+..	O
+not	O
+sure	O
+i	O
+m	O
+ready	O
+for	O
+a	O
+shot	O
+of	O
+cold	O
+NY	B-New_York_City
+air	O
+tomorrow	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=375
+I	O
+wish	O
+everyone	O
+was	O
+as	O
+cool	O
+as	O
+Giovanni	B-Giovanni_Ribisi
+Ribisi	I-Giovanni_Ribisi
+.	O
+
+-DOCSTART-
+
+# tweet_id=376
+@KevinHartreal	O
+finally	O
+...	O
+Atlanta	B-Atlanta
+can	O
+finally	O
+get	O
+some	O
+love	O
+
+-DOCSTART-
+
+# tweet_id=377
+@LushLuv	O
+what	O
+s	O
+your	O
+password	O
+for	O
+Twitter	B-Twitter
+?	O
+Lol	O
+gurl	O
+answer	O
+that	O
+secret	O
+question	O
+.	O
+Does	O
+Itunes	B-ITunes
+even	O
+do	O
+that	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=378
+So	O
+my	O
+dad	O
+feels	O
+the	O
+need	O
+to	O
+interview	O
+me	O
+because	O
+I	O
+told	O
+him	O
+I	O
+have	O
+one	O
+with	O
+Radio	B-RadioShack
+Shack	I-RadioShack
+.	O
+Stop	O
+,	O
+dad	O
+.	O
+Please	O
+,	O
+just	O
+fucking	O
+stop	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=379
+Back	O
+to	O
+dublin	O
+(	O
+@	O
+San	B-San_Francisco_International_Airport
+Francisco	I-San_Francisco_International_Airport
+International	I-San_Francisco_International_Airport
+Airport	I-San_Francisco_International_Airport
+(	O
+SFO	B-San_Francisco_International_Airport
+)	O
+w/	O
+others	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=380
+I	O
+m	O
+at	O
+Madison	B-Madison_Square_Garden
+Square	I-Madison_Square_Garden
+Garden	I-Madison_Square_Garden
+for	O
+Duran	B-Duran_Duran
+Duran	I-Duran_Duran
+(	O
+Penn	O
+Plz	O
+.	O
+,	O
+btwn	O
+th	O
+&	O
+th	O
+,	O
+New	B-New_York_City
+York	I-New_York_City
+)	O
+w/	O
+others	O
+
+-DOCSTART-
+
+# tweet_id=381
+Tomorrow	O
+I	O
+m	O
+going	O
+to	O
+wish	O
+that	O
+Harry	B-Harry_Potter_(character)
+Potter	I-Harry_Potter_(character)
+will	O
+never	O
+end	O
+#	O
+harrypotterfilmfinale	O
+
+-DOCSTART-
+
+# tweet_id=382
+Chocolate	O
+hand	O
+-	O
+delivered	O
+from	O
+Zurich	B-Zürich
+#	O
+sodelicious	O
+
+-DOCSTART-
+
+# tweet_id=383
+#	O
+BAMA	O
+call	O
+!	O
+!	O
+!	O
+Seeeeee	O
+!	O
+If	O
+this	O
+little	O
+blonde	O
+nurse	O
+from	O
+Michigan	B-Michigan
+can	O
+see	O
+a	O
+fumble	O
+,	O
+so	O
+should	O
+the	O
+refs	O
+!	O
+There	O
+s	O
+my	O
+#	O
+turnover	O
+,	O
+thanks	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=384
+i	O
+hate	O
+it	O
+when	O
+people	O
+wear	O
+Hollister	B-Hollister_Co.
+or	O
+Abercrombie	B-Abercrombie_&_Fitch
+and	O
+think	O
+they	O
+look	O
+cute	O
+...	O
+where	O
+i	O
+m	O
+from	O
+,	O
+it	O
+means	O
+you	O
+re	O
+
+-DOCSTART-
+
+# tweet_id=385
+Watching	O
+the	O
+Exorcist	B-The_Exorcist
+...	O
+Then	O
+American	B-American_Horror_Story
+Horror	I-American_Horror_Story
+Story	I-American_Horror_Story
+.	O
+Fright	O
+night	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=386
+let	O
+me	O
++	O
+@stLadySHAE	O
+be	O
+faded	O
+in	O
+DC	B-Washington,_D.C.
+though	O
+,	O
+quit	O
+trippin	O
+#	O
+XXV	O
+
+-DOCSTART-
+
+# tweet_id=387
+I	O
+want	O
+to	O
+watch	O
+#	O
+Twilight	B-Twilight_(2008_film)
+so	O
+bad	O
+!	O
+-_-	O
+
+-DOCSTART-
+
+# tweet_id=388
+My	O
+Mickey	B-Mickey_Mouse
+mouse	I-Mickey_Mouse
+wallpaper	O
+on	O
+my	O
+phone	O
+
+-DOCSTART-
+
+# tweet_id=389
+I	O
+swear	O
+the	O
+Devil	B-Devil
+lurks	O
+the	O
+streets	O
+of	O
+Winston	B-Winston,_Oregon
+.	O
+
+-DOCSTART-
+
+# tweet_id=390
+Going	O
+hunting	O
+!	O
+(	O
+@	O
+Jeffersonville	B-Jeffersonville
+,	O
+GA	B-Georgia_(U.S._state)
+)	O
+
+-DOCSTART-
+
+# tweet_id=391
+Off	O
+to	O
+Seattle	B-Seattle
+,	O
+the	O
+city	O
+,	O
+to	O
+do	O
+touristy	O
+stuff	O
+with	O
+Eric	B-Eric
+and	O
+@SarahCCarter	O
+.	O
+#	O
+asianpeacesignphototime	O
+
+-DOCSTART-
+
+# tweet_id=392
+Shit	O
+funni	O
+in	O
+Miami	B-Miami
+Hella	O
+man	O
+I	O
+swear	O
+...	O
+ha	O
+ok	O
+den	O
+
+-DOCSTART-
+
+# tweet_id=393
+My	O
+absolute	O
+favorite	O
+Mexican	B-Mexicans
+in	O
+Austin	B-Austin,_Texas
+!	O
+(	O
+@	O
+Fonda	O
+San	O
+Miguel	O
+w/	O
+others	O
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=394
+In	O
+Iran	B-Iran
+ppl	O
+eat	O
+more	O
+rice	O
+than	O
+bread	O
+unlike	O
+Greek	B-Greek_language
+ppl	O
+
+-DOCSTART-
+
+# tweet_id=395
+Next	O
+up	O
+-	O
+study	O
+of	O
+MDs	B-Doctor_of_Medicine
+reactions	O
+to	O
+emotional	O
+cues	O
+/	O
+concerns	O
+of	O
+minority	O
+patients	O
+in	O
+Ghent	B-Ghent
+,	O
+Belgium	B-Belgium
+#	O
+ICCH	O
+
+-DOCSTART-
+
+# tweet_id=396
+CERN	B-CERN
+scientists	O
+break	O
+the	O
+speed	O
+of	O
+light	O
+#	O
+TimeTravel	O
+vacation	O
+here	O
+I	O
+come	O
+!	O
+#	O
+superluminal	O
+
+-DOCSTART-
+
+# tweet_id=397
+@wAOliver	O
+Alan	B-Alan
+,	O
+people	O
+leave	O
+Cincinnati	B-Cincinnati
+everyday	O
+,	O
+but	O
+none	O
+leave	O
+the	O
+impact	O
+you	O
+made	O
+on	O
+the	O
+world	O
+around	O
+you	O
+.	O
+Alabama	B-Alabama
+is	O
+lucky	O
+to	O
+have	O
+you	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=398
+Tim	B-Tim_Cook
+Cook	I-Tim_Cook
+REALLY	O
+REALLY	O
+loves	O
+graphs	O
+and	O
+charts	O
+.	O
+He	O
+is	O
+that	O
+kind	O
+of	O
+CEO	O-Chief_executive_officer
+I	O
+bet	O
+.	O
+CEO	O-Chief_executive_officer
+who	O
+thinks	O
+like	O
+a	O
+COO	O-Chief_operating_officer
+.	O
+:-)	O
+#	O
+apple	B-Apple_Inc.
+
+-DOCSTART-
+
+# tweet_id=399
+Surprised	O
+at	O
+how	O
+much	O
+Steve	B-Steve_Jobs
+Jobs	I-Steve_Jobs
+cries	O
+in	O
+his	O
+biography	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=400
+New	O
+Discovery	B-Discovery_Channel
+Channel	I-Discovery_Channel
+show	O
+:	O
+Extreme	O
+Tornado	O
+Home	O
+Makeovers	O
+!	O
+First	O
+the	O
+good	O
+news	O
+:	O
+the	O
+renovation	O
+did	O
+nt	O
+cost	O
+anything	O
+.	O
+The	O
+bad	O
+news	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=401
+just	O
+got	O
+an	O
+LG	B-LG_Electronics
+inch	O
+tv	O
+.	O
+No	O
+more	O
+gaming	O
+on	O
+a	O
+shit	O
+screen	O
+:)	O
+@Yakerrrrr	O
+LG	B-LG_Electronics
+=	O
+Lifes	O
+good	O
+haha	O
+
+-DOCSTART-
+
+# tweet_id=402
+I	O
+m	O
+at	O
+Buffalo	B-Buffalo_Wild_Wings
+Wild	I-Buffalo_Wild_Wings
+Wings	I-Buffalo_Wild_Wings
+Grill	I-Buffalo_Wild_Wings
+&	I-Buffalo_Wild_Wings
+Bar	I-Buffalo_Wild_Wings
+(	O
+US	O
+Highway	O
+N	O
+,	O
+San	B-San_Antonio
+Antonio	I-San_Antonio
+)	O
+
+-DOCSTART-
+
+# tweet_id=403
+Drinking	O
+a	O
+Newcastle	B-Newcastle_Brown_Ale
+Brown	I-Newcastle_Brown_Ale
+Ale	I-Newcastle_Brown_Ale
+by	O
+Scottish	B-Scottish_&_Newcastle
+&	I-Scottish_&_Newcastle
+Newcastle	I-Scottish_&_Newcastle
+UK	I-Scottish_&_Newcastle
+Ltd.	I-Scottish_&_Newcastle
+@	O
+Dueling	O
+Mini	O
+-	O
+keg	O
+Tailgate	O
+—	O
+
+-DOCSTART-
+
+# tweet_id=404
+-	O
+!	O
+!	O
+!	O
+!	O
+I	O
+love	O
+the	O
+Green	B-Green_Bay_Packers
+Bay	I-Green_Bay_Packers
+Packers	I-Green_Bay_Packers
+!	O
+!	O
+#	O
+superbowl	B-Super_Bowl
+here	O
+we	O
+come	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=405
+An	O
+Education	O
+.	O
+Surprisingly	O
+good	O
+story	O
+,	O
+although	O
+it	O
+sagged	O
+in	O
+the	O
+middle	O
+.	O
+Great	O
+cast	O
+—	O
+wish	O
+Alfred	B-Alfred_Molina
+Molina	I-Alfred_Molina
+were	O
+in	O
+more	O
+visible	O
+roles	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=406
+Special	O
+thanks	O
+to	O
+Bob	B-Bob_Costas
+Costas	I-Bob_Costas
+for	O
+not	O
+doing	O
+the	O
+cranky	O
+old	O
+white	O
+guy	O
+routine	O
+again	O
+in	O
+the	O
+postgame	O
+show	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=407
+@urgirlkellz	O
+let	O
+him	O
+be	O
+your	O
+motivation	O
+in	O
+my	O
+Kelly	B-Kelly_Rowland
+Rowland	I-Kelly_Rowland
+voice	O
+
+-DOCSTART-
+
+# tweet_id=408
+I	O
+saw	O
+a	O
+lady	O
+today	O
+with	O
+a	O
+Michael	O
+Vick	O
+jersey	O
+on	O
+as	O
+a	O
+costume	O
+...	O
+#	O
+shitaintevenfunny	O
+
+-DOCSTART-
+
+# tweet_id=409
+So	O
+excited	O
+for	O
+book	O
+(	O
+@	O
+Lawrenceville	B-Lawrenceville
+Branch	O
+-	O
+Gwinnett	B-Gwinnett_County_Public_Library
+County	I-Gwinnett_County_Public_Library
+Public	I-Gwinnett_County_Public_Library
+Library	I-Gwinnett_County_Public_Library
+)	O
+[	O
+pic	O
+]	O
+:	O
+
+-DOCSTART-
+
+# tweet_id=410
+Was	O
+Michelle	B-Michelle_Obama
+Obama	I-Michelle_Obama
+’s	O
+Target	B-Target_Corporation
+Photo	O
+Staged	O
+?	O
+(	O
+with	O
+optional	O
+PIC	O
+of	O
+st	O
+Lady	O
+included	O
+)	O
+@cspanwj	O
+
+-DOCSTART-
+
+# tweet_id=411
+exotic	O
+animals	O
+are	O
+roaming	O
+free	O
+in	O
+rural	O
+Ohio	B-Ohio
+.	O
+Along	O
+with	O
+tens	O
+of	O
+thousands	O
+of	O
+rural	O
+Ohioans	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=412
+headed	O
+to	O
+West	B-West_Village
+Village	I-West_Village
+for	O
+brunch	O
+
+-DOCSTART-
+
+# tweet_id=413
+Google+	B-Google+
+really	O
+never	O
+did	O
+catch	O
+on	O
+did	O
+it	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=414
+Places	O
+to	O
+Go	O
+When	O
+Living	O
+in	O
+Malden	B-Malden,_Massachusetts
+
+-DOCSTART-
+
+# tweet_id=415
+They	O
+re	O
+taking	O
+down	O
+the	O
+JoePa	B-Joe_Paterno
+statue	O
+outside	O
+Beaver	B-Beaver_Stadium
+Stadium	I-Beaver_Stadium
+.	O
+
+-DOCSTART-
+
+# tweet_id=416
+Forrest	B-Forrest_Gump_(character)
+Gump	I-Forrest_Gump_(character)
+should	O
+get	O
+invited	O
+to	O
+the	O
+ping	O
+pong	O
+tournament	O
+on	O
+balls	O
+of	O
+fury	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=417
+@MzNina	O
+:	O
+#	O
+nowplaying	O
+Jamie	B-Jamie_Foxx
+Foxx	I-Jamie_Foxx
+-	O
+Slow	O
+/	O
+best	O
+song	O
+ever	O
+.	O
+Lol	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=418
+Intramural	O
+football	O
+at	O
+University	B-University_of_South_Alabama
+of	I-University_of_South_Alabama
+South	I-University_of_South_Alabama
+Alabama	I-University_of_South_Alabama
+.	O
+
+-DOCSTART-
+
+# tweet_id=419
+Just	O
+got	O
+an	O
+acceptance	O
+letter	O
+for	O
+a	O
+Summer	O
+internship	O
+at	O
+Cisco	B-Cisco
+systems	O
+.	O
+Really	O
+looking	O
+forward	O
+to	O
+my	O
+summer	O
+this	O
+year	O
+,	O
+now	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=420
+Fox	B-Fox_News
+News	I-Fox_News
+reported	O
+South	O
+GA	B-Georgia
+resident	O
+goes	O
+to	O
+the	O
+hospital	O
+with	O
+stroke	O
+-	O
+like	O
+symptoms	O
+leaves	O
+hospital	O
+with	O
+a	O
+British	B-British_people
+accent	O
+.	O
+Baffles	O
+doctor	O
+
+-DOCSTART-
+
+# tweet_id=421
+You	O
+can	O
+tell	O
+the	O
+mood	O
+I	O
+am	O
+in	O
+hanging	B-Christmas_decoration
+Christmas	I-Christmas_decoration
+decorations	O
+listening	O
+to	O
+Metallica	B-Metallica
+
+-DOCSTART-
+
+# tweet_id=422
+Polka	B-Polka
+music	O
+day	O
+...	O
+(	O
+@	O
+Southside	O
+-	O
+George	B-George_Mason_University
+Mason	I-George_Mason_University
+University	I-George_Mason_University
+)	O
+
+-DOCSTART-
+
+# tweet_id=423
+Sandra	O
+Peete	O
+lol	O
+!	O
+Mine	O
+are	O
+and	O
+yes	O
+I	O
+have	O
+of	O
+them	O
+Longhorns	B-Texas_Longhorns_football
+and	O
+GEORGIA	B-Georgia_Bulldogs_football
+Bulldogs	I-Georgia_Bulldogs_football
+lived	O
+in	O
+Texas	B-Texas
+and	O
+born	O
+in	O
+and	O
+live	O
+in	O
+Georgia	B-Georgia
+
+-DOCSTART-
+
+# tweet_id=424
+Police	O
+:	O
+Body	O
+found	O
+in	O
+Miami	B-Miami_Shores,_Florida
+Shores	I-Miami_Shores,_Florida
+canal	O
+via	O
+
+-DOCSTART-
+
+# tweet_id=425
+On	O
+the	O
+road	O
+again	O
+!	O
+Heading	O
+back	O
+to	O
+Oxford	B-Oxford
+.	O
+I	O
+m	O
+not	O
+sure	O
+which	O
+will	O
+be	O
+worse	O
+:	O
+facing	O
+black	B-Black_Friday
+Friday	I-Black_Friday
+shopping	O
+crowds	O
+or	O
+traveling	O
+after	O
+holiday	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=426
+Watching	O
+this	O
+movie	O
+with	O
+my	O
+girl	O
+Jenna	B-Jenna_Fischer
+Fischer	I-Jenna_Fischer
+in	O
+it	O
+.	O
+She	O
+s	O
+the	O
+only	O
+interesting	O
+part	O
+half	O
+way	O
+through	O
+..	O
+
+-DOCSTART-
+
+# tweet_id=427
+RT	O
+"	O
+@bu_sain	O
+:	O
+Beverly	B-Beverly_Hills,_California
+Hills	I-Beverly_Hills,_California
+#	O
+NUKSUSA	O
+"	O
+
+-DOCSTART-
+
+# tweet_id=428
+Charlotte	B-Charlotte_Smith
+Smith	I-Charlotte_Smith
+and	O
+setting	O
+ourselves	O
+up	O
+for	O
+the	O
+future	O
+.	O
+Silence	O
+is	O
+unsettling	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=429
+Keep	O
+Me	O
+in	O
+Mind	O
+by	O
+Zac	B-Zac_Brown_Band
+Brown	I-Zac_Brown_Band
+Band	I-Zac_Brown_Band
+,	O
+from	O
+#	O
+SoundHound	O
+
+-DOCSTART-
+
+# tweet_id=430
+Anyone	O
+want	O
+to	O
+see	O
+Mastodon	B-Mastodon_(band)
+in	O
+NYC	B-New_York_City
+tonight	O
+?	O
+I	O
+ca	O
+nt	O
+make	O
+the	O
+show	O
+and	O
+will	O
+sell	O
+the	O
+ticket	O
+for	O
+face	O
+value	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=431
+Farm	O
+-	O
+Day	O
+Outing	O
+and	O
+Drinks	O
+for	O
+Two	O
+or	O
+Four	O
+at	O
+the	O
+Colorado	O
+Pumpkin	O
+Patch	O
+in	O
+Colorado	B-Colorado_Springs,_Colorado
+Springs	I-Colorado_Springs,_Colorado
+via	O
+Groupon	B-Groupon
+for	O
+
+-DOCSTART-
+
+# tweet_id=432
+Professor	O
+Robert	B-Robert_Hass
+Hass	I-Robert_Hass
+former	O
+Poet	B-Poet_laureate
+Laureate	I-Poet_laureate
+,	O
+National	B-National_Book_Award
+Book	I-National_Book_Award
+Award	I-National_Book_Award
+and	O
+Pulitzer	B-Pulitzer_Prize
+Prize	I-Pulitzer_Prize
+winner	O
+struck	O
+with	O
+a	O
+baton	O
+UCBerkeley	B-University_of_California,_Berkeley
+faculty	O
+w	O
+students	O
+
+-DOCSTART-
+
+# tweet_id=433
+Prop	O
+Heading	O
+to	O
+California	B-Supreme_Court_of_California
+Supreme	I-Supreme_Court_of_California
+Court	I-Supreme_Court_of_California
+via	O
+
+-DOCSTART-
+
+# tweet_id=434
+At	O
+Cheesecake	B-The_Cheesecake_Factory
+Factory	I-The_Cheesecake_Factory
+for	O
+@ladyglenda	O
+birthday	O
+
+-DOCSTART-
+
+# tweet_id=435
+Disneyland	B-Disneyland_Resort
+is	O
+something	O
+else	O
+at	O
+night	O
+.	O
+Twice	O
+as	O
+amazing	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=436
+Hold	O
+still	O
+...	O
+hoping	O
+the	O
+FedEx	B-FedEx
+guy	O
+comes	O
+soon	O
+so	O
+he	O
+can	O
+fully	O
+appreciate	O
+all	O
+my	O
+hotness	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=437
+@shanaybaybay	O
+nah	O
+baby	O
+...	O
+i	O
+just	O
+know	O
+bout	O
+a	O
+few	O
+spots	O
+out	O
+there	O
+...	O
+i	O
+got	O
+fam	O
+all	O
+in	O
+Cali	B-California
+ya	O
+heard	O
+me	O
+...	O
+i	O
+m	O
+from	O
+New	B-New_Orleans
+Orleans	I-New_Orleans
+ya	O
+heard	O
+me	O
+
+-DOCSTART-
+
+# tweet_id=438
+I	O
+really	O
+hate	O
+Microsoft	B-Microsoft_Word
+Word	I-Microsoft_Word
+sometimes	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=439
+OMG	O
+I	O
+walked	O
+Anna	B-Anna_Wintour
+Wintour	I-Anna_Wintour
+to	O
+her	O
+seat	O
+at	O
+Marc	B-Marc_Jacobs
+Jacobs	I-Marc_Jacobs
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=440
+Just	O
+drove	O
+weed	O
+plants	O
+to	O
+Akron	B-Akron,_Ohio
+
+-DOCSTART-
+
+# tweet_id=441
+Heard	O
+that	O
+police	O
+arrested	O
+a	O
+dude	O
+from	O
+whitehouse	O
+suspected	O
+for	O
+all	O
+the	O
+fires	O
+in	O
+Chapel	B-Chapel_Hill,_North_Carolina
+Hill	I-Chapel_Hill,_North_Carolina
+
+-DOCSTART-
+
+# tweet_id=442
+anybody	O
+wanna	O
+go	O
+watch	O
+"	O
+Contagion	B-Contagion_(2011_film)
+"	O
+and	O
+realize	O
+that	O
+everyone	O
+in	O
+the	O
+theater	O
+is	O
+coughing	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=443
+Sony	B-Sony
+make	O
+me	O
+waste	O
+my	O
+time	O
+
+-DOCSTART-
+
+# tweet_id=444
+the	O
+director	O
+of	O
+law	B-Law_&_Order
+and	I-Law_&_Order
+order	I-Law_&_Order
+,	O
+his	O
+name	O
+is	O
+Dick	B-Dick_Wolf
+Wolf	I-Dick_Wolf
+.......	O
+
+-DOCSTART-
+
+# tweet_id=445
+InterContinental	O
+Hotel	O
+Tampa	O
+,	O
+West	O
+Kennedy	O
+Boulevard	O
+,	O
+Tampa	B-Tampa,_Florida
+,	O
+FL	B-Florida
+(	O
+@	O
+University	B-University_of_Tampa
+of	I-University_of_Tampa
+Tampa	I-University_of_Tampa
+)	O
+
+-DOCSTART-
+
+# tweet_id=447
+is	O
+Lavish	O
+Styles	O
+running	O
+around	O
+pretending	O
+to	O
+be	O
+Rhianna	B-Rhianna_(singer)
+,	O
+if	O
+so	O
+that	O
+s	O
+not	O
+a	O
+bad	O
+career	O
+move	O
+
+-DOCSTART-
+
+# tweet_id=448
+Finally	O
+in	O
+Orlando	B-Orlando,_Florida
+!	O
+!	O
+Let	O
+the	O
+fun	O
+Begin	O
+!	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=449
+Why	O
+is	O
+House	B-House_of_Cards_(American_TV_series)
+of	I-House_of_Cards_(American_TV_series)
+Cards	I-House_of_Cards_(American_TV_series)
+such	O
+a	O
+perfect	O
+song	O
+?	O
+#	O
+radiohead	O
+
+-DOCSTART-
+
+# tweet_id=450
+Anyone	O
+think	O
+#	O
+SouthCarolina	B-South_Carolina
+is	O
+crowded	O
+around	O
+a	O
+television	O
+in	O
+their	O
+locker	O
+room	O
+watching	O
+the	O
+#	O
+Georgia	B-Georgia
+#	O
+Dawgs	B-Georgia_Bulldogs_football
+play	O
+#	O
+Auburn	B-Auburn_Tigers_football
+right	O
+now	O
+?	O
+
+-DOCSTART-
+
+# tweet_id=451
+Next	O
+year	O
+,	O
+or	O
+the	O
+year	O
+after	O
+,	O
+most	O
+engineers	O
+[	O
+at	O
+Facebook	B-Facebook
+]	O
+will	O
+be	O
+working	O
+on	O
+mobile	O
+interfaces	O
+.	O
+Bret	B-Bret_Taylor
+Taylor	I-Bret_Taylor
+,	O
+FB	B-Facebook
+CTO	B-Chief_technology_officer
+
+-DOCSTART-
+
+# tweet_id=452
+The	O
+south	O
+end	O
+of	O
+this	O
+platform	O
+feels	O
+like	O
+Maine	B-Maine
+,	O
+if	O
+I	O
+close	O
+my	O
+eyes	O
+.	O
+I	O
+need	O
+to	O
+find	O
+more	O
+nature	O
+in	O
+New	B-New_York_City
+York	I-New_York_City
+.	O
+
+-DOCSTART-
+
+# tweet_id=453
+Why	O
+is	O
+Jesse	B-Jesse_Williams_(actor)
+Williams	I-Jesse_Williams_(actor)
+so	O
+perfect	O
+!	O
+Oh	O
+my	O
+God	B-Deity
+!	O
+#	O
+greysanatomy	B-Grey's_Anatomy
+
+-DOCSTART-
+
+# tweet_id=454
+The	O
+only	O
+one	O
+who	O
+could	O
+score	O
+on	O
+Carey	B-Carey_Price
+Price	I-Carey_Price
+tonight	O
+....	O
+Was	O
+Carey	B-Carey_Price
+Price	I-Carey_Price
+;)	O
+damn	O
+I	O
+love	O
+that	O
+guy	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=455
+I	O
+want	O
+to	O
+join	O
+the	O
+advertising	O
+staff	O
+at	O
+Forbes	B-Forbes
+someday	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=456
+Forgetting	B-Forgetting_Sarah_Marshall
+Sarah	I-Forgetting_Sarah_Marshall
+Marshall	I-Forgetting_Sarah_Marshall
+is	O
+the	O
+second	O
+most	O
+funny	O
+movie	O
+of	O
+all	O
+time	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=457
+Jack	B-Jack_and_Jill
+and	I-Jack_and_Jill
+Jill	I-Jack_and_Jill
+is	O
+trending	O
+.	O
+Even	O
+though	O
+I	O
+love	O
+Adam	B-Adam_Sandler
+Sandler	I-Adam_Sandler
+movies	O
+,	O
+I	O
+am	O
+saddened	O
+by	O
+this	O
+.	O
+You	O
+people	O
+caused	O
+this	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=458
+I	O
+really	O
+hope	O
+my	O
+choices	O
+are	O
+nt	O
+between	O
+Romney	B-Mitt_Romney
+/	O
+Perry	B-Rick_Perry
+and	O
+Obama	B-Barack_Obama
+next	O
+year	O
+..	O
+Blah	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=459
+,	O
+Daw	O
+Aung	B-Aung_San_Suu_Kyi
+San	I-Aung_San_Suu_Kyi
+Suu	I-Aung_San_Suu_Kyi
+Kyi	I-Aung_San_Suu_Kyi
+decides	O
+to	O
+re	O
+-	O
+enter	O
+politics	O
+.	O
+[	O
+VIDEO	O
+]	O
+of	O
+Remarks	O
+by	O
+Aung	B-Aung_San_Suu_Kyi
+San	I-Aung_San_Suu_Kyi
+Suu	I-Aung_San_Suu_Kyi
+Kyi	I-Aung_San_Suu_Kyi
+&	O
+Obama	B-Barack_Obama
+on	O
+#	O
+Myanmar	B-Myanmar
+:	O
+#	O
+Burma	B-Myanmar
+
+-DOCSTART-
+
+# tweet_id=460
+SEan	B-Sean_Taylor
+Taylor	I-Sean_Taylor
+is	O
+a	O
+Bentley	B-Bentley
+and	O
+LaRon	B-LaRon_Landry
+Landry	I-LaRon_Landry
+is	O
+a	O
+Mercedes	B-Mercedes-Benz
+Benz	I-Mercedes-Benz
+
+-DOCSTART-
+
+# tweet_id=461
+Watching	O
+"	O
+Half	B-Half_Baked
+Baked	I-Half_Baked
+"	O
+#	O
+StonerMovie	B-Stoner_film
+
+-DOCSTART-
+
+# tweet_id=462
+They	O
+were	O
+gettin	O
+wild	O
+lol	O
+:)	O
+Aha	O
+I	O
+loved	O
+Breaking	B-Breaking_Dawn
+Dawn	I-Breaking_Dawn
+though	O
+!	O
+Best	O
+movie	O
+ever	O
+by	O
+far	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=463
+Waiting	O
+for	O
+Astro	B-Astro_(rapper)
+to	O
+perform	O
+on	O
+XFactor	B-The_X_Factor
+then	O
+off	O
+to	O
+sleep	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=464
+Thank	O
+you	O
+,	O
+Mr.	O
+La	B-Tony_La_Russa
+Russa	I-Tony_La_Russa
+.	O
+You	O
+really	O
+made	O
+baseball	O
+teams	O
+in	O
+to	O
+champs	O
+from	O
+the	O
+As	O
+to	O
+the	O
+Cards	O
+:)	O
+RT	O
+@trarticles	O
+:	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=465
+Best	O
+chinese	O
+food	O
+in	O
+north	O
+Denver	B-Denver
+lotus	O
+chinese	B-Chinese
+kitchen	O
+off	O
+th	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=466
+At	O
+UNF	B-University_of_North_Florida
+watching	O
+practice	O
+,	O
+before	O
+we	O
+go	O
+eat	O
+lunch	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=467
+@juliewillfly	O
+Heading	O
+to	O
+Winston	B-Winston,_Oregon
+-	O
+Salem	B-Salem,_Oregon
+tomorrow	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=468
+I	O
+m	O
+at	O
+UNCG	B-University_of_North_Carolina_at_Greensboro
+-	O
+The	B-University_of_North_Carolina_at_Greensboro
+University	I-University_of_North_Carolina_at_Greensboro
+of	I-University_of_North_Carolina_at_Greensboro
+North	I-University_of_North_Carolina_at_Greensboro
+Carolina	I-University_of_North_Carolina_at_Greensboro
+at	I-University_of_North_Carolina_at_Greensboro
+Greensboro	I-University_of_North_Carolina_at_Greensboro
+
+-DOCSTART-
+
+# tweet_id=469
+Why	O
+is	O
+a	O
+Orange	O
+called	O
+a	O
+Orange	O
+..	O
+Orange	O
+is	O
+a	O
+color	O
+so	O
+how	O
+a	O
+food	O
+gone	O
+be	O
+named	O
+after	O
+a	O
+color	O
+..	O
+
+-DOCSTART-
+
+# tweet_id=470
+Its	O
+kind	O
+of	O
+hilarious	O
+that	O
+the	O
+"	O
+Chicago	B-Chicago_Spire
+Spire	I-Chicago_Spire
+"	O
+is	O
+labeled	O
+as	O
+such	O
+in	O
+Google	B-Google_Maps
+Maps	I-Google_Maps
+
+-DOCSTART-
+
+# tweet_id=471
+New	B-New_York_City
+York	I-New_York_City
+morning	O
+ritual	O
+:	O
+run	O
+,	O
+coffee	O
+,	O
+park	O
+,	O
+write	O
+,	O
+read	O
+paper	O
+and	O
+come	O
+home	O
+to	O
+shower	O
+.	O
+This	O
+is	O
+a	O
+perfect	O
+NYC	B-New_York_City
+morning	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=472
+Peggy	B-Peggy_Olson
+Olson	I-Peggy_Olson
+is	O
+awesome	O
+...	O
+one	O
+of	O
+the	O
+best	O
+characters	O
+on	O
+#	O
+madmen	B-Mad_Men
+
+-DOCSTART-
+
+# tweet_id=473
+Dude	O
+,	O
+I	O
+want	O
+to	O
+be	O
+in	O
+North	B-North_Dakota
+Dakota	I-North_Dakota
+right	O
+now	O
+.	O
+Ugh	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=474
+#	O
+SexiestManAlive	O
+HANDS	O
+DOWN	O
+,	O
+Ryan	B-Ryan_Gosling
+Gosling	I-Ryan_Gosling
+!	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=475
+Devon	B-Devon_Energy_Center
+Energy	I-Devon_Energy_Center
+Tower	I-Devon_Energy_Center
+in	O
+Oklahoma	B-Oklahoma_City
+City	I-Oklahoma_City
+nearing	O
+completion	O
+.	O
+See	O
+more	O
+images	O
+
+-DOCSTART-
+
+# tweet_id=476
+Okay	O
+so	O
+I	O
+went	O
+to	O
+the	O
+Hagley	B-Hagley_Museum_and_Library
+Car	O
+Show	O
+in	O
+Wilmington	B-Wilmington,_Delaware
+and	O
+I	O
+shed	O
+a	O
+tear	O
+when	O
+I	O
+saw	O
+this	O
+orange	O
+Mustang	B-Ford_Mustang
+.	O
+Whew	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=477
+“	O
+@loganj	O
+_	O
+:	O
+Its	O
+halloween	B-Halloween
+.	O
+Listen	O
+to	O
+Black	B-Black_metal
+Metal	I-Black_metal
+.	O
+”	O
+Duh	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=478
+Lucky	O
+!	O
+!	O
+RT	O
+@melanieleduc	O
+:	O
+Ryan	B-Ryan_Reynolds
+Reynolds	I-Ryan_Reynolds
+shooting	O
+a	O
+movie	O
+up	O
+the	O
+street	O
+from	O
+where	O
+I	O
+live	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=479
+Big	O
+news	O
+from	O
+Adobe	B-Adobe
+:	O
+Flash	B-Adobe_Flash
+is	O
+over	O
+.	O
+All	O
+at	O
+once	O
+,	O
+I	O
+m	O
+relieved	O
+&	O
+nostalgic	O
+as	O
+if	O
+a	O
+an	O
+estranged	O
+friend	O
+has	O
+died	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=480
+Back	O
+at	O
+the	O
+clinic	O
+.	O
+Watching	O
+a	O
+basketball	O
+movie	O
+I	O
+do	O
+nt	O
+know	O
+.	O
+About	O
+West	B-UTEP_Miners_men's_basketball
+Texas	I-UTEP_Miners_men's_basketball
+vs	O
+Kentucky	B-Kentucky_Wildcats_men's_basketball
+?	O
+Looks	O
+like	O
+its	O
+set	O
+in	O
+the	O
+-s	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=481
+@TURF__ENVY	O
+which	O
+could	O
+still	O
+be	O
+outside	O
+in	O
+south	B-South_Texas
+Texas	I-South_Texas
+…	O
+
+-DOCSTART-
+
+# tweet_id=482
+Movie	O
+night	O
+with	O
+@surfrider	O
+DC	O
+watching	O
+God	B-God_Went_Surfing_with_the_Devil
+Went	I-God_Went_Surfing_with_the_Devil
+Surfing	I-God_Went_Surfing_with_the_Devil
+with	I-God_Went_Surfing_with_the_Devil
+the	I-God_Went_Surfing_with_the_Devil
+Devil	I-God_Went_Surfing_with_the_Devil
+!	O
+(	O
+@	O
+Buffalo	O
+Billiards	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=483
+Dinner	O
+(	O
+@	O
+Texas	O
+Smoke	O
+Barbecue	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=484
+Come	O
+to	O
+Mood	O
+Lounge	O
+for	O
+Cocktails	O
+!	O
+We	O
+are	O
+open	O
+-	O
+E	O
+Shadowlawn	O
+ave	O
+Atlanta	B-Atlanta
+GA	I-Georgia
+.	O
+
+-DOCSTART-
+
+# tweet_id=485
+Pit	O
+stop	O
+before	O
+Litchfeild	B-Litchfield
+(	O
+@	O
+Dunkin	B-Dunkin'_Donuts
+Donuts	I-Dunkin'_Donuts
+)	O
+
+-DOCSTART-
+
+# tweet_id=486
+Best	O
+in	O
+flight	O
+album	O
+yet	O
+!	O
+!	O
+@	O
+Nashville	B-Nashville_International_Airport
+Intl	I-Nashville_International_Airport
+Airport	I-Nashville_International_Airport
+-	O
+Gate	O
+A	O
+
+-DOCSTART-
+
+# tweet_id=487
+Rainy	O
+Hike	O
+!	O
+(	O
+@	O
+Great	B-Great_Falls_Park
+Falls	I-Great_Falls_Park
+National	I-Great_Falls_Park
+Park	I-Great_Falls_Park
+)	O
+
+-DOCSTART-
+
+# tweet_id=488
+Complimentary	O
+Beautiful	O
+Hold	O
+Hairspray	O
+with	O
+Blowout	O
+at	O
+Ted	B-Ted_Gibson
+Gibson	I-Ted_Gibson
+NYC	B-New_York_City
+salon	O
+..	O
+Please	O
+RT	O
+!	O
+!	O
+!	O
+!	O
+
+-DOCSTART-
+
+# tweet_id=489
+Victorias	B-Victoria's_Secret
+Secret	I-Victoria's_Secret
+,	O
+Macys	B-Macy's
+,	O
+Nail	B-Nail_salon
+salon	I-Nail_salon
+.	O
+Ugh	O
+too	O
+much	O
+
+-DOCSTART-
+
+# tweet_id=490
+This	O
+is	O
+where	O
+we	O
+are	O
+staying	O
+for	O
+my	O
+moms	O
+th	O
+birthday	O
+weekend	O
+.	O
+(	O
+@	O
+Francis	B-Francis_Marion_Hotel
+Marion	I-Francis_Marion_Hotel
+Hotel	I-Francis_Marion_Hotel
+)	O
+
+-DOCSTART-
+
+# tweet_id=491
+Much	O
+bigger	O
+Glendale	B-Glendale
+Crew	O
+!	O
+=)	O
+(	O
+@	O
+L.A.	O
+Family	O
+House	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=492
+days	O
+of	O
+work	O
+left	O
+!	O
+!	O
+!	O
+(	O
+@	O
+Armed	B-Armed_Forces_Institute_of_Pathology
+Forces	I-Armed_Forces_Institute_of_Pathology
+Institute	I-Armed_Forces_Institute_of_Pathology
+Of	I-Armed_Forces_Institute_of_Pathology
+Pathology	I-Armed_Forces_Institute_of_Pathology
+)	O
+
+-DOCSTART-
+
+# tweet_id=493
+)	O
+(	O
+@	O
+Museum	B-Museum_of_Science_and_Industry
+Of	I-Museum_of_Science_and_Industry
+Science	I-Museum_of_Science_and_Industry
+&	I-Museum_of_Science_and_Industry
+Industry	I-Museum_of_Science_and_Industry
+(	O
+MOSI	B-Museum_of_Science_and_Industry
+)	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=494
+I	O
+need	O
+a	O
+Michele	B-Michelle_Obama
+Obama	I-Michelle_Obama
+woman	O
+not	O
+afraid	O
+to	O
+hold	O
+her	O
+nigga	O
+down	O
+were	O
+she	O
+at	O
+#	O
+alldayerryday	O
+
+-DOCSTART-
+
+# tweet_id=495
+When	O
+in	O
+doubt	O
+,	O
+exercise	O
+(	O
+@	O
+Los	O
+Osos	O
+Fitness	O
+)	O
+
+-DOCSTART-
+
+# tweet_id=496
+Coming	B-Coming_to_America
+To	I-Coming_to_America
+America	I-Coming_to_America
+is	O
+on	O
+!	O
+!	O
+!	O
+!	O
+!	O
+!	O
+My	O
+favorite	O
+movie	O
+
+-DOCSTART-
+
+# tweet_id=497
+@StadiumDan	O
+@DreamzRreal	O
+@JonathanMannion	O
+Listen	O
+to	O
+Eminems	B-Eminem
+new	O
+artist	O
+.	O
+
+-DOCSTART-
+
+# tweet_id=498
+had	O
+a	O
+lot	O
+of	O
+pressure	O
+to	O
+move	O
+to	O
+Silicon	B-Silicon_Valley
+Valley	I-Silicon_Valley
+.	O
+We	O
+stayed	O
+here	O
+anyway	O
+and	O
+it	O
+worked	O
+out	O
+fine	O
+.	O
+#	O
+NYCFTW	O
+#	O
+NYUEF	O
+
+-DOCSTART-
+
+# tweet_id=499
+I	O
+love	O
+Working	O
+for	O
+amazon	B-Amazon
+
+-DOCSTART-
+
+# tweet_id=500
+Watching	O
+the	O
+SC	B-South_Carolina_Gamecocks_football
+and	O
+Clemson	B-Clemson_Tigers_football
+game	O
+outside	O
+if	O
+the	O
+stadium	O
+..	O
+South	B-South_Carolina
+Carolina	I-South_Carolina
+style	O
+...	O
+
+-DOCSTART-
+
+# tweet_id=500
+Some	O
+showers	O
+have	O
+popped	O
+up	O
+over	O
+the	O
+San	B-San_Juan_Mountains
+Juan	I-San_Juan_Mountains
+Mountains	I-San_Juan_Mountains
+.	O
+They	O
+will	O
+be	O
+done	O
+with	O
+by	O
+or	O
+pm	O
+.	O
+#	O
+gjco	O
+#	O
+cowx	O
+
+-DOCSTART-
+
+# tweet_id=501
+Any	O
+important	O
+Yankees	B-New_York_Yankees
+fans	O
+out	O
+there	O
+that	O
+needs	O
+to	O
+be	O
+followed	O
+?	O
+If	O
+you	O
+follow	O
+me	O
+,	O
+Ill	O
+follow	O
+back	O
+.	O
+#	O
+NYY	B-New_York_Yankees
+#	O
+Yankees	B-New_York_Yankees
+
+-DOCSTART-
+
+# tweet_id=502
+Nice	O
+Fiat	B-Fiat
+commercial	O
+J	B-Jennifer_Lopez
+-	I-Jennifer_Lopez
+Lo	I-Jennifer_Lopez
+...	O
+dope	O
+the	O
+song	O
+not	O
+the	O
+car	O

@@ -1,0 +1,9104 @@
+-DOCSTART-
+
+# 7u3248 movies
+The	B-The_First_Purge
+First	I-The_First_Purge
+Purge	I-The_First_Purge
+-	O
+Official	O
+Poster	O
+
+-DOCSTART-
+
+# 7nmf6a movies
+Good	O
+movie	B-Film
+,	O
+bad	O
+physics	B-Physics
+.	O
+
+-DOCSTART-
+
+# 855ijv movies
+What	O
+'s	O
+the	O
+most	O
+WTF	B-Fuck
+scene	O
+in	O
+an	O
+otherwise	O
+normal	O
+movie	B-Film
+?	O
+
+-DOCSTART-
+
+# 7vcelr movies
+Official	O
+Discussion	O
+:	O
+The	O
+Cloverfield	O
+Paradox	O
+[	O
+SPOILERS	B-Spoiler_(media)
+]	O
+
+-DOCSTART-
+
+# 871udr movies
+Black	B-Black_Panther_(film)
+Panther	I-Black_Panther_(film)
+has	O
+become	O
+domestically	O
+the	O
+highest	O
+grossing	O
+superhero	O
+film	O
+of	O
+all	O
+time	O
+with	O
+$	O
+630	O
+million	O
+,	O
+beating	O
+previous	O
+record	O
+holder	O
+The	O
+Avengers	O
+
+-DOCSTART-
+
+# 7vqcd8 movies
+Game	B-Game_of_Thrones
+of	I-Game_of_Thrones
+Thrones	I-Game_of_Thrones
+Creators	O
+David	B-David_Benioff
+Benioff	I-David_Benioff
+and	O
+D.B.	B-D._B._Weiss
+Weiss	I-D._B._Weiss
+to	O
+Write	O
+and	O
+Produce	O
+a	O
+New	O
+Series	O
+of	O
+Star	O
+Wars	O
+Films	O
+
+-DOCSTART-
+
+# 7rtu27 movies
+Natalie	B-Natalie_Portman
+Portman	I-Natalie_Portman
+,	O
+at	O
+13	O
+,	O
+experienced	O
+'	O
+sexual	O
+terrorism	O
+'	O
+
+-DOCSTART-
+
+# 80vbic movies
+If	O
+Netflix	B-Netflix
+offered	O
+a	O
+premium	O
+plan	O
+to	O
+watch	O
+films	B-Film
+currently	O
+in	O
+theater	O
+would	O
+you	O
+sign	O
+up	O
+?	O
+
+-DOCSTART-
+
+# 7veqih movies
+Solo	B-Solo:_A_Star_Wars_Story
+:	I-Solo:_A_Star_Wars_Story
+A	I-Solo:_A_Star_Wars_Story
+Star	I-Solo:_A_Star_Wars_Story
+Wars	I-Solo:_A_Star_Wars_Story
+Story	I-Solo:_A_Star_Wars_Story
+Official	O
+Teaser	O
+
+-DOCSTART-
+
+# 7w4yeg movies
+'	O
+Venom	B-Venom_(2018_film)
+'	O
+-	O
+Official	O
+Teaser	O
+
+-DOCSTART-
+
+# 7p7a3t movies
+It	O
+is	O
+4	O
+months	O
+until	O
+Solo	B-Solo:_A_Star_Wars_Story
+:	I-Solo:_A_Star_Wars_Story
+A	I-Solo:_A_Star_Wars_Story
+Star	I-Solo:_A_Star_Wars_Story
+Wars	I-Solo:_A_Star_Wars_Story
+Story	I-Solo:_A_Star_Wars_Story
+is	O
+released	O
+and	O
+there	O
+has	O
+n’t	O
+been	O
+any	O
+promotional	O
+material	O
+for	O
+it	O
+at	O
+all	O
+.	O
+
+-DOCSTART-
+
+# 88ht9o movies
+Dear	O
+People	O
+Who	O
+Wo	O
+n't	O
+Shut	O
+Up	O
+In	O
+Movie	B-Movie_theater
+Theaters	I-Movie_theater
+:	O
+You	O
+'re	O
+The	O
+Worst	O
+
+-DOCSTART-
+
+# 7yntae movies
+Box	O
+Office	O
+Week	O
+:	O
+Black	O
+Panther	O
+smashes	O
+at	O
+#	O
+1	O
+with	O
+$	O
+201	O
+M	O
+,	O
+making	O
+it	O
+the	O
+2nd	O
+best	O
+MCU	B-Marvel_Cinematic_Universe
+opening	O
+ever	O
+and	O
+the	O
+5th	O
+best	O
+domestic	O
+opening	O
+overall	O
+.	O
+The	O
+film	B-Film
+is	O
+also	O
+expected	O
+to	O
+gross	O
+$	O
+235	O
+M	O
+for	O
+the	O
+four	O
+-	O
+day	O
+weekend	O
+.	O
+Meanwhile	O
+,	O
+Early	B-Early_Man_(film)
+Man	I-Early_Man_(film)
+(	O
+#	O
+7	O
+,	O
+$	O
+3.1	O
+M	O
+)	O
+and	O
+Samson	B-Samson_(2018_film)
+(	O
+#	O
+10	O
+,	O
+$	O
+1.9	O
+M	O
+)	O
+flop	O
+.	O
+
+-DOCSTART-
+
+# 8235q9 movies
+Jordan	B-Jordan_Peele
+Peele	I-Jordan_Peele
+is	O
+the	O
+first	O
+black	O
+writer	B-Writer
+to	O
+win	O
+Oscar	B-Academy_Awards
+for	O
+best	O
+original	O
+screenplay	O
+.	O
+
+-DOCSTART-
+
+# 828cyn movies
+John	B-John_Boyega
+Boyega	I-John_Boyega
+here	O
+.	O
+Ask	O
+me	O
+anything	O
+.	O
+
+-DOCSTART-
+
+# 7uzu4s movies
+This	O
+Is	O
+Why	O
+Uma	B-Uma_Thurman
+Thurman	I-Uma_Thurman
+Is	O
+Angry	O
+
+-DOCSTART-
+
+# 7o3kb5 movies
+Kendrick	B-Kendrick_Lamar
+Lamar	I-Kendrick_Lamar
+Producing	O
+,	O
+Curating	O
+Black	O
+Panther	O
+Soundtrack	O
+Album	O
+
+-DOCSTART-
+
+# 7ovadr movies
+James	B-James_Franco
+Franco	I-James_Franco
+[	O
+winner	O
+]	O
+,	O
+Dave	B-Dave_Franco
+Franco	I-Dave_Franco
+,	O
+and	O
+Tommy	B-Tommy_Wiseau
+Wiseau	I-Tommy_Wiseau
+Accept	O
+the	O
+Golden	O
+Globe	O
+for	O
+Best	O
+Performance	O
+by	O
+an	O
+Actor	O
+in	O
+a	O
+Motion	O
+Picture	O
+(	O
+Musical	O
+or	O
+Comedy	O
+)	O
+
+-DOCSTART-
+
+# 7ue4jw movies
+Octavia	B-Octavia_Spencer
+Spencer	I-Octavia_Spencer
+plans	O
+to	O
+buy	O
+out	O
+Mississippi	B-Mississippi
+screening	O
+of	O
+'	O
+Black	B-Black_Panther_(film)
+Panther	I-Black_Panther_(film)
+'	O
+for	O
+underserved	O
+communities	O
+
+-DOCSTART-
+
+# 7pf9j9 movies
+Rose	B-Rose_McGowan
+McGowan	I-Rose_McGowan
+is	O
+selling	O
+her	O
+house	B-House
+to	O
+pay	O
+legal	O
+fees	O
+in	O
+fight	O
+against	O
+Weinstein	B-Harvey_Weinstein
+
+-DOCSTART-
+
+# 8ltbsj movies
+Women	B-Woman
+accuse	O
+Morgan	B-Morgan_Freeman
+Freeman	I-Morgan_Freeman
+of	O
+inappropriate	O
+behavior	O
+,	O
+harassment	B-Harassment
+
+-DOCSTART-
+
+# 8ut00l movies
+First	O
+poster	B-Poster
+for	O
+the	O
+upcoming	O
+film	B-Film
+"	O
+Glass	O
+"	O
+
+-DOCSTART-
+
+# 8inxft movies
+New	O
+poster	B-Poster
+for	O
+"	O
+Little	O
+Italy	O
+"	O
+starring	O
+Emma	B-Emma_Roberts
+Roberts	I-Emma_Roberts
+and	O
+Hayden	B-Hayden_Christensen
+Christensen	I-Hayden_Christensen
+
+-DOCSTART-
+
+# 8h08gh movies
+Ryan	B-Ryan_Reynolds
+Reynolds	I-Ryan_Reynolds
+Confirms	O
+TJ	B-T.J._Miller
+Miller	I-T.J._Miller
+Will	O
+Not	O
+Return	O
+For	O
+'	O
+X	O
+-	O
+Force	O
+'	O
+Film	O
+
+-DOCSTART-
+
+# 8gsknb movies
+Film	O
+Academy	B-Academy
+Expels	O
+Bill	B-Bill_Cosby
+Cosby	I-Bill_Cosby
+and	O
+Roman	O
+Polanski	O
+From	O
+Membership	O
+
+-DOCSTART-
+
+# 8iycrp movies
+Benedict	B-Benedict_Cumberbatch
+Cumberbatch	I-Benedict_Cumberbatch
+Says	O
+He	O
+’ll	O
+Only	O
+Take	O
+New	O
+Projects	O
+If	O
+His	O
+Female	O
+Co	O
+-	O
+Stars	O
+Receive	O
+Equal	O
+Pay	O
+
+-DOCSTART-
+
+# 8b90a7 movies
+T.J.	B-T.J._Miller
+Miller	I-T.J._Miller
+Arrested	O
+for	O
+Fake	O
+Bomb	B-Bomb_threat
+Threat	I-Bomb_threat
+
+-DOCSTART-
+
+# 8exo3x movies
+Patton	B-Patton_Oswalt
+Oswalt	I-Patton_Oswalt
+Replacing	O
+Louis	B-Louis_C.K.
+C.K.	I-Louis_C.K.
+in	O
+‘	O
+Secret	O
+Life	O
+of	O
+Pets	O
+2	O
+’	O
+
+-DOCSTART-
+
+# 8m10oz movies
+Harvey	B-Harvey_Weinstein
+Weinstein	I-Harvey_Weinstein
+Turns	O
+Himself	O
+in	O
+to	O
+Authorities	O
+
+-DOCSTART-
+
+# 91rpg9 movies
+In	O
+Firing	O
+James	B-James_Gunn
+Gunn	I-James_Gunn
+,	O
+Disney	B-The_Walt_Disney_Company
+Hurts	O
+All	O
+of	O
+Hollywood	O
+
+-DOCSTART-
+
+# 9irh40 movies
+Michael	B-Michael_Moore
+Moore	I-Michael_Moore
+’s	O
+“	O
+Fahrenheit	B-Fahrenheit_11/9
+11/9	I-Fahrenheit_11/9
+”	O
+Aims	O
+Not	O
+at	O
+Trump	B-Donald_Trump
+But	O
+at	O
+Those	O
+Who	O
+Created	O
+the	O
+Conditions	O
+That	O
+Led	O
+to	O
+His	O
+Rise	O
+-	O
+Glenn	B-Glenn_Greenwald
+Greenwald	I-Glenn_Greenwald
+
+-DOCSTART-
+
+# 9hs14a movies
+First	O
+look	O
+at	O
+Joaquin	B-Joaquin_Phoenix
+Phoenix	I-Joaquin_Phoenix
+in	O
+make	O
+-	O
+up	O
+from	O
+"	O
+Joker	B-Joker_(2019_film)
+"	O
+
+-DOCSTART-
+
+# 8yto89 movies
+Disney	B-The_Walt_Disney_Company
+would	O
+control	O
+40	O
+%	O
+of	O
+the	O
+US	O
+box	O
+office	O
+if	O
+it	O
+buys	O
+Fox	O
+
+-DOCSTART-
+
+# 7prke8 worldnews
+Trump	B-Donald_Trump
+attacks	O
+protections	O
+for	O
+immigrants	B-Immigration
+from	O
+‘	O
+shithole	O
+’	O
+countries	O
+in	O
+Oval	B-Oval_Office
+Office	I-Oval_Office
+meeting	O
+
+-DOCSTART-
+
+# 7szefa worldnews
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+tells	O
+Theresa	O
+May	O
+he	O
+wo	O
+n't	O
+visit	O
+the	O
+UK	B-United_Kingdom
+unless	O
+she	O
+bans	O
+protests	O
+
+-DOCSTART-
+
+# 7nezpr worldnews
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+attacks	O
+Pakistan	B-Pakistan
+claiming	O
+'	O
+they	O
+have	O
+given	O
+us	O
+nothing	O
+but	O
+lies	O
+and	O
+deceit	O
+'	O
+in	O
+return	O
+for	O
+$	O
+33bn	O
+aid	O
+-	O
+''	O
+They	O
+give	O
+safe	O
+haven	O
+to	O
+the	O
+terrorists	B-Terrorism
+we	O
+hunt	O
+in	O
+Afghanistan	B-Afghanistan
+,	O
+with	O
+little	O
+help	O
+.	O
+No	O
+more	O
+!	O
+'	O
+
+-DOCSTART-
+
+# 7s019y worldnews
+China	B-China
+says	O
+shutdown	O
+shows	O
+U.S.	O
+democracy	B-Democracy
+chaotic	O
+and	O
+chronically	O
+flawed	O
+
+-DOCSTART-
+
+# 7wcj2k worldnews
+Horrific	O
+animal	O
+suffering	O
+revealed	O
+at	O
+farm	O
+used	O
+by	O
+producer	O
+of	O
+Spanish	O
+sausages	O
+sold	O
+in	O
+Morrisons	B-Morrisons
+and	O
+on	O
+Amazon	O
+UK	O
+
+-DOCSTART-
+
+# 7u1y9g worldnews
+FBI	B-Federal_Bureau_of_Investigation
+has	O
+second	O
+dossier	O
+on	O
+possible	O
+Trump	O
+-	O
+Russia	O
+collusion	O
+
+-DOCSTART-
+
+# 7qkn2o worldnews
+Hijab	B-Hijab
+attack	O
+on	O
+girl	O
+was	O
+a	O
+hoax	B-Hoax
+-	O
+Canada	B-Canada
+
+-DOCSTART-
+
+# 7nug5w worldnews
+Russia	B-Russia
+Says	O
+US	B-United_States
+Ca	O
+n't	O
+Criticize	O
+Iran	B-Iran
+Because	O
+It	O
+Crushed	O
+Occupy	O
+Wall	O
+Street	O
+and	O
+Ferguson	O
+
+-DOCSTART-
+
+# 7zq953 worldnews
+FBI	B-Federal_Bureau_of_Investigation
+‘	O
+investigating	O
+whether	O
+Russian	O
+money	O
+went	O
+to	O
+NRA	O
+’s	O
+campaign	O
+to	O
+help	O
+elect	O
+Donald	O
+Trump	O
+’	O
+
+-DOCSTART-
+
+# 7uyzgc worldnews
+Italy	B-Italy
+gun	O
+attacks	O
+:	O
+Drive	O
+-	O
+by	O
+shootings	O
+'	O
+targeting	O
+black	O
+people	O
+'	O
+reported	O
+across	O
+city	O
+of	O
+Macerata	O
+in	O
+ongoing	O
+incident	O
+:	O
+'	O
+Stay	O
+at	O
+home	O
+until	O
+further	O
+notice	O
+,	O
+'	O
+city	O
+'s	O
+mayor	O
+tells	O
+locals	O
+.	O
+
+-DOCSTART-
+
+# 7r0vsk worldnews
+North	B-North_Korea
+and	O
+South	B-South_Korea
+Korea	I-South_Korea
+agree	O
+to	O
+carry	O
+single	O
+flag	O
+at	O
+Winter	B-Winter_Olympic_Games
+Olympics	I-Winter_Olympic_Games
+and	O
+field	O
+joint	O
+women	O
+'s	O
+ice	O
+hockey	O
+team	O
+
+-DOCSTART-
+
+# 8c45ze worldnews
+US	O
+-	O
+UK	O
+launch	O
+military	O
+strikes	O
+on	O
+Syria	B-Syria
+
+-DOCSTART-
+
+# 8bg81l worldnews
+‘	O
+Get	O
+ready	O
+Russia	B-Russia
+’	O
+:	O
+Trump	B-Donald_Trump
+announces	O
+Syrian	O
+missile	O
+strike	O
+on	O
+Twitter	B-Twitter
+against	O
+‘	O
+Gas	O
+Killing	O
+Animal	O
+’	O
+Assad	O
+
+-DOCSTART-
+
+# 8c7adc worldnews
+US	O
+President	O
+Donald	O
+Trump	O
+has	O
+hailed	O
+an	O
+overnight	O
+military	O
+strike	O
+on	O
+Syria	B-Syria
+as	O
+"	O
+perfectly	O
+executed	O
+"	O
+,	O
+adding	O
+"	O
+Mission	O
+Accomplished	O
+"	O
+.	O
+
+-DOCSTART-
+
+# 82mvwk worldnews
+EU	B-European_Union
+has	O
+prepared	O
+list	O
+of	O
+products	O
+for	O
+retaliatory	O
+tariffs	O
+,	O
+calculated	O
+for	O
+maximum	O
+political	O
+impact	O
+.	O
+List	O
+includes	O
+Harley	B-Harley-Davidson
+-	I-Harley-Davidson
+Davidson	I-Harley-Davidson
+to	O
+hurt	O
+Paul	O
+Ryan	O
+,	O
+bourbon	O
+whiskey	O
+to	O
+hurt	O
+Mitch	O
+McConnell	O
+,	O
+and	O
+Levi	O
+-	O
+Strauss	O
+to	O
+hurt	O
+Nancy	O
+Pelosi	O
+.	O
+
+-DOCSTART-
+
+# 8f7l3h worldnews
+Kim	B-Kim_Jong-un
+Jong	I-Kim_Jong-un
+-	I-Kim_Jong-un
+un	I-Kim_Jong-un
+crosses	O
+into	O
+South	B-South_Korea
+Korea	I-South_Korea
+
+-DOCSTART-
+
+# 82e95m worldnews
+Male	B-Male_prostitution
+escort	I-Male_prostitution
+exposes	O
+36	O
+actively	O
+gay	O
+priests	B-Priest
+in	O
+a	O
+file	O
+sent	O
+to	O
+Vatican	O
+containing	O
+erotic	O
+Whatsapp	B-WhatsApp
+messages	O
+and	O
+photos	O
+.	O
+The	O
+allegations	O
+were	O
+compiled	O
+by	O
+a	O
+gay	O
+male	O
+escort	O
+who	O
+told	O
+local	O
+media	O
+he	O
+could	O
+n’t	O
+put	O
+up	O
+with	O
+the	O
+priests	O
+’	O
+"	O
+hypocrisy	O
+"	O
+any	O
+longer	O
+.	O
+
+-DOCSTART-
+
+# 8dmgud worldnews
+Chinese	O
+tourists	O
+kill	O
+kangaroo	B-Kangaroo
+,	O
+hurling	O
+bricks	O
+to	O
+make	O
+it	O
+hop	O
+
+-DOCSTART-
+
+# 8nijjr worldnews
+Trump	O
+administration	O
+will	O
+put	O
+steel	O
+and	O
+aluminum	B-Aluminium
+tariffs	O
+on	O
+Canada	O
+,	O
+Mexico	O
+and	O
+the	O
+EU	O
+
+-DOCSTART-
+
+# 8n83pd worldnews
+In	O
+a	O
+world	O
+first	O
+,	O
+Scotland	B-Scotland
+to	O
+roll	O
+out	O
+free	O
+sanitary	O
+products	O
+for	O
+low	O
+-	O
+income	O
+women	O
+
+-DOCSTART-
+
+# 8kl3ox worldnews
+Adolf	O
+Hitler	O
+definitely	O
+died	O
+in	O
+1945	O
+in	O
+Berlin	B-Berlin
+,	O
+from	O
+taking	O
+cyanide	O
+and	O
+a	O
+bullet	O
+,	O
+according	O
+to	O
+French	O
+researchers	O
+who	O
+were	O
+given	O
+access	O
+to	O
+fragments	O
+of	O
+the	O
+dictator	O
+'s	O
+teeth	O
+held	O
+in	O
+Moscow	O
+.	O
+
+-DOCSTART-
+
+# 8h3vu7 worldnews
+California	B-California
+Is	O
+Now	O
+World	O
+'s	O
+5th	O
+Largest	O
+Economy	O
+,	O
+Surpasses	O
+UK	O
+
+-DOCSTART-
+
+# a8wdhj worldnews
+Scientists	O
+raise	O
+alert	O
+as	O
+ocean	O
+plankton	O
+levels	O
+plummet	O
+.	O
+"	O
+Alarm	O
+bells	O
+start	O
+going	O
+off	O
+because	O
+it	O
+means	O
+that	O
+something	O
+fundamental	O
+may	O
+have	O
+changed	O
+in	O
+the	O
+food	O
+web	O
+.	O
+"	O
+Plankton	O
+provide	O
+about	O
+70	O
+%	O
+of	O
+the	O
+oxygen	B-Oxygen
+humans	O
+breathe	O
+.	O
+
+-DOCSTART-
+
+# a2o90w worldnews
+"	O
+Collapse	O
+of	O
+civilisation	O
+is	O
+on	O
+the	O
+horizon	B-Horizon
+"	O
+Sir	O
+David	O
+Attenborough	O
+tells	O
+UN	O
+climate	O
+summit	O
+
+-DOCSTART-
+
+# a3q6hw worldnews
+China	B-China
+is	O
+holding	O
+800k	O
+Muslims	B-Muslims
+in	O
+internment	O
+camps	O
+
+-DOCSTART-
+
+# a3p0jd worldnews
+Leaked	O
+emails	O
+for	O
+Mark	B-Mark_Zuckerberg
+Zuckerberg	I-Mark_Zuckerberg
+show	O
+Facebook	O
+'	O
+struck	O
+secret	O
+deals	O
+over	O
+user	O
+data	O
+'	O
+
+-DOCSTART-
+
+# a9b94q worldnews
+Pope	B-Pope
+slams	O
+'	O
+insatiable	O
+greed	O
+'	O
+at	O
+Christmas	B-Christmas_Eve
+Eve	I-Christmas_Eve
+Mass	O
+:	O
+Pope	B-Pope_Francis
+Francis	I-Pope_Francis
+has	O
+reminded	O
+Christians	B-Christians
+that	O
+their	O
+messiah	O
+was	O
+born	O
+in	O
+poverty	O
+and	O
+said	O
+they	O
+should	O
+focus	O
+on	O
+love	O
+and	O
+charity	B-Charity_(practice)
+instead	O
+of	O
+"	O
+consumerism	O
+.	O
+"	O
+10,000	O
+people	O
+attended	O
+the	O
+event	O
+in	O
+St.	O
+Peter	O
+'s	O
+Basilica	O
+.	O
+
+-DOCSTART-
+
+# a9v9st worldnews
+Elon	O
+Musk	O
+:	O
+"	O
+We	O
+know	O
+we	O
+’ll	O
+run	O
+out	O
+of	O
+dead	O
+dinosaurs	B-Dinosaur
+to	O
+mine	O
+for	O
+fuel	B-Fuel
+&	O
+have	O
+to	O
+use	O
+sustainable	O
+energy	O
+eventually	O
+,	O
+so	O
+why	O
+not	O
+go	O
+renewable	O
+now	O
+&	O
+avoid	O
+increasing	O
+risk	O
+of	O
+climate	O
+catastrophe	O
+?	O
+Betting	O
+that	O
+science	O
+is	O
+wrong	O
+&	O
+oil	O
+companies	O
+are	O
+right	O
+is	O
+the	O
+dumbest	O
+experiment	O
+in	O
+history	O
+by	O
+far	O
+.	O
+"	O
+
+-DOCSTART-
+
+# a7zka6 worldnews
+Abortion	B-Abortion
+becomes	O
+legal	B-Law
+in	O
+Ireland	B-Ireland
+for	O
+first	O
+time	O
+after	O
+Bill	O
+signed	O
+by	O
+President	O
+
+-DOCSTART-
+
+# a21lfl worldnews
+'	O
+Anti	O
+-	O
+vax	O
+'	O
+movement	O
+blamed	O
+for	O
+30	O
+per	O
+cent	O
+jump	O
+in	O
+measles	B-Measles
+cases	O
+worldwide	O
+
+-DOCSTART-
+
+# a6ec0k worldnews
+'	O
+Animals	O
+are	O
+not	O
+entertainment	O
+'	O
+:	O
+Sea	O
+World	O
+has	O
+been	O
+forced	O
+to	O
+cancel	O
+two	O
+of	O
+its	O
+performing	O
+dolphin	B-Dolphin
+shows	O
+in	O
+a	O
+dramatic	O
+day	O
+on	O
+the	O
+Gold	O
+Coast	O
+,	O
+where	O
+protesters	O
+invaded	O
+the	O
+pools	O
+as	O
+part	O
+of	O
+a	O
+co	O
+-	O
+ordinated	O
+sting	O
+,	O
+leading	O
+to	O
+several	O
+arrests	O
+.	O
+
+-DOCSTART-
+
+# a79z9p worldnews
+Giraffes	B-Giraffe
+just	O
+silently	O
+went	O
+to	O
+the	O
+list	O
+of	O
+endangered	O
+animals	O
+facing	O
+extinction	O
+
+-DOCSTART-
+
+# 9r2d2v worldnews
+Killed	O
+journalist	O
+Jamal	O
+Khashoggi	O
+'s	O
+children	O
+are	O
+reportedly	O
+barred	O
+from	O
+leaving	O
+Saudi	B-Saudi_Arabia
+Arabia	I-Saudi_Arabia
+,	O
+some	O
+are	O
+dual	O
+US	O
+citizens	O
+
+-DOCSTART-
+
+# 9qnyc8 worldnews
+'	O
+Shameful	O
+'	O
+:	O
+Cannabis	O
+customers	O
+floored	O
+by	O
+the	O
+amount	O
+of	O
+plastic	B-Plastic
+packing	O
+on	O
+their	O
+pot	O
+-	O
+Some	O
+cannabis	O
+customers	O
+are	O
+calling	O
+for	O
+less	O
+plastic	O
+and	O
+a	O
+recycling	O
+program	O
+
+-DOCSTART-
+
+# 7qky8p gaming
+Leaked	O
+documents	O
+showing	O
+they	O
+'re	O
+using	O
+AI	B-Artificial_intelligence
+to	O
+change	O
+video	B-Video_game
+games	I-Video_game
+DURING	O
+gameplay	O
+to	O
+force	O
+micro	O
+-	O
+transactions	O
+
+-DOCSTART-
+
+# 80nq17 gaming
+Left	O
+is	O
+7	O
+year	O
+old	O
+me	O
+with	O
+my	O
+ps2	B-PlayStation_2
+.	O
+Right	O
+is	O
+23	O
+year	O
+old	O
+me	O
+with	O
+my	O
+ps4	B-PlayStation_4
+?	O
+
+-DOCSTART-
+
+# 7qvv3k gaming
+My	O
+son	O
+lives	O
+with	O
+his	O
+mother	O
+3	O
+hours	O
+away	O
+.	O
+I	O
+do	O
+n’t	O
+get	O
+visitation	O
+that	O
+often	O
+and	O
+he	O
+’s	O
+old	O
+enough	O
+now	O
+to	O
+play	O
+online	O
+games	O
+,	O
+and	O
+just	O
+got	O
+GTA5	B-Grand_Theft_Auto_V
+so	O
+now	O
+we	O
+can	O
+hang	O
+out	O
+and	O
+chat	O
+more	O
+or	O
+less	O
+every	O
+day	O
+:)	O
+
+-DOCSTART-
+
+# 7wuisj gaming
+Just	O
+look	O
+how	O
+beautiful	O
+it	O
+is	O
+.	O
+Why	O
+the	O
+console	O
+war	O
+exists	O
+?	O
+PC	O
+,	O
+PS	B-PlayStation
+,	O
+Xbox	B-Xbox
+and	O
+Nintendo	O
+players	O
+,	O
+please	O
+respect	O
+each	O
+other	O
+.	O
+Do	O
+n’t	O
+be	O
+a	O
+fanboy	O
+
+-DOCSTART-
+
+# 8awi3z gaming
+Okay	O
+PUBG	O
+I	O
+get	O
+it	O
+,	O
+people	O
+make	O
+mistakes	O
+but	O
+assuming	O
+that	O
+you	O
+'re	O
+the	O
+first	O
+shooter	B-Shooter_game
+game	I-Shooter_game
+to	O
+conceive	O
+the	O
+use	O
+of	O
+a	O
+frying	B-Frying_pan
+pan	I-Frying_pan
+as	O
+a	O
+melee	O
+combat	O
+weapon	O
+is	O
+outright	O
+wrong	O
+and	O
+stupid	O
+.	O
+
+-DOCSTART-
+
+# 83cyf7 gaming
+80	O
+percent	O
+of	O
+mass	O
+shooters	O
+showed	O
+no	O
+interest	O
+in	O
+video	B-Video_game
+games	I-Video_game
+,	O
+researcher	O
+says	O
+
+-DOCSTART-
+
+# 8bheq8 gaming
+While	O
+waiting	O
+at	O
+Kyoto	B-Kyōto_Station
+Station	I-Kyōto_Station
+this	O
+guy	O
+asked	O
+if	O
+I	O
+want	O
+to	O
+play	O
+two	O
+player	O
+Game	B-Game_Boy
+Boy	I-Game_Boy
+with	O
+him	O
+.	O
+30	O
+mins	O
+well	O
+spent	O
+.	O
+
+-DOCSTART-
+
+# 84tagd gaming
+I	O
+made	O
+a	O
+Doom	O
+Logo	B-Logo
+in	O
+my	O
+metalshop	O
+class	O
+,	O
+what	O
+do	O
+you	O
+guys	O
+think	O
+?	O
+Its	O
+not	O
+done	O
+yet	O
+.	O
+
+-DOCSTART-
+
+# 83a7ww gaming
+Guns	B-Gun
+Vs	O
+.	O
+Videogames	B-Video_game
+-	O
+This	O
+took	O
+me	O
+10	O
+minutes	O
+to	O
+investigate	O
+.	O
+Guessing	O
+the	O
+debate	B-Debate
+will	O
+continue	O
+anyway	O
+..	O
+
+-DOCSTART-
+
+# 846m00 gaming
+So	O
+Nintendo	B-Nintendo
+is	O
+hiring	O
+a	O
+graphic	O
+designer	O
+and	O
+I	O
+might	O
+have	O
+sent	O
+them	O
+this	O
+as	O
+my	O
+cover	O
+letter	O
+
+-DOCSTART-
+
+# 8qusdg gaming
+EA	B-Electronic_Arts
+and	O
+Activision	B-Activision
+are	O
+too	O
+scared	O
+to	O
+add	O
+swastikas	B-Swastika
+while	O
+Bethesda	O
+here	O
+does	O
+n't	O
+give	O
+a	O
+fuck	O
+.	O
+
+-DOCSTART-
+
+# 97ftun gaming
+in	O
+madison	B-Madison,_Wisconsin
+wisconsin	I-Madison,_Wisconsin
+there	O
+'s	O
+a	O
+classic	O
+arcade	O
+called	O
+'	O
+geek	O
+mania	O
+'	O
+,	O
+has	O
+tons	O
+of	O
+games	O
+and	O
+pinball	O
+machines	O
+.	O
+you	O
+pay	O
+$	O
+15	O
+to	O
+get	O
+in	O
+and	O
+then	O
+all	O
+the	O
+games	O
+are	O
+free	O
+and	O
+you	O
+can	O
+stay	O
+as	O
+long	O
+as	O
+you	O
+want	O
+.	O
+we	O
+need	O
+to	O
+see	O
+more	O
+places	O
+like	O
+this	O
+.	O
+
+-DOCSTART-
+
+# 9kxeb8 gaming
+CD	O
+Project	O
+Red	O
+is	O
+getting	O
+sued	O
+by	O
+the	O
+author	O
+of	O
+the	O
+Witcher	O
+series	O
+Andrzej	B-Andrzej_Sapkowski
+Sapkowski	I-Andrzej_Sapkowski
+For	O
+16	O
+million	O
+USD	O
+
+-DOCSTART-
+
+# 9hwfgm gaming
+I	O
+see	O
+a	O
+lot	O
+of	O
+Xbox	B-Xbox
+hate	O
+on	O
+here	O
+but	O
+can	O
+we	O
+just	O
+acknowledge	O
+that	O
+Backwards	B-Backward_compatibility
+Compatibly	I-Backward_compatibility
+on	O
+a	O
+Console	O
+you	O
+already	O
+own	O
+is	O
+a	O
+lot	O
+better	O
+than	O
+buying	O
+multiple	O
+$	O
+50	O
+-	O
+100	O
+mini	O
+consoles	O
+
+-DOCSTART-
+
+# 7y0phb news
+Thirteen	O
+Russians	B-Russians
+criminally	O
+charged	O
+for	O
+interfering	O
+in	O
+US	O
+election	O
+,	O
+Mueller	B-Robert_Mueller
+announces	O
+
+-DOCSTART-
+
+# 80ixyy news
+Florida	O
+Senate	O
+committee	O
+approves	O
+proposal	O
+to	O
+arm	O
+teachers	B-Teacher
+,	O
+rejects	O
+assault	B-Assault_gun
+gun	I-Assault_gun
+ban	O
+
+-DOCSTART-
+
+# 8029mk news
+Transgender	B-Transgender
+wrestler	B-Wrestling
+booed	B-Booing
+in	O
+Texas	B-Texas
+final	O
+after	O
+winning	O
+
+-DOCSTART-
+
+# 7xyggy news
+Kentucky	O
+governor	O
+blames	O
+violent	O
+video	O
+games	O
+,	O
+movies	B-Film
+,	O
+not	O
+guns	B-Gun
+for	O
+school	B-School_shooting
+shootings	I-School_shooting
+
+-DOCSTART-
+
+# 7sjr2o news
+NFL	B-National_Football_League
+Rejects	O
+'	O
+Please	O
+Stand	O
+'	O
+Ad	O
+from	O
+Veterans	O
+Group	O
+
+-DOCSTART-
+
+# 7rkphn news
+Texas	B-Texas
+judge	B-Judge
+interrupts	O
+jury	O
+,	O
+says	O
+God	B-God
+told	O
+him	O
+defendant	B-Defendant
+is	O
+not	O
+guilty	O
+
+-DOCSTART-
+
+# 7poiui news
+Vermont	O
+Senate	O
+legalizes	B-Legalization
+recreational	O
+pot	B-Cannabis_(drug)
+
+-DOCSTART-
+
+# 7zwi9g news
+Dad	O
+turns	O
+Son	O
+in	O
+for	O
+Snapchat	B-Snapchat
+Gun	B-Gun
+Posts	O
+,	O
+Cops	O
+find	O
+Child	O
+Porn	O
+on	O
+his	O
+phone	O
+
+-DOCSTART-
+
+# 7ni6op news
+Man	O
+cleared	O
+of	O
+rape	B-Rape
+after	O
+Facebook	O
+message	O
+proves	O
+his	O
+innocence	B-Innocence
+
+-DOCSTART-
+
+# 7xhpuc news
+Indiana	B-Indiana
+3	O
+-	O
+Year	O
+-	O
+Old	O
+Who	O
+Died	O
+From	O
+the	O
+Flu	B-Influenza
+Was	O
+Not	O
+Vaccinated	O
+
+-DOCSTART-
+
+# 7veu4r news
+Philadelphia	B-Philadelphia
+fans	O
+set	O
+fire	O
+,	O
+damage	O
+property	O
+after	O
+Super	B-Super_Bowl
+Bowl	I-Super_Bowl
+win	O
+
+-DOCSTART-
+
+# 7nx282 news
+Tim	B-Tim_Hortons
+Hortons	I-Tim_Hortons
+Cuts	O
+Employee	O
+Breaks	O
+and	O
+Benefits	O
+to	O
+Make	O
+Up	O
+For	O
+Minimum	B-Minimum_wage
+Wage	I-Minimum_wage
+Increase	O
+
+-DOCSTART-
+
+# 7zirmy news
+Paul	B-Paul_Manafort
+Manafort	I-Paul_Manafort
+and	O
+Rick	B-Rick_Gates_(political_consultant)
+Gates	I-Rick_Gates_(political_consultant)
+indicted	B-Indictment
+on	O
+32	O
+-	O
+counts	O
+
+-DOCSTART-
+
+# 7qtkn4 news
+Bannon	O
+Is	O
+Subpoenaed	B-Subpoena
+in	O
+Mueller	O
+’s	O
+Russia	O
+Investigation	O
+
+-DOCSTART-
+
+# 7wmb2d news
+Openly	O
+gay	O
+teacher	B-Teacher
+fired	O
+after	O
+posting	O
+wedding	B-Wedding
+pictures	O
+on	O
+social	O
+media	O
+
+-DOCSTART-
+
+# 7vrnwh news
+Tennessee	B-Tennessee
+sheriff	O
+taped	O
+saying	O
+'	O
+I	O
+love	O
+this	O
+shit	O
+'	O
+after	O
+ordering	O
+suspect	O
+'s	O
+killing	O
+
+-DOCSTART-
+
+# 7s87w8 news
+Vermont	B-Vermont
+has	O
+officially	O
+legalized	O
+cannabis	B-Cannabis
+
+-DOCSTART-
+
+# 80s452 news
+Parkland	O
+Father	B-Father
+Admits	O
+to	O
+Doctoring	O
+CNN	O
+Email	B-Email
+
+-DOCSTART-
+
+# 87vnah news
+Donations	O
+to	O
+the	O
+NRA	B-National_Rifle_Association
+tripled	O
+after	O
+the	O
+Parkland	O
+shooting	O
+
+-DOCSTART-
+
+# 89hxnm news
+Possible	O
+active	O
+shooter	O
+at	O
+Youtube	B-YouTube
+in	O
+San	O
+Bruno	O
+
+-DOCSTART-
+
+# 8b1h7p news
+F.B.I.	B-Federal_Bureau_of_Investigation
+Raids	O
+Office	O
+of	O
+Trump	O
+’s	O
+Longtime	O
+Lawyer	B-Lawyer
+Michael	B-Michael_Cohen_(lawyer)
+Cohen	I-Michael_Cohen_(lawyer)
+
+-DOCSTART-
+
+# 860kxw news
+Texas	B-Texas
+serial	O
+bombing	O
+suspect	O
+'	O
+dead	B-Death
+'	O
+-	O
+US	O
+reports	O
+
+-DOCSTART-
+
+# 89zczt news
+Illinois	B-Illinois
+town	O
+votes	O
+to	O
+ban	O
+assault	O
+rifles	O
+,	O
+fine	O
+violators	O
+up	O
+to	O
+$	O
+1,000	O
+per	O
+day	O
+
+-DOCSTART-
+
+# 8c9v45 news
+Michigan	B-Michigan
+man	O
+charged	O
+with	O
+shooting	B-Shooting
+at	O
+teen	O
+who	O
+knocked	O
+on	O
+door	O
+to	O
+ask	O
+directions	O
+
+-DOCSTART-
+
+# 8evx2j news
+Belgium	B-Belgium
+declares	O
+loot	B-Loot_box
+boxes	I-Loot_box
+gambling	B-Gambling
+and	O
+therefore	O
+illegal	O
+
+-DOCSTART-
+
+# 86fro6 news
+National	O
+Security	O
+Adviser	O
+H.R.	O
+McMaster	O
+Resigns	O
+,	O
+Will	O
+Be	O
+Replaced	O
+by	O
+John	B-John_Bolton
+Bolton	I-John_Bolton
+
+-DOCSTART-
+
+# 8efpsu news
+Report	O
+:	O
+President	O
+George	O
+H.W.	O
+Bush	O
+is	O
+in	O
+intensive	B-Intensive_care_medicine
+care	I-Intensive_care_medicine
+
+-DOCSTART-
+
+# 8kcysk news
+Reports	O
+of	O
+shots	O
+fired	O
+at	O
+Santa	B-Santa_Fe_High_School_(Texas)
+Fe	I-Santa_Fe_High_School_(Texas)
+High	I-Santa_Fe_High_School_(Texas)
+School	I-Santa_Fe_High_School_(Texas)
+
+-DOCSTART-
+
+# 8n93wl news
+Ambien	O
+-	O
+maker	O
+to	O
+Roseanne	B-Roseanne_Barr
+:	O
+Racism	B-Racism
+is	O
+not	O
+a	O
+side	B-Side_effect
+effect	I-Side_effect
+of	O
+our	O
+drug	O
+
+-DOCSTART-
+
+# 8hxn5i news
+Trump	B-Donald_Trump
+Tells	O
+Macron	B-Emmanuel_Macron
+the	O
+U.S.	O
+Will	O
+Withdraw	O
+From	O
+Iran	O
+Nuclear	O
+Deal	O
+
+-DOCSTART-
+
+# 8jp1ha news
+Teens	B-Adolescence
+charged	O
+with	O
+brutally	O
+killing	O
+opossum	B-Opossum
+and	O
+her	O
+babies	O
+on	O
+Snapchat	B-Snapchat
+
+-DOCSTART-
+
+# 8gyakx news
+Man	O
+‘	O
+trying	O
+to	O
+take	O
+selfie	B-Selfie
+'	O
+with	O
+bear	B-Bear
+gets	O
+mauled	O
+to	O
+death	B-Death
+
+-DOCSTART-
+
+# 8owkmg news
+Tesla	O
+shareholders	B-Shareholder
+reject	O
+bid	O
+to	O
+strip	O
+Musk	B-Elon_Musk
+of	O
+chairman	B-Chairperson
+role	O
+
+-DOCSTART-
+
+# 8hq7w6 news
+George	B-George_Zimmerman
+Zimmerman	I-George_Zimmerman
+charged	O
+with	O
+stalking	O
+private	O
+investigator	O
+
+-DOCSTART-
+
+# 8gguc0 news
+The	O
+Boy	O
+Scouts	O
+are	O
+dropping	O
+the	O
+word	O
+'	O
+boy	B-Boy
+'	O
+from	O
+the	O
+name	O
+of	O
+their	O
+flagship	O
+program	O
+
+-DOCSTART-
+
+# 8hgtbt news
+SWAT	B-SWAT
+told	O
+Olathe	O
+,	O
+KS	O
+police	B-Police
+not	O
+to	O
+go	O
+in	O
+,	O
+body	O
+cams	O
+show	O
+.	O
+They	O
+did	O
+anyway	O
+and	O
+killed	O
+a	O
+woman	B-Woman
+
+-DOCSTART-
+
+# 8kr6rm news
+France	B-France
+to	O
+fine	O
+men	B-Man
+up	O
+to	O
+€	O
+750	O
+for	O
+wolf	B-Wolf-whistling
+-	I-Wolf-whistling
+whistling	I-Wolf-whistling
+or	O
+making	O
+sexual	O
+comments	O
+to	O
+women	B-Woman
+
+-DOCSTART-
+
+# 8kqs6t news
+Ed	B-Ed_Sheeran
+Sheeran	I-Ed_Sheeran
+distances	O
+himself	O
+from	O
+anti	O
+-	O
+abortion	O
+campaign	O
+after	O
+they	O
+use	O
+one	O
+of	O
+his	O
+songs	O
+
+-DOCSTART-
+
+# 8ldbwu news
+4	O
+-	O
+year	O
+-	O
+old	O
+accidentally	O
+shoots	O
+,	O
+kills	O
+2	O
+-	O
+year	O
+-	O
+old	O
+brother	O
+after	O
+mistaking	O
+gun	B-Gun
+for	O
+toy	O
+
+-DOCSTART-
+
+# 8o82im news
+Officer	O
+fired	O
+after	O
+intentionally	O
+hitting	O
+fleeing	O
+suspect	B-Suspect
+with	O
+his	O
+police	O
+car	O
+.	O
+
+-DOCSTART-
+
+# 8llg0x news
+Judge	B-Judge
+:	O
+President	O
+ca	O
+n't	O
+block	B-Block_(Internet)
+critics	B-Critic
+on	O
+Twitter	O
+
+-DOCSTART-
+
+# 8z2i6q news
+Elon	B-Elon_Musk
+Musk	I-Elon_Musk
+calls	O
+British	O
+diver	O
+who	O
+helped	O
+rescue	O
+Thai	O
+schoolboys	O
+'	O
+pedo	O
+guy	O
+'	O
+in	O
+Twitter	B-Twitter
+outburst	O
+
+-DOCSTART-
+
+# 957c4v news
+EPA	B-United_States_Environmental_Protection_Agency
+is	O
+now	O
+allowing	O
+asbestos	B-Asbestos
+back	O
+into	O
+manufacturing	B-Manufacturing
+
+-DOCSTART-
+
+# 981m68 news
+Satanic	B-The_Satanic_Temple
+Temple	I-The_Satanic_Temple
+statue	O
+unveiled	O
+at	O
+the	O
+Arkansas	O
+State	O
+Capitol	O
+
+-DOCSTART-
+
+# 8wgnqy news
+Navy	B-United_States_Navy_SEALs
+SEAL	I-United_States_Navy_SEALs
+dies	O
+while	O
+rescuing	O
+Thai	O
+schoolboys	O
+trapped	O
+in	O
+cave	O
+
+-DOCSTART-
+
+# 8zuj8f news
+Europe	B-Europe
+hits	O
+Google	O
+with	O
+a	O
+record	O
+$	O
+5	O
+billion	O
+fine	O
+
+-DOCSTART-
+
+# 984wqh news
+Judge	B-Judge
+in	O
+Paul	O
+Manafort	O
+trial	O
+says	O
+he	O
+has	O
+been	O
+threatened	O
+and	O
+is	O
+now	O
+under	O
+U.S.	O
+Marshal	O
+protection	O
+
+-DOCSTART-
+
+# 93k81w news
+No	O
+Prison	B-Prison
+for	O
+Grandson	O
+of	O
+Ex	O
+-	O
+Virginia	O
+Governor	O
+in	O
+Rape	B-Rape
+Case	O
+
+-DOCSTART-
+
+# 8vofqg news
+Man	O
+’s	O
+life	O
+‘	O
+destroyed	O
+’	O
+following	O
+classmate	O
+’s	O
+false	O
+rape	B-Rape
+allegation	O
+
+-DOCSTART-
+
+# 8xqhe1 news
+Trump	B-Donald_Trump
+pardons	O
+Oregon	B-Oregon
+cattle	O
+ranchers	O
+in	O
+case	O
+that	O
+sparked	O
+41	O
+-	O
+day	O
+occupation	O
+of	O
+national	O
+wildlife	O
+refuge	O
+
+-DOCSTART-
+
+# 97jqh4 news
+Grand	O
+jury	O
+report	O
+:	O
+Priests	O
+ran	O
+child	O
+porn	O
+ring	O
+in	O
+Pittsburgh	B-Pittsburgh
+Diocese	B-Diocese
+
+-DOCSTART-
+
+# 9c5qnc news
+California	B-California
+votes	O
+to	O
+bar	O
+schools	O
+from	O
+starting	O
+before	O
+8:30am	O
+to	O
+help	O
+give	O
+students	B-Student
+more	O
+sleep	O
+
+-DOCSTART-
+
+# 9fh1us news
+Pittsburgh	B-Pittsburgh
+high	O
+school	O
+to	O
+have	O
+school	O
+active	O
+shooter	O
+drill	O
+with	O
+blanks	O
+shot	O
+in	O
+hallways	O
+to	O
+expose	O
+students	O
+to	O
+the	O
+sound	O
+of	O
+gunfire	O
+
+-DOCSTART-
+
+# a4ygyx news
+Youtube	B-YouTube
+Kicks	O
+off	O
+Proud	B-Proud_Boys
+Boys	I-Proud_Boys
+Founder	O
+Gavin	B-Gavin_McInnes
+Mcinnes	I-Gavin_McInnes
+
+-DOCSTART-
+
+# a8eae1 news
+Trump	O
+signs	O
+farm	O
+bill	O
+making	O
+cbd	O
+and	O
+hemp	B-Hemp
+federally	O
+legal	O
+
+-DOCSTART-
+
+# a8m8fa news
+The	O
+top	O
+US	O
+official	O
+in	O
+the	O
+fight	O
+against	O
+the	O
+Islamic	O
+State	O
+group	O
+has	O
+quit	O
+over	O
+President	O
+Trump	O
+'s	O
+decision	O
+to	O
+pull	O
+troops	O
+from	O
+Syria	B-Syria
+,	O
+reports	O
+say	O
+.	O
+
+-DOCSTART-
+
+# 9x1huy news
+Fox	O
+News	O
+supports	O
+CNN	B-CNN
+in	O
+lawsuit	O
+against	O
+White	O
+House	O
+,	O
+network	O
+'s	O
+president	O
+says	O
+
+-DOCSTART-
+
+# 7p2age politics
+Tillerson	B-Rex_Tillerson
+and	O
+Mattis	O
+are	O
+reportedly	O
+trying	O
+to	O
+hold	O
+Trump	O
+back	O
+from	O
+striking	O
+North	O
+Korea	O
+
+-DOCSTART-
+
+# 7ptlw0 politics
+Anderson	B-Anderson_Cooper
+Cooper	I-Anderson_Cooper
+:	O
+‘	O
+Let	O
+’s	O
+not	O
+kid	O
+ourselves	O
+,	O
+’	O
+Trump	O
+’s	O
+comments	O
+are	O
+‘	O
+racist	O
+’	O
+
+-DOCSTART-
+
+# 7s5krd politics
+Staff	O
+stopping	O
+Trump	O
+from	O
+striking	O
+compromise	O
+with	O
+Dems	B-Democratic_Party_(United_States)
+to	O
+end	O
+shutdown	O
+
+-DOCSTART-
+
+# 7p0qjq politics
+Get	O
+a	O
+grip	O
+,	O
+people	O
+.	O
+Oprah	B-Oprah_Winfrey
+should	O
+not	O
+run	O
+for	O
+president	O
+.	O
+
+-DOCSTART-
+
+# 7tx0la politics
+Trump	O
+Administration	O
+Signals	O
+It	O
+Is	O
+Not	O
+Imposing	O
+New	O
+Sanctions	O
+On	O
+Russia	B-Russia
+
+-DOCSTART-
+
+# 7r2vym politics
+Trump	O
+and	O
+Stormy	B-Stormy_Daniels
+Daniels	I-Stormy_Daniels
+Had	O
+Sex	O
+Four	O
+Months	O
+After	O
+Melania	O
+Gave	O
+Birth	O
+
+-DOCSTART-
+
+# 7nyuqq politics
+Trump	B-Donald_Trump
+dissolves	O
+voter	O
+fraud	O
+commission	O
+
+-DOCSTART-
+
+# 8cqdup politics
+Megathread	O
+:	O
+Sean	B-Sean_Hannity
+Hannity	I-Sean_Hannity
+named	O
+as	O
+Michael	O
+Cohen	O
+'s	O
+third	O
+client	O
+
+-DOCSTART-
+
+# 8ey42e politics
+Megathread	O
+:	O
+Michael	B-Michael_Cohen_(lawyer)
+Cohen	I-Michael_Cohen_(lawyer)
+to	O
+Assert	O
+5th	B-Fifth_Amendment_to_the_United_States_Constitution
+Amendment	I-Fifth_Amendment_to_the_United_States_Constitution
+in	O
+Stormy	O
+Daniels	O
+Lawsuit	O
+
+-DOCSTART-
+
+# 88ymwv politics
+New	O
+York	O
+passes	O
+bill	O
+to	O
+strip	O
+all	O
+guns	O
+from	O
+domestic	B-Domestic_violence
+abusers	I-Domestic_violence
+
+-DOCSTART-
+
+# 8ayoix politics
+'	O
+I	O
+'m	O
+a	O
+Holocaust	B-Holocaust_survivors
+Survivor	I-Holocaust_survivors
+—	O
+Trump	O
+'s	O
+America	O
+Feels	O
+Like	O
+Germany	B-Germany
+Before	O
+Nazis	O
+Took	O
+Over	O
+'	O
+
+-DOCSTART-
+
+# 8ab3ka politics
+Federal	O
+District	O
+court	O
+Rules	O
+:	O
+“	O
+The	O
+AR-15	B-AR-15_style_rifle
+and	O
+its	O
+analogs	O
+,	O
+along	O
+with	O
+high	O
+capacity	O
+magazines	O
+,	O
+are	O
+simply	O
+not	O
+weapons	B-Weapon
+within	O
+the	O
+original	O
+meaning	O
+of	O
+the	O
+individual	O
+constitutional	O
+right	O
+to	O
+‘	O
+bear	O
+Arms	O
+.	O
+”	O
+
+-DOCSTART-
+
+# 8ej6vk politics
+FBI	B-Federal_Bureau_of_Investigation
+raided	O
+Manafort	B-Paul_Manafort
+over	O
+records	O
+of	O
+Trump	O
+Tower	O
+meeting	O
+with	O
+Russians	O
+,	O
+Mueller	O
+confirms	O
+
+-DOCSTART-
+
+# 8cwr61 politics
+Bernie	B-Bernie_Sanders
+Sanders	I-Bernie_Sanders
+introduces	O
+bill	O
+to	O
+impose	O
+jail	O
+time	O
+for	O
+execs	O
+behind	O
+opioid	B-Opioid_epidemic_in_the_United_States
+crisis	I-Opioid_epidemic_in_the_United_States
+
+-DOCSTART-
+
+# 8fyb29 politics
+CNN	O
+’s	O
+Ana	B-Ana_Navarro
+Navarro	I-Ana_Navarro
+Says	O
+Michelle	O
+Wolf	O
+’s	O
+Critics	O
+Are	O
+Acting	O
+Like	O
+‘	O
+Snowflakes	B-Snowflake_(slang)
+’	O
+
+-DOCSTART-
+
+# 8d6l2m politics
+Trump	B-Donald_Trump
+blasts	O
+'	O
+breeding	O
+'	O
+in	O
+sanctuary	B-Sanctuary_city
+cities	I-Sanctuary_city
+.	O
+That	O
+'s	O
+a	O
+racist	B-Racism
+term	O
+.	O
+
+-DOCSTART-
+
+# 7zv966 explainlikeimfive
+ELI5	O
+:	O
+Why	O
+is	O
+Denmark	B-Denmark
+(	O
+1	O
+silver	O
+medal	O
+in	O
+Winter	O
+Olympics	O
+history	O
+)	O
+so	O
+terrible	O
+at	O
+the	O
+Winter	O
+Olympics	O
+,	O
+while	O
+its	O
+Nordic	O
+neighbor	O
+Norway	O
+,	O
+has	O
+367	O
+medals	O
+all	O
+time	O
+?	O
+
+-DOCSTART-
+
+# 7qdvn9 explainlikeimfive
+ELI5	O
+:	O
+If	O
+light	B-Light
+moves	O
+at	O
+a	O
+constant	O
+speed	B-Speed
+,	O
+does	O
+it	O
+never	O
+need	O
+to	O
+speed	O
+up	O
+?	O
+How	O
+can	O
+it	O
+be	O
+instantly	O
+at	O
+300,000km	O
+/	O
+s	O
+?	O
+
+-DOCSTART-
+
+# 7tci36 explainlikeimfive
+ELI5	O
+:	O
+How	O
+were	O
+wooden	O
+ships	O
+made	O
+waterproof	B-Waterproofing
+in	O
+ancient	O
+times	O
+?	O
+
+-DOCSTART-
+
+# 7pe0f3 explainlikeimfive
+ELI5	O
+:	O
+what	O
+is	O
+actually	O
+happening	O
+in	O
+your	O
+brain	B-Brain
+/	O
+body	O
+when	O
+you	O
+have	O
+a	O
+migrane	O
+?	O
+
+-DOCSTART-
+
+# 7zgdza explainlikeimfive
+ELI5	O
+:	O
+Why	O
+is	O
+the	O
+sale	O
+of	O
+homeopathic	B-Homeopathy
+"	O
+remedies	O
+"	O
+not	O
+punished	O
+under	O
+fraud	O
+/	O
+false	O
+advertising	O
+laws	O
+?	O
+
+-DOCSTART-
+
+# 7t0pu5 explainlikeimfive
+ELI5	O
+:	O
+Why	O
+does	O
+a	O
+candle	B-Candle
+not	O
+create	O
+smoke	B-Smoke
+when	O
+burning	O
+but	O
+lots	O
+of	O
+smoke	B-Smoke
+when	O
+you	O
+blow	O
+it	O
+out	O
+?	O
+
+-DOCSTART-
+
+# 7y6ifi explainlikeimfive
+ELI5	O
+:	O
+Why	O
+do	O
+Americans	B-Americans
+think	O
+that	O
+their	O
+'	O
+freedom	O
+'	O
+is	O
+different	O
+from	O
+a	O
+lot	O
+of	O
+other	O
+countries	O
+around	O
+the	O
+world	O
+?	O
+
+-DOCSTART-
+
+# 7p3vcj explainlikeimfive
+(	O
+ELI5	O
+)	O
+Why	O
+is	O
+it	O
+when	O
+you	O
+wake	O
+up	O
+from	O
+a	O
+nightmare	B-Nightmare
+sometimes	O
+you	O
+still	O
+have	O
+an	O
+overwhelming	O
+sense	O
+dread	O
+?	O
+
+-DOCSTART-
+
+# 80rpvd explainlikeimfive
+ELI5	O
+:	O
+Why	O
+does	O
+the	O
+urge	O
+for	O
+chewing	B-Chewing
+,	O
+tapping	B-Tapping
+,	O
+etc	O
+.	O
+help	O
+with	O
+anxiety	B-Anxiety
+or	O
+focus	O
+?	O
+What	O
+do	O
+nervous	O
+habits	O
+accomplish	O
+?	O
+
+-DOCSTART-
+
+# 7oedhc explainlikeimfive
+ELI5	O
+:	O
+Why	O
+do	O
+body	B-Body_fluid
+fluids	I-Body_fluid
+and	O
+other	O
+substances	O
+glow	O
+brightly	O
+under	O
+a	O
+blacklight	B-Blacklight
+?	O
+
+-DOCSTART-
+
+# 7u2r32 explainlikeimfive
+ELI5	O
+:	O
+When	O
+you	O
+shoot	O
+a	O
+gun	B-Gun
+up	O
+into	O
+the	O
+air	O
+,	O
+does	O
+the	O
+bullet	B-Bullet
+fall	O
+down	O
+with	O
+a	O
+force	O
+strong	O
+enough	O
+to	O
+kill	O
+?	O
+
+-DOCSTART-
+
+# 7o8ncn explainlikeimfive
+ELI5	O
+What	O
+makes	O
+gasoline	B-Gasoline
+so	O
+special	O
+that	O
+it	O
+can	O
+power	O
+engines	O
+and	O
+why	O
+is	O
+it	O
+so	O
+difficult	O
+to	O
+find	O
+an	O
+alternative	O
+fuel	O
+source	O
+?	O
+
+-DOCSTART-
+
+# 7rq7l7 explainlikeimfive
+ELI5	O
+:	O
+Why	O
+does	O
+cursing	O
+when	O
+in	O
+pain	O
+or	O
+anger	B-Anger
+feel	O
+so	O
+good	O
+?	O
+
+-DOCSTART-
+
+# 7yez56 explainlikeimfive
+ELI5	O
+:	O
+Why	O
+is	O
+it	O
+so	O
+much	O
+more	O
+common	O
+to	O
+see	O
+people	O
+in	O
+Asian	O
+countries	O
+wearing	O
+masks	O
+during	O
+a	O
+virus	B-Virus
+outbreak	B-Disease_outbreak
+as	O
+opposed	O
+to	O
+America	B-United_States
+?	O
+
+-DOCSTART-
+
+# 7zejmh explainlikeimfive
+ELI5	O
+:	O
+How	O
+is	O
+a	O
+nuclear	B-Nuclear_submarine
+submarine	I-Nuclear_submarine
+lost	O
+at	O
+sea	O
+not	O
+a	O
+danger	O
+?	O
+
+-DOCSTART-
+
+# 816icz explainlikeimfive
+ELI5	O
+:	O
+With	O
+bee	O
+populations	O
+being	O
+decimated	O
+why	O
+have	O
+n't	O
+we	O
+seen	O
+major	O
+shortages	B-Shortage
+of	O
+any	O
+produce	O
+?	O
+
+-DOCSTART-
+
+# 81y6vq explainlikeimfive
+ELI5	O
+:	O
+Why	O
+do	O
+primates	O
+such	O
+as	O
+gorillas	B-Gorilla
+,	O
+baboons	O
+,	O
+and	O
+chimps	O
+(	O
+especially	O
+those	O
+in	O
+a	O
+zoo	O
+)	O
+retain	O
+so	O
+much	O
+muscle	B-Skeletal_muscle
+and	O
+strength	O
+doing	O
+little	O
+to	O
+no	O
+muscle	O
+building	O
+activities	O
+.	O
+Yet	O
+,	O
+humans	O
+must	O
+consistently	O
+work	O
+out	O
+properly	O
+to	O
+retain	O
+muscle	O
+and	O
+strength	O
+?	O
+
+-DOCSTART-
+
+# 8dc40u explainlikeimfive
+ELI5	O
+:	O
+Why	O
+do	O
+flies	B-Fly
+constantly	O
+risk	O
+their	O
+lives	O
+by	O
+landing	O
+on	O
+and	O
+flying	O
+around	O
+me	O
+,	O
+even	O
+when	O
+I	O
+’ve	O
+had	O
+a	O
+few	O
+swipes	O
+at	O
+them	O
+?	O
+
+-DOCSTART-
+
+# 89j8jk explainlikeimfive
+ELI5	O
+:	O
+Why	O
+does	O
+CO2	B-Carbon_dioxide
+make	O
+a	O
+drink	O
+like	O
+Coke	B-Coca-Cola
+feel	O
+'	O
+fizzy	O
+'	O
+while	O
+nitrogen	O
+gas	O
+makes	O
+a	O
+drink	O
+like	O
+beer	B-Beer
+/	O
+ale	B-Ale
+feel	O
+smother	O
+?	O
+
+-DOCSTART-
+
+# 8dxaxw explainlikeimfive
+ELI5	O
+:	O
+How	O
+come	O
+it	O
+’s	O
+nearly	O
+impossible	O
+to	O
+get	O
+vitamine	B-Vitamin_D
+D	I-Vitamin_D
+overdose	B-Drug_overdose
+from	O
+the	O
+sun	B-Sun
+,	O
+but	O
+you	O
+can	O
+from	O
+supplements	B-Dietary_supplement
+?	O
+
+-DOCSTART-
+
+# 8osbzf explainlikeimfive
+ELI5	O
+:	O
+What	O
+gives	O
+aspartame	B-Aspartame
+and	O
+other	O
+zero	O
+-	O
+calorie	O
+sugar	O
+substitutes	O
+their	O
+weird	O
+aftertaste	O
+?	O
+
+-DOCSTART-
+
+# 8jrho2 explainlikeimfive
+ELI5	O
+:	O
+Charles	O
+Darwin	O
+was	O
+an	O
+Anglican	B-Anglicanism
+,	O
+spent	O
+a	O
+lot	O
+of	O
+time	O
+studying	O
+theology	O
+,	O
+and	O
+in	O
+no	O
+way	O
+were	O
+his	O
+works	O
+an	O
+attack	O
+on	O
+the	O
+church	O
+.	O
+Now	O
+days	O
+he	O
+is	O
+viewed	O
+as	O
+a	O
+symbol	O
+for	O
+atheism	B-Atheism
+.	O
+Why	O
+?	O
+
+-DOCSTART-
+
+# 8nwot6 explainlikeimfive
+ELI5	O
+:	O
+If	O
+visceral	O
+fat	O
+is	O
+so	O
+dangerous	O
+,	O
+why	O
+do	O
+surgeons	O
+not	O
+routinely	O
+remove	O
+it	O
+during	O
+surgery	B-Surgery
+within	O
+the	O
+abdomen	O
+?	O
+
+-DOCSTART-
+
+# 8naqm9 explainlikeimfive
+ELI5	O
+:	O
+How	O
+did	O
+pre	O
+-	O
+clothing	O
+male	O
+humans	B-Human
+thousands	O
+of	O
+years	O
+ago	O
+do	O
+anything	O
+remotely	O
+physical	O
+with	O
+their	O
+genitals	B-Sex_organ
+hanging	O
+out	O
+?	O
+?	O
+
+-DOCSTART-
+
+# 8q6aia explainlikeimfive
+ELI5	O
+:	O
+How	O
+do	O
+adhesive	O
+factories	O
+(	O
+super	B-Cyanoacrylate
+glue	I-Cyanoacrylate
+,	O
+caulking	B-Caulk
+,	O
+etc	O
+...	O
+)	O
+prevent	O
+their	O
+machines	B-Machine
+from	O
+seizing	O
+up	O
+with	O
+dried	O
+glue	O
+during	O
+production	O
+?	O
+
+-DOCSTART-
+
+# 8hg9zt explainlikeimfive
+ELI5	O
+:	O
+Why	O
+does	O
+salt	O
+preserve	O
+foods	O
+like	O
+meat	O
+?	O
+Ca	O
+n't	O
+bacteria	B-Bacteria
+live	O
+in	O
+salt	O
+?	O
+
+-DOCSTART-
+
+# 8son4k explainlikeimfive
+ELI5	O
+:	O
+Why	O
+is	O
+there	O
+more	O
+(	O
+aparrent	O
+)	O
+variance	O
+between	O
+the	O
+faces	O
+of	O
+humans	B-Human
+(	O
+to	O
+the	O
+point	O
+where	O
+the	O
+human	O
+face	O
+is	O
+instantly	O
+recognizable	O
+)	O
+than	O
+those	O
+of	O
+other	O
+species	O
+?	O
+
+-DOCSTART-
+
+# 8j5ae2 explainlikeimfive
+ELI5	O
+:	O
+Why	O
+is	O
+thirst	B-Thirst
+much	O
+more	O
+subtle	O
+and	O
+way	O
+less	O
+distinctable	O
+than	O
+hunger	B-Hunger
+even	O
+though	O
+drinking	O
+is	O
+more	O
+importan	O
+than	O
+eating	O
+when	O
+looking	O
+at	O
+the	O
+same	O
+time	O
+period	O
+.	O
+
+-DOCSTART-
+
+# 7xrgyt sports
+Aaron	B-Stoneman_Douglas_High_School_shooting
+Feis	I-Stoneman_Douglas_High_School_shooting
+,	O
+an	O
+assistant	O
+football	O
+coach	O
+at	O
+Marjory	B-Marjory_Stoneman_Douglas_High_School
+Stoneman	I-Marjory_Stoneman_Douglas_High_School
+Douglas	I-Marjory_Stoneman_Douglas_High_School
+High	I-Marjory_Stoneman_Douglas_High_School
+School	I-Marjory_Stoneman_Douglas_High_School
+,	O
+died	O
+a	O
+hero	O
+yesterday	O
+as	O
+he	O
+saved	O
+countless	O
+students	O
+by	O
+shielding	O
+them	O
+from	O
+the	O
+shooter	O
+.	O
+
+-DOCSTART-
+
+# 7tcqi8 sports
+Freshman	O
+Blake	O
+Peters	O
+from	O
+Evanston	B-Evanston_Township_High_School
+High	I-Evanston_Township_High_School
+School	I-Evanston_Township_High_School
+(	O
+IL	O
+)	O
+attempts	O
+full	O
+-	O
+court	O
+game	O
+winner	O
+.	O
+
+-DOCSTART-
+
+# 7x68xs sports
+Chloe	B-Chloe_Kim
+Kim	I-Chloe_Kim
+land	O
+back	O
+-	O
+to	O
+-	O
+back	O
+1080s	O
+for	O
+the	O
+first	O
+time	O
+in	O
+Olympic	O
+history	O
+to	O
+win	O
+Gold	O
+in	O
+the	O
+Women	O
+'s	O
+Halfpipe	O
+with	O
+a	O
+98.25	O
+
+-DOCSTART-
+
+# 7zd0gr sports
+USA	B-United_States
+Beats	O
+Canada	B-Canada
+for	O
+Womens	O
+Hockey	O
+Gold	O
+Medal	O
+in	O
+Pyeongchang	B-Pyeongchang_County
+
+-DOCSTART-
+
+# 7p4vtu sports
+Tua	O
+Tagovailoa	O
+takes	O
+a	O
+horrible	O
+sack	O
+,	O
+then	O
+throws	O
+the	O
+game	O
+winning	O
+TD	O
+to	O
+win	O
+the	O
+ship	O
+for	O
+Alabama	B-Alabama
+
+-DOCSTART-
+
+# 7zqme4 sports
+German	O
+foreign	O
+Office	O
+release	O
+wholesome	O
+travel	B-Travel_warning
+advisory	I-Travel_warning
+for	O
+Germans	O
+in	O
+Canada	B-Canada
+after	O
+amazing	O
+semi	O
+-	O
+final	O
+victory	O
+
+-DOCSTART-
+
+# 87icrb sports
+Former	O
+New	B-New_York_Giants
+York	I-New_York_Giants
+Giants	I-New_York_Giants
+linebacker	B-Linebacker
+and	O
+Montana	O
+State	O
+star	O
+Corey	B-Corey_Widmer
+Widmer	I-Corey_Widmer
+has	O
+declined	O
+his	O
+nomination	B-Nomination
+to	O
+the	O
+Montana	O
+Football	O
+Hall	O
+of	O
+Fame	O
+,	O
+saying	O
+the	O
+sport	B-Sport
+''	O
+destroyed	O
+my	O
+life	O
+.	O
+''	O
+
+-DOCSTART-
+
+# 8f8w0o sports
+Pittsburgh	B-Pittsburgh_Steelers
+Steelers	I-Pittsburgh_Steelers
+'	O
+Ryan	B-Ryan_Shazier
+Shazier	I-Ryan_Shazier
+,	O
+who	O
+suffered	O
+a	O
+serious	O
+spinal	B-Spinal_cord_injury
+injury	I-Spinal_cord_injury
+in	O
+December	B-December
+,	O
+walks	O
+on	O
+stage	O
+to	O
+announce	O
+team	O
+'s	O
+1st	O
+round	O
+draft	O
+pick	O
+
+-DOCSTART-
+
+# 817elz sports
+Jacksonville	O
+State	O
+'s	O
+Norbertas	B-Norbertas_Giga
+Giga	I-Norbertas_Giga
+,	O
+who	O
+came	O
+to	O
+the	O
+US	B-United_States
+from	O
+Lithuania	B-Lithuania
+to	O
+pursue	O
+a	O
+basketball	B-Basketball
+career	O
+,	O
+sees	O
+his	O
+mom	O
+for	O
+the	O
+first	O
+time	O
+in	O
+5	O
+years	O
+
+-DOCSTART-
+
+# 89ne4c sports
+Japanese	B-Japanese_people
+rookie	O
+Shohei	B-Shohei_Ohtani
+Ohtani	I-Shohei_Ohtani
+hits	O
+first	O
+major	B-Major_League_Baseball
+league	I-Major_League_Baseball
+home	B-Home_run
+run	I-Home_run
+.	I-Home_run
+
+-DOCSTART-
+
+# 87r554 sports
+Justice	O
+is	O
+done	O
+.	O
+Smith	O
+and	O
+Warner	O
+banned	O
+for	O
+12	O
+months	O
+,	O
+and	O
+Bancroft	B-Bancroft
+for	O
+9	O
+
+-DOCSTART-
+
+# 812iyb sports
+James	B-James_Harden
+Harden	I-James_Harden
+drops	O
+Wesley	B-Wesley_Johnson_(basketball)
+Johnson	I-Wesley_Johnson_(basketball)
+and	O
+hits	O
+the	O
+3	B-Three-point_field_goal
+
+-DOCSTART-
+
+# 86gr97 sports
+Josh	B-Josh_Reddick
+Reddick	I-Josh_Reddick
+hits	O
+a	O
+baseball	B-Baseball
+into	O
+a	O
+baseball	O
+sized	O
+hole	B-Hole
+in	O
+the	O
+wall	B-Wall
+
+-DOCSTART-
+
+# 8b8dxm sports
+Boban	B-Boban_Marjanović
+Marjanović	I-Boban_Marjanović
+plays	O
+keep	O
+away	O
+with	O
+Anthony	B-Anthony_Davis
+Davis	I-Anthony_Davis
+
+-DOCSTART-
+
+# 82laht sports
+Chicago	O
+Blackhawks	O
+Captain	O
+Jonathan	B-Jonathan_Toews
+Toews	I-Jonathan_Toews
+skates	O
+with	O
+a	O
+12	O
+-	O
+year	O
+-	O
+old	O
+fan	O
+with	O
+muscular	B-Muscular_dystrophy
+dystrophy	I-Muscular_dystrophy
+
+-DOCSTART-
+
+# 8f3tcs sports
+After	O
+three	O
+Tommy	O
+John	O
+surgeries	O
+and	O
+over	O
+2000	O
+days	O
+since	O
+his	O
+last	O
+MLB	B-Major_League_Baseball
+appearance	O
+,	O
+Jonny	O
+Ventures	O
+makes	O
+his	O
+Major	O
+League	O
+return	O
+and	O
+gets	O
+Chris	B-Chris_Davis_(baseball)
+Davis	I-Chris_Davis_(baseball)
+out	O
+in	O
+just	O
+four	O
+pitches	O
+
+-DOCSTART-
+
+# 8uj9jk sports
+Swedish	O
+captain	B-Captain
+asking	O
+how	O
+Germany	O
+’s	O
+game	O
+went	O
+
+-DOCSTART-
+
+# 8qntul sports
+The	O
+Washington	O
+Capitals	O
+are	O
+having	O
+their	O
+Stanley	B-Stanley_Cup
+Cup	I-Stanley_Cup
+parade	O
+today	O
+but	O
+they	O
+also	O
+took	O
+out	O
+a	O
+full	O
+page	O
+ad	O
+in	O
+the	O
+Las	O
+Vegas	O
+Review	O
+-	O
+Journal	O
+to	O
+congratulate	O
+the	O
+Vegas	O
+Golden	O
+Knights	O
+"	O
+on	O
+the	O
+most	O
+successful	O
+inaugural	O
+season	O
+in	O
+the	O
+history	O
+of	O
+professional	O
+sports	O
+.	O
+"	O
+
+-DOCSTART-
+
+# 8o0axj sports
+Marlon	B-Marlon_Moraes
+Moraes	I-Marlon_Moraes
+ends	O
+the	O
+20	O
+-	O
+win	O
+streak	O
+of	O
+Jimmie	O
+Rivera	O
+in	O
+30	O
+seconds	O
+
+-DOCSTART-
+
+# 8rxsiw sports
+Mexico	B-Mexico
+fans	O
+celebrating	O
+the	O
+Lozano	O
+goal	O
+at	O
+the	O
+Berlin	B-Berlin
+Fan	O
+Park	O
+
+-DOCSTART-
+
+# 8scf4w sports
+Japanese	O
+fans	O
+clean	O
+up	O
+stadium	B-Stadium
+after	O
+their	O
+win	O
+vs	O
+Colombia	O
+
+-DOCSTART-
+
+# 8mpjcb sports
+NBA	B-National_Basketball_Association
+player	O
+Allen	B-Allen_Iverson
+Iverson	I-Allen_Iverson
+signed	O
+a	O
+lifetime	O
+endorsement	O
+contract	B-Contract
+with	O
+Reebok	B-Reebok
+in	O
+2001	O
+that	O
+would	O
+pay	O
+him	O
+$	O
+800,000	O
+a	O
+year	O
+until	O
+he	O
+reaches	O
+age	O
+55	O
+to	O
+where	O
+he	O
+would	O
+then	O
+receive	O
+a	O
+final	O
+lump	O
+sum	O
+payment	O
+of	O
+$	O
+32,000,000	O
+.	O
+
+-DOCSTART-
+
+# 8kvtiq sports
+The	O
+Vegas	B-Vegas_Golden_Knights
+Golden	I-Vegas_Golden_Knights
+Knights	I-Vegas_Golden_Knights
+have	O
+eliminated	O
+the	O
+Winnipeg	B-Winnipeg_Jets
+Jets	I-Winnipeg_Jets
+from	O
+the	O
+Stanley	O
+Cup	O
+Playoffs	O
+and	O
+advanced	O
+to	O
+the	O
+Stanley	O
+Cup	O
+Finals	O
+in	O
+their	O
+inaugural	O
+season	O
+
+-DOCSTART-
+
+# 8tcf6g sports
+President	O
+Moon	O
+Jae	O
+-	O
+in	O
+consoles	O
+Son	B-Son_Heung-min
+Heung	I-Son_Heung-min
+-	I-Son_Heung-min
+min	I-Son_Heung-min
+after	O
+South	B-South_Korea
+Korea	I-South_Korea
+is	O
+defeated	O
+by	O
+Mexico	B-Mexico
+
+-DOCSTART-
+
+# 8o8p04 sports
+Serena	B-Serena_Williams
+Williams	I-Serena_Williams
+drunk	O
+playing	O
+Tennis	B-Tennis
+in	O
+a	O
+2014	O
+doubles	O
+match	O
+at	O
+Wimbledon	O
+
+-DOCSTART-
+
+# 8wdc7r sports
+Watching	O
+the	O
+World	O
+Cup	O
+penalty	O
+shootout	O
+between	O
+England	B-England
+and	O
+Colombia	O
+without	O
+disturbing	O
+anybody	O
+is	O
+about	O
+as	O
+polite	O
+and	O
+English	O
+as	O
+it	O
+gets	O
+
+-DOCSTART-
+
+# 8ww8nd sports
+World	O
+Cup	O
+:	O
+Croatia	O
+beats	O
+Russia	B-Russia
+by	O
+penalties	O
+and	O
+moves	O
+to	O
+the	O
+semi	O
+-	O
+finals	O
+
+-DOCSTART-
+
+# 93p71d sports
+ESPN	B-ESPN
+to	O
+bring	O
+back	O
+‘	O
+The	O
+Ocho	O
+’	O
+for	O
+day	O
+of	O
+dodgeball	B-Dodgeball
+,	O
+chess	O
+boxing	O
+
+-DOCSTART-
+
+# 9cor8s sports
+Nike	B-Nike_(company)
+’s	I-Nike_(company)
+30th	O
+anniversary	O
+of	O
+the	O
+Just	O
+Do	O
+It	O
+campaign	O
+
+-DOCSTART-
+
+# 9nj4zk sports
+Usain	B-Usain_Bolt
+Bolt	I-Usain_Bolt
+scores	O
+his	O
+first	O
+professional	O
+goal	O
+for	O
+the	O
+Central	O
+Coast	O
+Mariners	O
+
+-DOCSTART-
+
+# 9ee95x sports
+Serena	B-Serena_Williams
+Williams	I-Serena_Williams
+fined	O
+$	O
+17,000	O
+for	O
+three	O
+violations	O
+in	O
+US	B-US_Open_(tennis)
+Open	I-US_Open_(tennis)
+final	O
+loss	O
+
+-DOCSTART-
+
+# 9mftmm sports
+Maple	B-Toronto_Maple_Leafs
+leafs	I-Toronto_Maple_Leafs
+player	O
+Auston	B-Auston_Matthews
+Matthews	I-Auston_Matthews
+scores	O
+and	O
+celebrates	O
+,	O
+Blackhawks	B-Chicago_Blackhawks
+player	O
+Patrick	B-Patrick_Kane
+Kane	I-Patrick_Kane
+Scores	O
+copies	O
+Matthews	O
+celebration	O
+and	O
+makes	O
+Matthews	O
+smile	O
+
+-DOCSTART-
+
+# 9datlw sports
+Linebacker	O
+Shaquem	B-Shaquem_Griffin
+Griffin	I-Shaquem_Griffin
+had	O
+his	O
+arm	O
+amputated	O
+at	O
+a	O
+young	O
+age	O
+.	O
+This	O
+weekend	O
+he	O
+starts	O
+for	O
+the	O
+Seattle	B-Seattle_Seahawks
+Seahawks	I-Seattle_Seahawks
+.	O
+This	O
+is	O
+his	O
+Nike	O
+advert	O
+
+-DOCSTART-
+
+# a060qq sports
+#	O
+22	O
+Texas	O
+A&M	O
+defeats	O
+#	O
+7	O
+LSU	O
+74	O
+-	O
+72	O
+in	O
+7th	O
+overtime	O
+,	O
+winning	O
+the	O
+highest	O
+-	O
+scoring	O
+game	O
+in	O
+college	B-College_football
+football	I-College_football
+history	O
+
+-DOCSTART-
+
+# 9tohh5 sports
+Supermoto	B-Supermoto
+racer	O
+Arttu	O
+Stenberg	O
+showing	O
+off	O
+his	O
+skills	O
+
+-DOCSTART-
+
+# a0ezy7 sports
+The	O
+Minnesota	O
+Vikings	O
+follow	O
+up	O
+a	O
+touchdown	B-Touchdown
+with	O
+a	O
+limbo	O
+celebration	O
+
+-DOCSTART-
+
+# 7qs5xz science
+Researchers	O
+find	O
+that	O
+one	O
+person	O
+likely	O
+drove	O
+Bitcoin	B-Bitcoin
+from	O
+$	O
+150	O
+to	O
+$	O
+1,000	O
+,	O
+in	O
+a	O
+new	O
+study	O
+published	O
+in	O
+the	O
+Journal	O
+of	O
+Monetary	O
+Economics	O
+.	O
+Unregulated	O
+cryptocurrency	B-Cryptocurrency
+markets	O
+remain	O
+vulnerable	O
+to	O
+manipulation	O
+today	O
+.	O
+
+-DOCSTART-
+
+# 7s6a9z science
+No	O
+evidence	B-Evidence
+to	O
+support	O
+link	O
+between	O
+violent	O
+video	O
+games	O
+and	O
+behaviour	O
+-	O
+Researchers	O
+at	O
+the	O
+University	O
+of	O
+York	O
+have	O
+found	O
+no	O
+evidence	O
+to	O
+support	O
+the	O
+theory	O
+that	O
+video	O
+games	O
+make	O
+players	O
+more	O
+violent	O
+.	O
+
+-DOCSTART-
+
+# 7sv8vb science
+Smoking	B-Smoking
+only	O
+about	O
+one	O
+cigarette	B-Cigarette
+per	O
+day	O
+carries	O
+a	O
+risk	O
+of	O
+developing	O
+coronary	B-Coronary_artery_disease
+heart	I-Coronary_artery_disease
+disease	I-Coronary_artery_disease
+and	O
+stroke	B-Stroke
+much	O
+greater	O
+than	O
+expected	O
+:	O
+around	O
+half	O
+that	O
+for	O
+people	O
+who	O
+smoke	O
+20	O
+per	O
+day	O
+.	O
+No	O
+safe	O
+level	O
+of	O
+smoking	O
+exists	O
+for	O
+cardiovascular	O
+disease	O
+.	O
+Smokers	O
+should	O
+aim	O
+to	O
+quit	O
+instead	O
+of	O
+cutting	O
+down	O
+.	O
+
+-DOCSTART-
+
+# 7opvxp science
+Sleeping	O
+less	O
+than	O
+the	O
+recommended	O
+eight	O
+hours	O
+a	O
+night	O
+is	O
+associated	O
+with	O
+intrusive	O
+,	O
+repetitive	O
+thoughts	O
+like	O
+those	O
+seen	O
+in	O
+anxiety	B-Anxiety
+or	O
+depression	O
+,	O
+according	O
+to	O
+new	O
+research	O
+from	O
+Binghamton	O
+University	O
+,	O
+State	O
+University	O
+of	O
+New	O
+York	O
+.	O
+
+-DOCSTART-
+
+# 80cpez science
+Women	O
+reported	O
+higher	O
+levels	O
+of	O
+incivility	O
+from	O
+other	O
+women	O
+than	O
+their	O
+male	B-Male
+counterparts	O
+.	O
+In	O
+other	O
+words	O
+,	O
+women	O
+are	O
+ruder	O
+to	O
+each	O
+other	O
+than	O
+they	O
+are	O
+to	O
+men	O
+,	O
+or	O
+than	O
+men	O
+are	O
+to	O
+women	O
+,	O
+finds	O
+researchers	B-Research
+in	O
+a	O
+new	O
+study	O
+in	O
+the	O
+Journal	O
+of	O
+Applied	O
+Psychology	O
+.	O
+
+-DOCSTART-
+
+# 7ylx3m science
+People	O
+with	O
+more	O
+wealth	B-Wealth
+tend	O
+to	O
+report	O
+being	O
+happier	O
+with	O
+life	O
+,	O
+according	O
+to	O
+a	O
+new	O
+psychological	O
+study	O
+of	O
+more	O
+than	O
+4,000	O
+millionaires	B-Millionaire
+.	O
+The	O
+study	O
+also	O
+found	O
+evidence	O
+that	O
+millionaires	O
+who	O
+earned	O
+their	O
+wealth	O
+were	O
+happier	O
+than	O
+those	O
+who	O
+inherited	O
+it	O
+.	O
+
+-DOCSTART-
+
+# 7vbdhh science
+Scientists	O
+conclude	O
+13,000	O
+years	O
+ago	O
+a	O
+60	O
+mile	O
+wide	O
+comet	O
+plunged	O
+Earth	O
+into	O
+a	O
+mini	O
+-	O
+Ice	O
+Age	O
+,	O
+after	O
+examining	O
+rocks	O
+from	O
+170	O
+sites	O
+around	O
+the	O
+globe	B-Globe
+
+-DOCSTART-
+
+# 7ps5os science
+Scientists	B-Scientist
+Discover	O
+Clean	O
+Water	O
+Ice	O
+Just	O
+Below	O
+Mars	O
+'	O
+Surface	O
+
+-DOCSTART-
+
+# 7u5qk4 science
+Marijuana	B-Cannabis_(drug)
+Use	O
+Does	O
+Not	O
+Lower	O
+Chances	O
+of	O
+Getting	O
+Pregnant	B-Pregnancy
+
+-DOCSTART-
+
+# 7ywmqr science
+Wastewater	B-Wastewater
+created	O
+during	O
+fracking	O
+and	O
+disposed	O
+of	O
+by	O
+deep	O
+injection	O
+into	O
+underlying	O
+rock	O
+layers	O
+is	O
+the	O
+probably	O
+cause	O
+of	O
+a	O
+surge	O
+in	O
+earthquakes	B-Earthquake
+in	O
+southern	O
+Kansas	O
+over	O
+the	O
+last	O
+5	O
+years	O
+.	O
+
+-DOCSTART-
+
+# 7uddsy science
+Injecting	O
+minute	O
+amounts	O
+of	O
+two	O
+immune	O
+-	O
+stimulating	O
+agents	O
+directly	O
+into	O
+solid	O
+tumors	O
+in	O
+mice	B-Mouse
+can	O
+eliminate	O
+all	O
+traces	O
+of	O
+cancer	B-Cancer
+.	O
+
+-DOCSTART-
+
+# 7smgsu science
+Blockbuster	O
+films	O
+ignore	O
+the	O
+real	O
+harbinger	O
+of	O
+the	O
+apocalypse	O
+:	O
+ignorance	O
+of	O
+science	O
+-	O
+A	O
+new	O
+UCLA	B-University_of_California,_Los_Angeles
+study	O
+that	O
+analyzed	O
+disaster	O
+films	O
+between	O
+1956	O
+and	O
+2016	O
+,	O
+published	O
+in	O
+the	O
+journal	O
+Futures	O
+,	O
+finds	O
+that	O
+the	O
+public	O
+would	O
+rather	O
+blame	O
+global	O
+disaster	O
+on	O
+human	O
+greed	O
+or	O
+ego	O
+than	O
+on	O
+simple	O
+ignorance	O
+.	O
+
+-DOCSTART-
+
+# 7yq4zf science
+Whistleblowers	B-Whistleblower
+often	O
+suffer	O
+from	O
+severe	O
+psychological	B-Psychology
+problems	O
+.	O
+About	O
+80	O
+%	O
+report	O
+very	O
+negative	O
+effects	O
+on	O
+work	O
+and	O
+wages	O
+,	O
+and	O
+almost	O
+50	O
+%	O
+very	O
+negative	O
+effects	O
+on	O
+family	O
+life	O
+.	O
+About	O
+45	O
+%	O
+suffer	O
+from	O
+clinical	O
+levels	O
+of	O
+mental	O
+health	O
+problems	O
+such	O
+as	O
+anxiety	B-Anxiety
+and/or	O
+depressive	O
+symptoms	O
+.	O
+
+-DOCSTART-
+
+# 7ul4zh science
+Scientists	B-Scientist
+show	O
+links	O
+between	O
+earthquakes	B-Earthquake
+and	O
+oil	B-Petroleum_industry
+and	I-Petroleum_industry
+gas	I-Petroleum_industry
+industry	I-Petroleum_industry
+–	O
+in	O
+2008	O
+Oklahoma	B-Oklahoma
+recorded	O
+one	O
+earthquake	B-Earthquake
+,	O
+in	O
+2015	O
+the	O
+number	O
+was	O
+903	O
+
+-DOCSTART-
+
+# 7svcim science
+The	O
+smarter	O
+the	O
+man	O
+,	O
+the	O
+better	O
+for	O
+your	O
+relationship	B-Relationship
+,	O
+says	O
+new	O
+research	O
+.	O
+Intelligence	O
+in	O
+male	O
+individuals	O
+predicts	O
+both	O
+likelihood	O
+to	O
+get	O
+married	O
+and	O
+likelihood	O
+to	O
+stay	O
+married	O
+.	O
+The	O
+results	O
+suggest	O
+intelligence	O
+to	O
+be	O
+an	O
+evolutionary	O
+fitness	O
+indicator	O
+in	O
+mating	O
+.	O
+
+-DOCSTART-
+
+# 7rg62r science
+Scientists	B-Scientist
+edge	O
+closer	O
+to	O
+creating	O
+a	O
+blood	O
+test	O
+that	O
+can	O
+detect	O
+multiple	O
+types	O
+of	O
+cancers	O
+,	O
+seeing	O
+success	O
+rates	O
+of	O
+around	O
+70	O
+%	O
+in	O
+cancerous	O
+individuals	O
+
+-DOCSTART-
+
+# 7vfy1y science
+Remarkable	O
+spider	B-Spider
+with	O
+a	O
+tail	O
+found	O
+preserved	O
+in	O
+amber	B-Amber
+after	O
+100	O
+million	O
+years	O
+
+-DOCSTART-
+
+# 8byc78 science
+‘	O
+Soda	B-Sugary_drink_tax
+Tax	I-Sugary_drink_tax
+’	O
+Impact	O
+:	O
+Philadelphia	B-Philadelphia
+Residents	O
+40	O
+Percent	O
+Less	O
+Likely	O
+To	O
+Drink	O
+Sugary	O
+Soda	O
+Each	O
+Day	O
+After	O
+New	O
+Tax	O
+
+-DOCSTART-
+
+# 86igcf science
+New	O
+data	O
+show	O
+that	O
+extreme	O
+weather	O
+events	O
+have	O
+become	O
+more	O
+frequent	O
+over	O
+the	O
+past	O
+36	O
+years	O
+,	O
+with	O
+a	O
+significant	O
+uptick	O
+in	O
+floods	B-Flood
+and	O
+other	O
+hydrological	O
+events	O
+compared	O
+even	O
+with	O
+five	O
+years	O
+ago	O
+
+-DOCSTART-
+
+# 8ebkxs science
+Research	B-Research
+reveals	O
+stronger	O
+people	O
+have	O
+healthier	O
+brains	B-Brain
+-	O
+A	O
+study	O
+of	O
+nearly	O
+half	O
+a	O
+million	O
+people	O
+has	O
+revealed	O
+that	O
+muscular	O
+strength	O
+,	O
+measured	O
+by	O
+handgrip	O
+,	O
+is	O
+an	O
+indication	O
+of	O
+how	O
+healthy	O
+our	O
+brains	O
+are	O
+.	O
+This	O
+finding	O
+exists	O
+in	O
+the	O
+general	O
+population	O
+as	O
+well	O
+as	O
+people	O
+experiencing	O
+schizophrenia	B-Schizophrenia
+.	O
+
+-DOCSTART-
+
+# 8cw7sk science
+Nearly	O
+70	O
+%	O
+of	O
+energy	O
+produced	O
+in	O
+the	O
+US	O
+each	O
+year	O
+is	O
+wasted	O
+as	O
+heat	O
+,	O
+and	O
+comes	O
+from	O
+things	O
+like	O
+computers	B-Computer
+.	O
+Engineers	O
+at	O
+UC	O
+,	O
+Berkeley	O
+,	O
+developed	O
+a	O
+thin	O
+-	O
+film	O
+system	O
+that	O
+can	O
+be	O
+applied	O
+to	O
+sources	O
+of	O
+waste	O
+heat	O
+to	O
+convert	O
+such	O
+heat	O
+from	O
+electronics	O
+into	O
+energy	O
+,	O
+as	O
+reported	O
+in	O
+Nature	O
+Materials	O
+.	O
+
+-DOCSTART-
+
+# 8cbozf science
+A	O
+look	O
+at	O
+the	O
+available	O
+evidence	O
+for	O
+civilization	O
+on	O
+Earth	O
+before	O
+humans	B-Human
+-	O
+The	O
+Silurian	B-Silurian_hypothesis
+Hypothesis	I-Silurian_hypothesis
+
+-DOCSTART-
+
+# 88382z science
+A	O
+study	O
+argues	O
+that	O
+over	O
+his	O
+14	O
+years	O
+on	O
+reality	O
+television	O
+,	O
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+emotionally	O
+bonded	O
+with	O
+many	O
+Americans	O
+.	O
+For	O
+many	O
+Americans	O
+,	O
+watching	O
+The	O
+Apprentice	O
+produced	O
+a	O
+faux	O
+feeling	O
+of	O
+closeness	O
+and	O
+trust	O
+with	O
+him	O
+
+-DOCSTART-
+
+# 8dpue5 science
+Sometimes	O
+called	O
+“	O
+wear	O
+and	O
+tear	O
+”	O
+arthritis	O
+,	O
+osteoarthritis	B-Osteoarthritis
+in	O
+people	O
+who	O
+are	O
+obese	O
+was	O
+long	O
+assumed	O
+to	O
+simply	O
+be	O
+a	O
+consequence	O
+of	O
+undue	O
+stress	O
+on	O
+joints	O
+.	O
+But	O
+researchers	O
+provide	O
+the	O
+first	O
+evidence	O
+that	O
+bacteria	O
+in	O
+the	O
+gut	O
+–	O
+governed	O
+by	O
+diet	O
+–	O
+could	O
+be	O
+the	O
+key	O
+driving	O
+force	O
+behind	O
+osteoarthritis	O
+.	O
+
+-DOCSTART-
+
+# 8azlst science
+Human	O
+cancer	B-Cancer
+drugs	O
+work	O
+on	O
+Tasmanian	O
+devils	O
+in	O
+lab	O
+conditions	O
+,	O
+treating	O
+the	O
+transmittable	O
+cancer	O
+that	O
+'s	O
+wiping	O
+them	O
+out	O
+in	O
+the	O
+wild	O
+.	O
+
+-DOCSTART-
+
+# 82uyiv science
+‘	O
+Self	O
+-	O
+domesticating	O
+’	O
+mice	B-Mouse
+suggest	O
+some	O
+animals	O
+tamed	O
+themselves	O
+without	O
+human	B-Human
+intervention	O
+
+-DOCSTART-
+
+# 86aqe6 science
+People	O
+on	O
+antidepressant	O
+medication	O
+tend	O
+to	O
+also	O
+report	O
+experiencing	O
+emotional	O
+bluntness	O
+,	O
+a	O
+condition	O
+known	O
+as	O
+alexithymia	B-Alexithymia
+,	O
+according	O
+to	O
+a	O
+preliminary	O
+study	O
+published	O
+in	O
+the	O
+journal	O
+Experimental	O
+and	O
+Clinical	O
+Psychopharmacology	O
+.	O
+
+-DOCSTART-
+
+# 8pbuqv science
+Sucking	O
+carbon	B-Carbon_dioxide
+dioxide	I-Carbon_dioxide
+from	O
+air	O
+is	O
+cheaper	O
+than	O
+scientists	B-Scientist
+thought	O
+.	O
+Estimated	O
+cost	O
+of	O
+geoengineering	B-Climate_engineering
+technology	O
+to	O
+fight	O
+climate	O
+change	O
+has	O
+plunged	O
+since	O
+a	O
+2011	O
+analysis	O
+
+-DOCSTART-
+
+# 8mhtme science
+Lack	O
+of	O
+paid	O
+sick	O
+leave	O
+increases	O
+poverty	B-Poverty
+.	O
+It	O
+also	O
+increases	O
+medical	O
+care	O
+costs	O
+and	O
+use	O
+of	O
+welfare	B-Welfare
+.	O
+
+-DOCSTART-
+
+# 7sfxao Economics
+Wealthy	O
+millennials	B-Millennials
+are	O
+saving	O
+their	O
+money	O
+instead	O
+of	O
+investing	B-Investment
+it	O
+
+-DOCSTART-
+
+# 7urfsf Economics
+U.S.	B-United_States
+Added	O
+200,000	O
+Jobs	O
+in	O
+January	O
+;	O
+Unemployment	B-Unemployment
+at	O
+4.1	O
+%	O
+
+-DOCSTART-
+
+# 7p7y2l Economics
+Without	O
+the	O
+right	O
+policies	O
+,	O
+automation	B-Automation
+risks	O
+the	O
+transfer	O
+of	O
+income	O
+from	O
+labour	O
+to	O
+capital	O
+
+-DOCSTART-
+
+# 7socwa Economics
+Starbucks	B-Starbucks
+is	O
+giving	O
+its	O
+U.S.	B-United_States
+workers	O
+pay	O
+raises	O
+and	O
+stock	O
+grants	O
+this	O
+year	O
+,	O
+citing	O
+recent	O
+changes	O
+to	O
+the	O
+tax	B-Tax_law
+law	I-Tax_law
+.	O
+
+-DOCSTART-
+
+# 7xi2tz Economics
+Consumer	O
+prices	O
+jump	O
+much	O
+more	O
+than	O
+forecast	O
+,	O
+sparking	O
+inflation	B-Inflation
+fears	O
+
+-DOCSTART-
+
+# 7u7zwb Economics
+Is	O
+U.S.	O
+'	O
+finally	O
+seeing	O
+rising	O
+wages	O
+,	O
+'	O
+as	O
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+said	O
+?	O
+|	O
+PolitiFact	O
+
+-DOCSTART-
+
+# 7o4oj9 Economics
+Warren	B-Warren_Buffett
+Buffett	I-Warren_Buffett
+on	O
+the	O
+US	O
+economy	O
+:	O
+‘	O
+The	O
+tsunami	B-Tsunami
+of	O
+wealth	O
+did	O
+n’t	O
+trickle	O
+down	O
+.	O
+It	O
+surged	O
+upward	O
+’	O
+
+-DOCSTART-
+
+# 7t4sm7 Economics
+U.S.	B-United_States
+economic	B-Economic_growth
+growth	I-Economic_growth
+slowed	O
+in	O
+2017	O
+’s	O
+fourth	O
+quarter	O
+,	O
+missing	O
+Trump	O
+’s	O
+targets	O
+
+-DOCSTART-
+
+# 7yxd7m Economics
+Facebook	O
+’s	O
+next	O
+project	O
+:	O
+American	O
+inequality	O
+-	O
+A	O
+Stanford	O
+economist	B-Economist
+is	O
+using	O
+the	O
+company	O
+'s	O
+vast	O
+store	O
+of	O
+personal	O
+data	O
+to	O
+study	O
+why	O
+so	O
+many	O
+in	O
+the	O
+U.S.	O
+are	O
+stuck	O
+in	O
+place	O
+economically	O
+.	O
+
+-DOCSTART-
+
+# 7o3yb0 Economics
+AT&T	B-AT&T
+quietly	O
+lays	O
+off	O
+thousands	O
+after	O
+touting	O
+tax	O
+bill	O
+bonuses	O
+
+-DOCSTART-
+
+# 81r6vp Economics
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+'s	O
+decision	O
+to	O
+impose	O
+tariffs	B-Tariff
+on	O
+steel	B-Steel
+and	O
+aluminum	B-Aluminium
+is	O
+the	O
+most	O
+significant	O
+set	O
+of	O
+U.S.	O
+import	O
+restrictions	O
+in	O
+nearly	O
+half	O
+a	O
+century	B-Century
+.	O
+It	O
+will	O
+have	O
+huge	O
+consequences	O
+for	O
+the	O
+global	O
+trading	O
+order	O
+.	O
+
+-DOCSTART-
+
+# 826s5x Economics
+The	O
+Role	O
+of	O
+Luck	B-Luck
+in	O
+Life	O
+Success	O
+Is	O
+Far	O
+Greater	O
+Than	O
+We	O
+Realized	O
+
+-DOCSTART-
+
+# 830dw8 Economics
+Elon	B-Elon_Musk
+Musk	I-Elon_Musk
+sides	O
+with	O
+Trump	B-Donald_Trump
+on	O
+trade	O
+with	O
+China	O
+,	O
+citing	O
+25	O
+%	O
+import	O
+duty	O
+on	O
+American	O
+cars	O
+
+-DOCSTART-
+
+# 8cvveo Economics
+Mark	B-Mark_Carney
+Carney	I-Mark_Carney
+(	O
+The	O
+governor	O
+of	O
+the	O
+Bank	O
+of	O
+England	O
+)	O
+warns	O
+robots	B-Robot
+taking	O
+jobs	O
+could	O
+lead	O
+to	O
+rise	O
+of	O
+Marxism	B-Marxism
+.	O
+
+-DOCSTART-
+
+# 8dtyjh Economics
+India	O
+overtakes	O
+France	B-France
+to	O
+become	O
+world	O
+'s	O
+sixth	O
+largest	O
+economy	B-Economy
+(	O
+IMF	O
+)	O
+,	O
+growth	O
+is	O
+projected	O
+to	O
+continue	O
+rising	O
+in	O
+medium	O
+term	O
+
+-DOCSTART-
+
+# 84uesd Economics
+This	O
+Is	O
+What	O
+Record	O
+-	O
+Low	O
+Unemployment	B-Unemployment
+Looks	O
+Like	O
+in	O
+America	B-United_States
+
+-DOCSTART-
+
+# 89y0ye Economics
+Tariffs	B-Tariff
+Unlikely	O
+to	O
+Bring	O
+Back	O
+Many	O
+U.S.	O
+Blue	O
+-	O
+Collar	O
+Jobs	O
+,	O
+Study	O
+Finds	O
+
+-DOCSTART-
+
+# 85c69w Economics
+For	O
+the	O
+first	O
+time	O
+ever	O
+,	O
+US	B-United_States
+corporations	B-Corporation
+have	O
+begun	O
+reporting	O
+pay	O
+ratio	O
+data	O
+.	O
+And	O
+a	O
+movement	O
+is	O
+building	O
+to	O
+crack	O
+down	O
+on	O
+companies	B-Company
+that	O
+do	O
+n’t	O
+share	O
+the	O
+wealth	O
+
+-DOCSTART-
+
+# 82mehw Economics
+President	O
+Of	O
+United	O
+Steelworkers	O
+Says	O
+There	O
+'s	O
+No	O
+Rationale	O
+To	O
+Sanction	O
+Canada	B-Canada
+
+-DOCSTART-
+
+# 7uqsof politics
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+accuses	O
+FBI	B-Federal_Bureau_of_Investigation
+and	O
+Justice	O
+Department	O
+of	O
+favouring	O
+Democrats	B-Democratic_Party_(United_States)
+over	O
+Republicans	B-Republican_Party_(United_States)
+
+-DOCSTART-
+
+# 7yyzef politics
+Poll	O
+:	O
+97	O
+percent	O
+support	O
+background	B-Background_check
+checks	I-Background_check
+for	O
+all	O
+gun	B-Gun
+buyers	O
+
+-DOCSTART-
+
+# 7ujr1u politics
+Pelosi	O
+Sends	O
+Letter	O
+to	O
+Speaker	O
+Ryan	O
+Calling	O
+for	O
+Removal	O
+of	O
+Chairman	B-Chairperson
+Nunes	O
+and	O
+End	O
+to	O
+House	O
+Republicans	O
+’	O
+Partisan	O
+Charade	O
+
+-DOCSTART-
+
+# 7uw2ct politics
+Nunes	O
+says	O
+he	O
+did	O
+n't	O
+read	O
+FISA	B-Foreign_Intelligence_Surveillance_Act
+applications	O
+
+-DOCSTART-
+
+# 80zry2 politics
+Hope	B-Hope_Hicks
+Hicks	I-Hope_Hicks
+to	O
+Resign	O
+as	O
+White	O
+House	O
+Communications	O
+Director	O
+
+-DOCSTART-
+
+# 7w4jdk politics
+George	B-George_W._Bush
+W.	I-George_W._Bush
+Bush	I-George_W._Bush
+on	O
+immigrants	B-Immigration
+:	O
+'	O
+We	O
+ought	O
+to	O
+say	O
+thank	O
+you	O
+and	O
+welcome	O
+them	O
+'	O
+
+-DOCSTART-
+
+# 7ueo6j politics
+Trump	O
+’s	O
+Saturday	B-Saturday
+Night	O
+Massacre	B-Massacre
+Is	O
+Happening	O
+Right	O
+Before	O
+Our	O
+Eyes	O
+
+-DOCSTART-
+
+# afidw4 worldnews
+DNA	B-DNA
+pioneer	O
+James	B-James_Watson
+Watson	I-James_Watson
+stripped	O
+of	O
+honours	O
+after	O
+'	O
+reckless	O
+'	O
+race	O
+remarks	O
+-	O
+The	O
+laboratory	B-Laboratory
+Dr	B-James_Watson
+Watson	I-James_Watson
+once	O
+headed	O
+says	O
+his	O
+views	O
+on	O
+intelligence	O
+and	O
+race	O
+are	O
+"	O
+reprehensible	O
+"	O
+and	O
+"	O
+unsupported	O
+by	O
+science	O
+"	O
+.	O
+
+-DOCSTART-
+
+# aek7g4 worldnews
+Trump	O
+says	O
+he	O
+never	O
+said	O
+that	O
+Mexico	B-Mexico
+would	O
+directly	O
+pay	O
+for	O
+the	O
+wall	O
+
+-DOCSTART-
+
+# ajslme worldnews
+In	O
+apparent	O
+shot	O
+at	O
+Trump	O
+,	O
+Pope	B-Pope
+says	O
+'	O
+builders	O
+of	O
+walls	O
+'	O
+sow	O
+fear	O
+and	O
+divide	O
+
+-DOCSTART-
+
+# adjjnm worldnews
+$	O
+1	O
+trillion	O
+is	O
+leaving	O
+Britain	O
+because	O
+of	O
+Brexit	B-Brexit
+:	O
+Banks	B-Bank
+and	O
+other	O
+financial	O
+companies	O
+have	O
+shifted	O
+at	O
+least	O
+£	O
+800	O
+billion	O
+(	O
+$	O
+1	O
+trillion	O
+)	O
+worth	O
+of	O
+assets	O
+out	O
+of	O
+the	O
+country	O
+and	O
+into	O
+the	O
+European	B-European_Union
+Union	I-European_Union
+because	O
+of	O
+Brexit	O
+.	O
+
+-DOCSTART-
+
+# aj2hfo worldnews
+Venezuela	B-Venezuela
+opposition	O
+leader	O
+swears	O
+himself	O
+in	O
+as	O
+interim	O
+president	O
+
+-DOCSTART-
+
+# afu3bu worldnews
+Reports	O
+:	O
+2	O
+killed	O
+,	O
+40	O
+detained	O
+in	O
+new	O
+gay	O
+purge	O
+in	O
+Chechnya	B-Chechnya
+
+-DOCSTART-
+
+# abixrh worldnews
+Women	B-Woman
+say	O
+Morocco	O
+'s	O
+invasive	O
+'	O
+virginity	O
+tests	O
+'	O
+are	O
+assault	B-Assault
+:	O
+Invasively	O
+checking	O
+vaginal	O
+tightness	O
+and	O
+whether	O
+hymens	B-Hymen
+are	O
+intact	O
+is	O
+common	O
+in	O
+rural	O
+Morocco	O
+.	O
+But	O
+women	O
+are	O
+increasingly	O
+publicly	O
+opposing	O
+this	O
+practice	O
+.	O
+They	O
+say	O
+the	O
+examination	O
+constitutes	O
+rape	B-Rape
+
+-DOCSTART-
+
+# agt3k8 worldnews
+Giuliani	B-Rudy_Giuliani
+:	O
+"	O
+I	O
+never	O
+said	O
+there	O
+was	O
+no	O
+collusion	B-Collusion
+between	O
+the	O
+campaign	O
+"	O
+and	O
+Russians	O
+
+-DOCSTART-
+
+# ahm5e9 worldnews
+Anti	O
+-	O
+vaxxers	O
+are	O
+among	O
+the	O
+top	O
+'	O
+threats	O
+to	O
+global	O
+health	O
+'	O
+in	O
+2019	O
+,	O
+WHO	B-World_Health_Organization
+declares	O
+.	O
+
+-DOCSTART-
+
+# aekdia worldnews
+"	O
+Yellow	O
+vests	O
+"	O
+protest	O
+movement	O
+knocks	O
+out	O
+60	O
+%	O
+of	O
+all	O
+speed	B-Traffic_enforcement_camera
+cameras	I-Traffic_enforcement_camera
+in	O
+France	O
+
+-DOCSTART-
+
+# ai8hd5 worldnews
+China	B-China
+confirms	O
+birth	O
+of	O
+gene	O
+-	O
+edited	O
+babies	O
+,	O
+blames	O
+scientist	B-Scientist
+He	O
+Jiankui	O
+for	O
+breaking	O
+rules	O
+
+-DOCSTART-
+
+# ak7nq1 worldnews
+Germany	B-Germany
+to	O
+close	O
+all	O
+84	O
+of	O
+its	O
+coal	O
+-	O
+fired	O
+power	O
+plants	O
+,	O
+will	O
+rely	O
+primarily	O
+on	O
+renewable	O
+energy	O
+
+-DOCSTART-
+
+# aj0cej worldnews
+Sony	O
+will	O
+move	O
+its	O
+European	O
+headquarters	B-Headquarters
+from	O
+the	O
+UK	O
+to	O
+the	O
+Netherlands	O
+to	O
+avoid	O
+disruptions	O
+caused	O
+by	O
+Brexit	B-Brexit
+
+-DOCSTART-
+
+# adupzl worldnews
+Bill	B-Bill_Gates
+Gates	I-Bill_Gates
+warns	O
+that	O
+nobody	O
+is	O
+paying	O
+attention	O
+to	O
+gene	O
+editing	O
+,	O
+a	O
+new	O
+technology	O
+that	O
+could	O
+make	O
+inequality	O
+even	O
+worse	O
+
+-DOCSTART-
+
+# adpw75 worldnews
+Canada	B-Canada
+helped	O
+pressure	O
+Thailand	B-Thailand
+to	O
+protect	O
+Saudi	O
+woman	O
+,	O
+says	O
+Human	B-Human_Rights_Watch
+Rights	I-Human_Rights_Watch
+Watch	I-Human_Rights_Watch
+
+-DOCSTART-
+
+# aek0hj worldnews
+German	O
+Parents	O
+Have	O
+No	O
+Right	O
+to	O
+Homeschool	B-Homeschooling
+Their	O
+Kids	O
+,	O
+European	O
+Rights	O
+Court	O
+Rules	O
+
+-DOCSTART-
+
+# ajp43q worldnews
+Germany	O
+to	O
+Venezuela	B-Venezuela
+:	O
+Hold	O
+elections	B-Election
+or	O
+we	O
+recognize	O
+Guaido	O
+
+-DOCSTART-
+
+# acruin worldnews
+Paedophile	O
+priest	O
+shot	O
+dead	O
+‘	O
+by	O
+hitmen	O
+hired	O
+by	O
+dad	O
+of	O
+one	O
+of	O
+his	O
+teen	B-Adolescence
+victims	O
+’	O
+
+-DOCSTART-
+
+# ava76n worldnews
+Pakistan	O
+shoots	O
+down	O
+two	O
+Indian	O
+aircraft	B-Aircraft
+inside	O
+Pakistani	O
+airspace	B-Airspace
+;	O
+one	O
+pilot	O
+arrested	O
+
+-DOCSTART-
+
+# aqrceg worldnews
+Facebook	B-Facebook
+is	O
+thinking	O
+about	O
+removing	O
+anti	B-Vaccine_hesitancy
+-	I-Vaccine_hesitancy
+vaccination	I-Vaccine_hesitancy
+content	O
+as	O
+backlash	O
+intensifies	O
+over	O
+the	O
+spread	O
+of	O
+misinformation	B-Misinformation
+on	O
+the	O
+social	O
+network	O
+
+-DOCSTART-
+
+# arngoz worldnews
+Father	O
+at	O
+centre	O
+of	O
+measles	B-Measles
+outbreak	O
+did	O
+n't	O
+vaccinate	O
+children	O
+due	O
+to	O
+autism	O
+fears	O
+|	O
+CBC	B-CBC_News
+News	I-CBC_News
+
+-DOCSTART-
+
+# aorhf6 worldnews
+Anti	O
+-	O
+vaxxer	O
+movement	O
+fuelling	O
+global	O
+resurgence	O
+of	O
+measles	B-Measles
+,	O
+say	O
+WHO	O
+
+-DOCSTART-
+
+# anrp2d worldnews
+Donald	B-Donald_Trump
+Trump	I-Donald_Trump
+was	O
+in	O
+negotiations	O
+to	O
+build	O
+a	O
+mall	O
+in	O
+Russia	B-Russia
+as	O
+far	O
+back	O
+as	O
+the	O
+1990s	O
+,	O
+former	O
+Moscow	O
+mayor	O
+says	O
+
+-DOCSTART-
+
+# ar0ppc worldnews
+Trump	B-Donald_Trump
+took	O
+Putin	O
+'s	O
+word	O
+over	O
+US	O
+intelligence	O
+on	O
+North	B-North_Korea
+Korea	I-North_Korea
+
+-DOCSTART-
+
+# auscbe worldnews
+Cardinal	O
+George	O
+Pell	O
+,	O
+once	O
+the	O
+third	O
+most	O
+powerful	O
+man	O
+in	O
+the	O
+Vatican	O
+and	O
+Australia	O
+’s	O
+most	O
+senior	O
+Catholic	B-Catholic_Church
+,	O
+has	O
+been	O
+found	O
+guilty	O
+of	O
+child	B-Child_sexual_abuse
+sexual	I-Child_sexual_abuse
+abuse	I-Child_sexual_abuse
+after	O
+a	O
+trial	O
+in	O
+Melbourne	B-Melbourne
+.	O
+
+-DOCSTART-
+
+# av034x worldnews
+Facebook	B-Facebook
+bans	O
+U.K.	O
+far	O
+-	O
+right	O
+activist	O
+Tommy	B-Tommy_Robinson
+Robinson	I-Tommy_Robinson
+over	O
+hate	O
+speech	O
+
+-DOCSTART-
+
+# apd57h worldnews
+Australian	O
+Teens	O
+Ignore	O
+Anti	B-Vaccine_hesitancy
+-	I-Vaccine_hesitancy
+Vaxxer	I-Vaccine_hesitancy
+Parents	O
+by	O
+Getting	O
+Secret	O
+Vaccinations	B-Vaccination
+
+-DOCSTART-
+
+# atw99s worldnews
+Cardinal	B-Cardinal_(Catholic_Church)
+admits	O
+to	O
+Vatican	O
+summit	O
+that	O
+Catholic	B-Catholic_Church
+Church	I-Catholic_Church
+destroyed	O
+abuse	O
+files	O
+
+-DOCSTART-
+
+# aqy7sf worldnews
+Global	O
+insect	O
+collapse	O
+‘	O
+catastrophic	O
+for	O
+the	O
+survival	O
+of	O
+mankind	O
+’	O
+|	O
+Humans	B-Human
+are	O
+on	O
+track	O
+to	O
+wipe	O
+out	O
+insects	O
+within	O
+decades	O
+,	O
+study	O
+finds	O
+.	O
+
+-DOCSTART-
+
+# amyr5v worldnews
+Microplastic	B-Microplastics
+discovered	O
+in	O
+the	O
+bodies	O
+of	O
+every	O
+dolphin	B-Dolphin
+,	O
+whale	B-Whale
+and	O
+seal	O
+studied	O
+
+-DOCSTART-
+
+# at1qe7 worldnews
+Germany	B-Germany
+refuses	O
+to	O
+bow	O
+to	O
+UK	B-United_Kingdom
+pressure	O
+to	O
+resume	O
+arms	O
+sales	O
+to	O
+Saudi	B-Saudi_Arabia
+Arabia	I-Saudi_Arabia
+
+-DOCSTART-
+
+# at17xy worldnews
+Japan	B-Japan
+suffers	O
+worst	O
+measles	B-Measles
+outbreak	O
+,	O
+167	O
+cases	O
+reported	O
+
+-DOCSTART-
+
+# au82pe worldnews
+The	O
+measles	O
+outbreak	O
+in	O
+Madagascar	B-Madagascar
+has	O
+grown	O
+to	O
+a	O
+total	O
+of	O
+68,912	O
+cases	O
+since	O
+October	O
+,	O
+including	O
+926	O
+deaths	O
+,	O
+the	O
+WHO	O
+reports	O
+
+-DOCSTART-
+
+# aq0yby worldnews
+Mike	O
+Pompeo	O
+warns	O
+Vladimir	O
+Putin	O
+is	O
+threatening	B-Threat
+democracies	B-Democracy
+everywhere	O
+,	O
+says	O
+West	O
+took	O
+its	O
+eye	O
+off	O
+Russia	B-Russia
+
+-DOCSTART-
+
+# aumqqd worldnews
+Germany	B-Germany
+,	O
+one	O
+of	O
+the	O
+largest	O
+consumers	O
+of	O
+coal	O
+,	O
+has	O
+decided	O
+to	O
+shut	O
+down	O
+all	O
+its	O
+coal	B-Coal-fired_power_station
+-	I-Coal-fired_power_station
+fired	I-Coal-fired_power_station
+plants	I-Coal-fired_power_station
+by	O
+2038	O
+.	O
+The	O
+country	O
+has	O
+made	O
+this	O
+announcement	O
+owing	O
+to	O
+its	O
+international	O
+commitments	O
+in	O
+the	O
+fight	O
+against	O
+climate	O
+change	O
+.	O
+
+-DOCSTART-
+
+# anyw6m worldnews
+The	O
+U.S.	O
+Treasury	O
+Department	O
+missed	O
+a	O
+deadline	O
+to	O
+hand	O
+over	O
+documents	O
+to	O
+the	O
+House	O
+Financial	O
+Services	O
+Committee	O
+explaining	O
+its	O
+decision	O
+to	O
+ease	O
+sanctions	B-Sanction
+on	O
+companies	O
+owned	O
+by	O
+Russian	O
+oligarch	O
+Oleg	O
+Deripaska	O
+
+-DOCSTART-
+
+# b6606a worldnews
+Facebook	B-Facebook
+Bans	O
+White	O
+Nationalism	O
+and	O
+White	O
+Separatism	O
+:	O
+'	O
+Facebook	O
+will	O
+also	O
+begin	O
+directing	O
+users	O
+who	O
+try	O
+to	O
+post	O
+content	O
+associated	O
+with	O
+those	O
+ideologies	B-Ideology
+to	O
+a	O
+nonprofit	B-Nonprofit_organization
+that	O
+helps	O
+people	O
+leave	O
+hate	O
+groups	O
+.	O
+'	O
+
+-DOCSTART-
+
+# axmro0 worldnews
+It	O
+costs	O
+less	O
+than	O
+$	O
+60	O
+to	O
+have	O
+a	O
+baby	O
+in	O
+Finland	B-Finland
+.	O
+Its	O
+healthcare	O
+system	O
+has	O
+helped	O
+give	O
+it	O
+the	O
+lowest	O
+maternal	O
+death	O
+rate	O
+in	O
+the	O
+world	B-World
+-	O
+and	O
+it	O
+'s	O
+available	O
+to	O
+everyone	O
+for	O
+next	O
+to	O
+nothing	O
+.	O
+
+-DOCSTART-
+
+# b1s0un worldnews
+At	O
+least	O
+13	O
+civilians	B-Civilian
+,	O
+including	O
+9	O
+children	O
+and	O
+a	O
+village	O
+'s	O
+lone	O
+doctor	O
+,	O
+were	O
+killed	O
+in	O
+an	O
+American	O
+airstrike	O
+in	O
+Naser	O
+Khil	O
+in	O
+eastern	O
+Afghanistan	O
+
+-DOCSTART-
+
+# azf03l worldnews
+'	O
+Israel	B-Israel
+Is	O
+the	O
+Nation	O
+-	O
+state	O
+of	O
+Jews	B-Jews
+Alone	O
+'	O
+:	O
+Netanyahu	B-Benjamin_Netanyahu
+Responds	O
+to	O
+TV	O
+Star	O
+Who	O
+Said	O
+Arabs	B-Arabs
+Are	O
+Equal	O
+Citizens	O
+
+-DOCSTART-
+
+# b1k11o worldnews
+In	O
+solidarity	O
+with	O
+Muslims	B-Muslims
+,	O
+New	B-New_Zealand
+Zealand	I-New_Zealand
+Jewish	O
+community	O
+shut	O
+synagogues	B-Synagogue
+on	O
+Shabbat	B-Shabbat
+for	O
+first	O
+time	O
+in	O
+history	O
+
+-DOCSTART-
+
+# azdrvn worldnews
+Ethiopian	B-Ethiopia
+airliner	B-Airliner
+crashes	O
+on	O
+way	O
+to	O
+Kenya	B-Kenya
+
+-DOCSTART-
+
+# ax5dsv worldnews
+Germany	B-Germany
+to	O
+strip	O
+'	O
+Islamic	O
+State	O
+'	O
+fighters	O
+'	O
+citizenship	O
+
+-DOCSTART-
+
+# b32aor worldnews
+Canada	B-Canada
+'s	I-Canada
+oldest	O
+rape	O
+crisis	O
+centre	O
+stripped	O
+of	O
+city	O
+funding	O
+for	O
+refusing	O
+to	O
+accept	O
+trans	O
+women	O
+.	O
+
+-DOCSTART-
+
+# ayrhbz worldnews
+U.S.	O
+revokes	O
+Finnish	O
+journalist	O
+’s	O
+“	O
+Women	O
+of	O
+Courage	O
+”	O
+Award	O
+Over	O
+Her	O
+Criticism	B-Criticism
+of	O
+Trump	O
+
+-DOCSTART-
+
+# b0f9kx worldnews
+Cardinal	O
+George	O
+Pell	O
+has	O
+been	O
+sentenced	O
+to	O
+six	O
+years	O
+in	O
+prison	B-Prison
+for	O
+the	O
+sexual	O
+abuse	O
+of	O
+two	O
+choir	O
+boys	O
+in	O
+the	O
+1990s	O
+
+-DOCSTART-
+
+# b7i4et worldnews
+Campaigners	O
+have	O
+called	O
+for	O
+male	O
+circumcision	O
+to	O
+be	O
+taken	O
+as	O
+seriously	O
+as	O
+female	O
+genital	O
+mutilation	O
+following	O
+the	O
+death	O
+of	O
+a	O
+five	O
+-	O
+month	O
+-	O
+year	O
+-	O
+old	O
+boy	O
+in	O
+Italy	B-Italy
+as	O
+a	O
+result	O
+of	O
+the	O
+procedure	O
+.	O
+
+-DOCSTART-
+
+# b43dcd worldnews
+Defrocked	B-Defrocking
+Jersey	O
+priest	O
+who	O
+molested	B-Sexual_abuse
+boys	O
+now	O
+teaches	O
+kids	O
+English	O
+in	O
+Dominican	O
+Republic	O
+
+-DOCSTART-
+
+# bdilj8 worldnews
+Fire	B-Fire
+breaks	O
+out	O
+at	O
+historic	O
+Notre	O
+-	O
+Dame	O
+cathedral	O
+in	O
+Paris	O
+
+-DOCSTART-
+
+# bbxuqh worldnews
+Wikileaks	B-WikiLeaks
+co	O
+-	O
+founder	O
+Julian	B-Julian_Assange
+Assange	I-Julian_Assange
+arrested	O
+after	O
+seven	O
+years	O
+in	O
+Ecuador	O
+'s	O
+embassy	O
+in	O
+London	O
+,	O
+UK	O
+police	O
+say	O
+
+-DOCSTART-
+
+# bgg0b0 worldnews
+Donald	O
+Trump	O
+'s	O
+U.K.	B-United_Kingdom
+State	O
+Visit	O
+Faces	O
+'	O
+Maximum	O
+Disruption	O
+,	O
+'	O
+Protesters	B-Protest
+Vow	O
+to	O
+Make	O
+Trip	O
+'	O
+as	O
+Unpleasant	O
+as	O
+Possible	O
+'	O
+
+-DOCSTART-
+
+# bg3b50 worldnews
+The	O
+number	O
+of	O
+Canadians	B-Canadians
+who	O
+are	O
+$	O
+200	O
+or	O
+less	O
+away	O
+from	O
+financial	O
+insolvency	O
+every	O
+month	O
+has	O
+climbed	O
+to	O
+48	O
+per	O
+cent	O
+,	O
+up	O
+from	O
+46	O
+per	O
+cent	O
+in	O
+the	O
+previous	O
+quarter	O
+,	O
+in	O
+a	O
+sign	O
+of	O
+deteriorating	O
+financial	O
+stability	O
+for	O
+many	O
+people	O
+in	O
+the	O
+country	O
+,	O
+according	O
+to	O
+a	O
+new	O
+poll	O
+.	O
+
+-DOCSTART-
+
+# bdze4p worldnews
+Uber	B-Uber
+lets	O
+female	O
+drivers	O
+block	O
+male	O
+passengers	O
+in	O
+Saudi	B-Saudi_Arabia
+Arabia	I-Saudi_Arabia
+
+-DOCSTART-
+
+# bbzhsb worldnews
+Delhi	O
+High	O
+Court	O
+orders	O
+YouTube	B-YouTube
+to	O
+take	O
+down	O
+PewDiPie	O
+videos	O
+over	O
+racist	O
+and	O
+derogatory	O
+comments	O
+towards	O
+India	B-India
+
+-DOCSTART-
+
+# bg9m2n worldnews
+Mueller	O
+report	O
+:	O
+Russia	B-Russia
+hacked	O
+state	O
+databases	B-Database
+and	O
+voting	O
+machine	O
+companies	O
+.	O
+Russian	O
+intelligence	O
+officers	O
+injected	O
+malicious	O
+SQL	O
+code	O
+and	O
+then	O
+ran	O
+commands	O
+to	O
+extract	O
+information	O
+
+-DOCSTART-
+
+# bec0p5 worldnews
+Japanese	O
+women	O
+protest	O
+judicial	O
+system	O
+after	O
+rapist	B-Rape
+walks	O
+free	O
+
+-DOCSTART-
+
+# bexedq worldnews
+Viewer	O
+outcry	O
+as	O
+distressed	O
+Orangutan	B-Orangutan
+attempts	O
+to	O
+physically	O
+fight	O
+off	O
+bulldozer	B-Bulldozer
+destroying	O
+its	O
+habitat	O
+for	O
+Palm	O
+Oil	O
+in	O
+David	O
+Attenboroughs	O
+Documentary	B-Documentary_film
+'	O
+Climate	O
+Change	O
+:	O
+The	O
+Facts	O
+'	O
+
+-DOCSTART-
+
+# bq847c worldnews
+Parents	O
+who	O
+raise	O
+children	B-Child
+as	O
+vegans	O
+should	O
+be	O
+prosecuted	O
+,	O
+say	O
+Belgian	O
+doctors	O
+
+-DOCSTART-
+
+# bkfdwx worldnews
+The	O
+United	O
+States	O
+accused	O
+China	B-China
+on	O
+Friday	O
+of	O
+putting	O
+well	O
+more	O
+than	O
+a	O
+million	O
+minority	O
+Muslims	O
+in	O
+“	O
+concentration	O
+camps	O
+,	O
+”	O
+in	O
+some	O
+of	O
+the	O
+strongest	O
+U.S.	O
+condemnation	O
+to	O
+date	O
+of	O
+what	O
+it	O
+calls	O
+Beijing	O
+’s	O
+mass	O
+detention	O
+of	O
+mostly	O
+Muslim	O
+Uighur	O
+minority	O
+and	O
+other	O
+Muslim	O
+groups	O
+.	O
+
+-DOCSTART-
+
+# bqmnyg worldnews
+Google	B-Google
+pulls	O
+Huawei	B-Huawei
+’s	O
+Android	O
+license	O
+
+-DOCSTART-
+
+# buyqnp worldnews
+Jared	B-Jared_Kushner
+Kushner	I-Jared_Kushner
+'	O
+justified	O
+murder	O
+of	O
+Saudi	O
+dissident	O
+journalist	O
+Khashoggi	O
+,	O
+calling	O
+him	O
+a	O
+terrorist	B-Terrorism
+'	O
+
+-DOCSTART-
+
+# bpsz5s worldnews
+Trump	O
+might	O
+reportedly	O
+skip	O
+his	O
+Ireland	B-Ireland
+trip	O
+because	O
+its	O
+prime	B-Prime_minister
+minister	I-Prime_minister
+wo	O
+n't	O
+meet	O
+at	O
+his	O
+golf	O
+course	O
+
+-DOCSTART-
+
+# bukjfr worldnews
+Trudeau	O
+'	O
+disappointed	O
+'	O
+by	O
+'	O
+backsliding	O
+'	O
+on	O
+abortion	O
+rights	O
+in	O
+U.S.	O
+|	O
+CBC	B-CBC_News
+News	I-CBC_News
+
+-DOCSTART-
+
+# bk6wb6 worldnews
+Boeing	B-Boeing
+relied	O
+on	O
+single	O
+sensor	O
+for	O
+737	B-Boeing_737_MAX
+Max	I-Boeing_737_MAX
+that	O
+had	O
+been	O
+flagged	O
+216	O
+times	O
+to	O
+FAA	B-Federal_Aviation_Administration
+
+-DOCSTART-
+
+# bkoscy worldnews
+Permafrost	B-Permafrost
+is	O
+thawing	O
+in	O
+the	O
+Arctic	O
+so	O
+fast	O
+that	O
+scientists	O
+are	O
+losing	O
+their	O
+equipment	O
+|	O
+Instead	O
+of	O
+a	O
+few	O
+centimetres	O
+of	O
+thaw	O
+a	O
+year	O
+,	O
+several	O
+metres	O
+of	O
+soil	O
+can	O
+destabilize	O
+within	O
+days	O
+.	O
+"	O
+It	O
+often	O
+happens	O
+so	O
+fast	O
+we	O
+ca	O
+n't	O
+get	O
+out	O
+there	O
+and	O
+rescue	O
+it	O
+.	O
+"	O
+
+-DOCSTART-
+
+# bpnbh1 worldnews
+Taiwan	B-Taiwan
+legalises	B-Legalization
+same	O
+-	O
+sex	O
+marriage	O
+
+-DOCSTART-
+
+# bmw7jf worldnews
+Japan	O
+enacts	O
+legislation	O
+making	O
+preschool	O
+education	B-Education
+free	O
+in	O
+effort	O
+to	O
+boost	O
+low	O
+fertility	O
+rate	O
+-	O
+“	O
+The	O
+financial	O
+burden	O
+of	O
+education	O
+and	O
+child	O
+-	O
+rearing	O
+weighs	O
+heavily	O
+on	O
+young	O
+people	O
+,	O
+becoming	O
+a	O
+bottleneck	O
+for	O
+them	O
+to	O
+give	O
+birth	O
+and	O
+raise	O
+children	B-Child
+.	O
+That	O
+is	O
+why	O
+we	O
+are	O
+making	O
+(	O
+education	O
+)	O
+free	O
+”	O
+
+-DOCSTART-
+
+# bslt8z worldnews
+France	B-France
+has	O
+officially	O
+acknowledged	O
+for	O
+the	O
+first	O
+time	O
+that	O
+French	O
+Polynesians	O
+were	O
+effectively	O
+forced	O
+into	O
+accepting	O
+almost	O
+200	O
+nuclear	B-Nuclear_weapons_testing
+tests	I-Nuclear_weapons_testing
+conducted	O
+over	O
+a	O
+30	O
+-	O
+year	O
+period	O
+,	O
+and	O
+that	O
+it	O
+is	O
+responsible	O
+for	O
+compensating	O
+them	O
+for	O
+the	O
+illnesses	O
+caused	O
+by	O
+the	O
+fallout	B-Nuclear_fallout
+.	O
+
+-DOCSTART-
+
+# boxx6d worldnews
+Koalas	B-Koala
+are	O
+'	O
+functionally	O
+extinct	O
+with	O
+only	O
+80,000	O
+left	O
+in	O
+wild	O
+'	O
+-	O
+The	O
+number	O
+of	O
+koalas	O
+in	O
+Australia	B-Australia
+has	O
+fallen	O
+so	O
+low	O
+the	O
+species	O
+is	O
+“	O
+functionally	O
+extinct	O
+”	O
+and	O
+unlikely	O
+to	O
+produce	O
+a	O
+new	O
+generation	O
+,	O
+campaigners	O
+have	O
+warned	O
+.	O
+
+-DOCSTART-
+
+# but6a0 worldnews
+Prime	O
+Minister	O
+Shinzo	O
+Abe	O
+has	O
+made	O
+it	O
+clear	O
+that	O
+the	O
+US	B-United_States
+wo	O
+n't	O
+get	O
+special	O
+treatment	O
+in	O
+a	O
+trade	B-Trade_agreement
+deal	I-Trade_agreement
+with	O
+Japan	B-Japan
+.	O
+He	O
+says	O
+Japan	B-Japan
+is	O
+n't	O
+willing	O
+to	O
+provide	O
+better	O
+access	O
+to	O
+its	O
+agricultural	B-Agriculture
+markets	O
+than	O
+it	O
+offered	O
+to	O
+other	O
+countries	O
+in	O
+the	O
+Trans	B-Trans-Pacific_Partnership
+-	I-Trans-Pacific_Partnership
+Pacific	I-Trans-Pacific_Partnership
+Partnership	I-Trans-Pacific_Partnership
+.	O
+
+-DOCSTART-
+
+# bjfnjr worldnews
+Julian	B-Julian_Assange
+Assange	I-Julian_Assange
+has	O
+been	O
+sentenced	O
+to	O
+50	O
+weeks	O
+in	O
+jail	B-Prison
+in	O
+the	O
+UK	B-United_Kingdom
+for	O
+breaching	O
+his	O
+bail	O
+conditions	O
+
+-DOCSTART-
+
+# agtgaq gaming
+My	O
+Wii	B-Wii_U
+U	I-Wii_U
+was	O
+gathering	O
+dust	O
+so	O
+I	O
+donated	O
+it	O
+to	O
+the	O
+local	O
+paediatric	O
+oncology	O
+unit	O
+.	O
+Now	O
+the	O
+kids	O
+can	O
+play	O
+Mario	O
+during	O
+long	O
+chemotherapy	B-Chemotherapy
+sessions	O
+.	O
+
+-DOCSTART-
+
+# akvz16 gaming
+Dear	O
+Ubisoft	B-Ubisoft
+;	O
+Would	O
+you	O
+kindly	O
+please	O
+develop	O
+an	O
+Assassin	O
+’s	O
+Creed	O
+game	O
+set	O
+in	O
+Japan	B-Japan
+during	O
+the	O
+Feudal	O
+and/or	O
+Edo	O
+period(s	O
+)	O
+.	O
+Sincerely	O
+;	O
+EVERYONE	O
+!	O
+
+-DOCSTART-
+
+# ausuwr gaming
+I	O
+still	O
+think	O
+that	O
+the	O
+intro	O
+of	O
+Spider	B-Spider-Man
+-	I-Spider-Man
+Man	I-Spider-Man
+has	O
+one	O
+of	O
+the	O
+best	O
+cutscene	O
+-	O
+to	O
+-	O
+gameplay	O
+transitions	O
+of	O
+any	O
+game	O
+I	O
+'ve	O
+ever	O
+played	O
+(	O
+better	O
+with	O
+sound	O
+on	O
+)	O
+
+-DOCSTART-
+
+# addjkl gaming
+Just	O
+started	O
+watching	O
+Game	B-Game_of_Thrones
+of	I-Game_of_Thrones
+Thrones	I-Game_of_Thrones
+and	O
+my	O
+god	O
+..	O
+every	O
+time	O
+I	O
+see	O
+her	O
+I	O
+ca	O
+n’t	O
+stop	O
+thinking	O
+about	O
+how	O
+perfect	O
+she	O
+would	O
+be	O
+to	O
+play	O
+Aloy	B-Aloy
+in	O
+a	O
+Horizon	B-Horizon_Zero_Dawn
+Zero	I-Horizon_Zero_Dawn
+Dawn	I-Horizon_Zero_Dawn
+movie	O
+.	O
+
+-DOCSTART-
+
+# br1umr politics
+Federal	O
+Judge	O
+Rules	O
+Trump	O
+Can	O
+not	O
+Block	O
+House	O
+Subpoena	B-Subpoena
+Seeking	O
+Financial	O
+Records	O
+
+-DOCSTART-
+
+# bmwp6i politics
+Should	O
+11	O
+-	O
+year	O
+-	O
+old	O
+girls	O
+have	O
+to	O
+bear	O
+their	O
+rapists	O
+’	O
+babies	O
+?	O
+Ohio	B-Ohio
+says	O
+yes	O
+.	O
+
+-DOCSTART-
+
+# blpjid politics
+A	O
+"	O
+caravan	O
+"	O
+of	O
+Americans	B-Americans
+is	O
+crossing	O
+the	O
+Canadian	O
+border	O
+to	O
+get	O
+affordable	O
+medical	O
+care	O
+
+-DOCSTART-
+
+# bjvo7o politics
+Pelosi	O
+:	O
+Barr	O
+committed	O
+a	O
+crime	B-Crime
+by	O
+lying	O
+to	O
+Congress	O
+
+-DOCSTART-
+
+# bm7364 politics
+Schiff	O
+Introduces	O
+Constitutional	O
+Amendment	O
+to	O
+Overturn	O
+Citizens	B-Citizens_United_v._FEC
+United	I-Citizens_United_v._FEC
+
+-DOCSTART-
+
+# bo24uq politics
+Trump	B-Donald_Trump
+warns	O
+China	B-China
+it	O
+will	O
+be	O
+'	O
+hurt	O
+badly	O
+'	O
+by	O
+trade	O
+war	O
+,	O
+in	O
+rambling	O
+misspelled	O
+Twitter	O
+attack	O
+on	O
+President	O
+Xi	O
+
+-DOCSTART-
+
+# bpwoal politics
+Howard	B-Howard_Stern
+Stern	I-Howard_Stern
+:	O
+The	O
+Trump	O
+I	O
+know	O
+was	O
+n't	O
+anti	O
+-	O
+abortion	O
+because	O
+he	O
+probably	O
+got	O
+a	O
+'	O
+few	O
+people	O
+abortions	O
+'	O
+
+-DOCSTART-
+
+# bm7drj politics
+Alexandria	B-Alexandria_Ocasio-Cortez
+Ocasio	I-Alexandria_Ocasio-Cortez
+-	I-Alexandria_Ocasio-Cortez
+Cortez	I-Alexandria_Ocasio-Cortez
+:	O
+Men	O
+Behind	O
+'	O
+Heartbeat	O
+'	O
+Bills	O
+'	O
+Do	O
+n't	O
+Know	O
+The	O
+First	O
+Thing	O
+About	O
+A	O
+Woman	O
+'s	O
+Body	O
+Outside	O
+Of	O
+The	O
+Things	O
+They	O
+Want	O
+From	O
+It	O
+'	O
+
+-DOCSTART-
+
+# buh6gm politics
+Robert	B-Robert_Mueller
+Mueller	I-Robert_Mueller
+Was	O
+Telling	O
+Nancy	O
+Pelosi	O
+to	O
+Begin	O
+Impeachment	O
+Proceedings	O
+
+-DOCSTART-
+
+# btkpgp politics
+North	B-North_Korea
+Korea	I-North_Korea
+:	O
+Bolton	B-John_Bolton
+a	O
+"	O
+war	B-Warmonger
+monger	I-Warmonger
+"	O
+and	O
+"	O
+defective	O
+human	B-Human
+product	O
+"	O
+
+-DOCSTART-
+
+# bnh9hi politics
+Leaked	O
+NRA	B-National_Rifle_Association
+Documents	O
+Reveal	O
+Gun	O
+Group	O
+Drowning	O
+In	O
+Legal	O
+Fees	O
+
+-DOCSTART-
+
+# c2v3an politics
+Alexandria	B-Alexandria_Ocasio-Cortez
+Ocasio	I-Alexandria_Ocasio-Cortez
+-	I-Alexandria_Ocasio-Cortez
+Cortez	I-Alexandria_Ocasio-Cortez
+Defends	O
+Concentration	O
+Camp	O
+Comments	O
+:	O
+‘	O
+History	O
+Will	O
+Be	O
+Kind	O
+to	O
+Those	O
+Who	O
+Stood	O
+Up	O
+to	O
+This	O
+Injustice	O
+’	O
+
+-DOCSTART-
+
+# c04167 politics
+Trump	B-Donald_Trump
+stuns	O
+with	O
+oval	B-Oval_Office
+office	I-Oval_Office
+interview	O
+:	O
+'	O
+Like	O
+the	O
+smoking	O
+gun	O
+tape	O
+,	O
+if	O
+Nixon	B-Richard_Nixon
+had	O
+confessed	O
+on	O
+national	O
+television	O
+'	O
+
+-DOCSTART-
+
+# c66pw6 politics
+Supreme	O
+Court	O
+blocks	O
+Trump	B-Donald_Trump
+administration	O
+from	O
+adding	O
+citizenship	B-Citizenship
+question	O
+to	O
+2020	B-2020_United_States_census
+census	I-2020_United_States_census
+
+-DOCSTART-
+
+# c048y7 politics
+#	O
+ImpeachTrumpNow	O
+Trends	O
+on	O
+Twitter	O
+:	O
+Americans	B-Americans
+Say	O
+President	O
+Committed	O
+'	O
+Treason	B-Treason
+'	O
+by	O
+Saying	O
+He	O
+Would	O
+Take	O
+Foreign	O
+Information	O
+on	O
+2020	O
+Rivals	O
+
+-DOCSTART-
+
+# bxlbat politics
+Margaret	B-Margaret_Atwood
+Atwood	I-Margaret_Atwood
+says	O
+it	O
+'s	O
+"	O
+a	O
+form	O
+of	O
+slavery	O
+to	O
+force	O
+women	O
+to	O
+have	O
+children	O
+they	O
+ca	O
+n't	O
+afford	O
+"	O
+
+-DOCSTART-
+
+# by74m6 politics
+For	O
+the	O
+first	O
+time	O
+ever	O
+,	O
+Wisconsin	O
+is	O
+flying	O
+the	O
+rainbow	B-Rainbow
+pride	O
+flag	O
+over	O
+its	O
+Capitol	B-Capitol
+building	O
+
+-DOCSTART-
+
+# crl9u6 Economics
+American	O
+Capitalism	O
+Is	O
+Brutal	O
+.	O
+You	O
+Can	O
+Trace	O
+That	O
+to	O
+the	O
+Plantation	B-Plantation
+.	O
+
+-DOCSTART-
+
+# ctw8wl Economics
+With	O
+deficit	O
+rising	O
+,	O
+worries	O
+grow	O
+the	O
+U.S.	B-United_States
+may	O
+be	O
+out	O
+of	O
+tools	O
+if	O
+recession	B-Recession
+hits	O
+
+-DOCSTART-
+
+# b35r76 Economics
+America	O
+’s	O
+system	O
+of	O
+tipping	B-Gratuity
+at	O
+restaurants	B-Restaurant
+defies	O
+all	O
+economic	O
+logic	B-Logic
+
+-DOCSTART-
+
+# aelkrq Economics
+The	O
+richest	O
+families	B-Family
+in	O
+Florence	B-Florence
+in	O
+1427	O
+are	O
+still	O
+the	O
+richest	O
+families	O
+in	O
+Florence	O
+
+-DOCSTART-
+
+# ad47q3 movies
+What	O
+Movie	B-Film
+sounded	O
+terrible	O
+on	O
+paper	O
+but	O
+the	O
+execution	O
+was	O
+great	O
+?	O
+
+-DOCSTART-
+
+# aqq2a1 movies
+‘	O
+Aquaman	O
+’s	O
+Jason	B-Jason_Momoa
+Momoa	I-Jason_Momoa
+Joins	O
+Killer	O
+Cast	O
+Of	O
+Denis	O
+Villenueve	O
+’s	O
+‘	O
+Dune	B-Dune_(2021_film)
+’	O
+
+-DOCSTART-
+
+# an5hxz movies
+Netflix	B-Netflix
+to	O
+Acquire	O
+Zac	O
+Efron	O
+Ted	O
+Bundy	O
+Movie	O
+‘	O
+Extremely	O
+Wicked	O
+,	O
+Shockingly	O
+Evil	O
+and	O
+Vile	O
+’	O
+
+-DOCSTART-
+
+# age8z7 movies
+M.	B-M._Night_Shyamalan
+Night	I-M._Night_Shyamalan
+Shyamalan	I-M._Night_Shyamalan
+personally	O
+financed	O
+the	O
+entire	O
+$	O
+20	O
+million	O
+budget	O
+of	O
+"	O
+Glass	B-Glass_(2019_film)
+"	O
+,	O
+like	O
+he	O
+had	O
+done	O
+with	O
+"	O
+Split	B-Split_(2016_American_film)
+"	O
+and	O
+"	O
+The	B-The_Visit_(2015_American_film)
+Visit	I-The_Visit_(2015_American_film)
+"	O
+
+-DOCSTART-
+
+# bhdw17 movies
+Former	O
+actor	O
+Corey	O
+Feldman	O
+has	O
+completed	O
+a	O
+documentary	B-Documentary_film
+about	O
+abuse	O
+in	O
+Hollywood	O
+.	O
+The	O
+film	O
+,	O
+titled	O
+'	O
+Truth	O
+:	O
+The	O
+Rape	O
+of	O
+Two	O
+Coreys	O
+'	O
+,	O
+has	O
+been	O
+rejected	O
+by	O
+a	O
+number	O
+of	O
+studios	O
+and	O
+networks	O
+,	O
+including	O
+Lifetime	O
+,	O
+which	O
+aired	O
+'	O
+Surviving	O
+R.	O
+Kelly	O
+'	O
+.	O
+
+-DOCSTART-
+
+# bb6gmm movies
+'	O
+The	O
+Blair	O
+Witch	O
+Project	O
+'	O
+changed	O
+horror	O
+forever	O
+:	O
+It	O
+created	O
+a	O
+genre	O
+and	O
+took	O
+advantage	O
+of	O
+trust	O
+in	O
+the	O
+early	O
+internet	B-Internet
+.	O
+Its	O
+ingenious	O
+premise	O
+required	O
+it	O
+to	O
+break	O
+all	O
+the	O
+rules	O
+:	O
+no	O
+script	O
+,	O
+no	O
+jump	O
+scares	O
+,	O
+no	O
+music	O
+,	O
+no	O
+professional	O
+crew	O
+,	O
+no	O
+special	O
+effects	O
+.	O
+Hysteria	B-Hysteria
+became	O
+its	O
+greatest	O
+weapon	O
+.	O
+
+-DOCSTART-
+
+# b3myct movies
+Christian	O
+Bale	O
+’s	O
+performance	B-Performance
+in	O
+The	O
+Prestige	O
+is	O
+fantastic	O
+the	O
+first	O
+time	O
+you	O
+watch	O
+it	O
+and	O
+unbelievably	O
+brilliant	O
+the	O
+2nd	O
+time	O
+you	O
+watch	O
+it	O
+.	O
+(	O
+SPOILERS	O
+)	O
+
+-DOCSTART-
+
+# b9b8i1 movies
+After	O
+20	O
+years	O
+,	O
+the	O
+childlike	O
+innocence	O
+of	O
+Brad	O
+Bird	O
+'s	O
+directorial	O
+debut	O
+'	O
+The	O
+Iron	O
+Giant	O
+'	O
+still	O
+resonates	O
+.	O
+The	O
+film	O
+perfectly	O
+delivers	O
+on	O
+the	O
+notions	O
+of	O
+friendship	O
+&	O
+heroism	O
+,	O
+showing	O
+us	O
+a	O
+moving	O
+convergence	O
+between	O
+childhood	B-Child
+and	O
+adult	O
+responsibility	O
+.	O
+

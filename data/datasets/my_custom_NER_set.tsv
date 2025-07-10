@@ -1,0 +1,194 @@
+-DOCSTART-
+
+NASA	B-ORG
+launched	O
+a	O
+new	O
+satellite	O
+from	O
+Cape	B-LOC
+Canaveral	I-LOC
+on	O
+Monday	O
+.	O
+
+The	O
+satellite	O
+,	O
+named	O
+Landsat	B-MISC
+9	I-MISC
+,	O
+will	O
+monitor	O
+earth	O
+resources	O
+.	O
+
+Mission	O
+control	O
+is	O
+located	O
+at	O
+Johnson	B-MISC
+Space	I-MISC
+Center	I-MISC
+in	O
+Houston	B-LOC
+.	O
+
+-DOCSTART-
+
+Lionel	B-PER
+Messi	I-PER
+scored	O
+twice	O
+for	O
+Inter	B-ORG
+Miami	I-ORG
+against	O
+Orlando	B-ORG
+City	I-ORG
+.	O
+
+The	O
+match	O
+was	O
+part	O
+of	O
+the	O
+MLS	B-MISC
+regular	O
+season	O
+.	O
+
+Miami	B-ORG
+fans	O
+celebrated	O
+at	O
+DRV	B-MISC
+PNK	I-MISC
+Stadium	I-MISC
+.	O
+
+-DOCSTART-
+
+Angela	B-PER
+Merkel	I-PER
+met	O
+with	O
+Emmanuel	B-PER
+Macron	I-PER
+in	O
+Paris	B-LOC
+to	O
+discuss	O
+climate	O
+policy	O
+.	O
+
+They	O
+agreed	O
+to	O
+revisit	O
+the	O
+Paris	B-MISC
+Agreement	I-MISC
+targets	O
+.	O
+
+Germany	B-LOC
+and	O
+France	B-LOC
+have	O
+taken	O
+leadership	O
+roles	O
+in	O
+EU	B-ORG
+climate	O
+efforts	O
+.	O
+
+-DOCSTART-
+
+The	O
+iPhone	B-MISC
+15	I-MISC
+was	O
+announced	O
+by	O
+Apple	B-ORG
+at	O
+its	O
+annual	O
+event	O
+in	O
+Cupertino	B-LOC
+.	O
+
+Tim	B-PER
+Cook	I-PER
+introduced	O
+new	O
+features	O
+like	O
+USB-C	B-MISC
+charging	O
+and	O
+improved	O
+battery	O
+life	O
+.	O
+
+Apple	B-ORG
+fans	O
+shared	O
+their	O
+reactions	O
+online	O
+.	O
+
+-DOCSTART-
+
+Serena	B-PER
+Williams	I-PER
+returned	O
+to	O
+the	O
+court	O
+at	O
+Wimbledon	B-MISC
+after	O
+a	O
+year-long	O
+break	O
+.	O
+
+She	O
+faced	O
+Emma	B-PER
+Raducanu	I-PER
+in	O
+the	O
+second	O
+round	O
+.	O
+
+The	O
+All	B-ORG
+England	I-ORG
+Club	I-ORG
+was	O
+packed	O
+with	O
+fans	O
+.	O
+
+BBC	B-ORG
+broadcasted	O
+the	O
+match	O
+live	O
+.	O
+

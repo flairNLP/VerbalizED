@@ -1,0 +1,24 @@
+# Ignore the `.idea` folder
+*.idea/
+
+# Ignore all folders within the custom_dual_encoder directory, but keep the files
+models/custom_dual_encoder/*/
+
+# Ignore all files and directories starting with tmp_
+tmp_*
+
+# Ignore all evaluation folders that are in some subdirectory of models/
+models/*/evaluation/
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore compiled Python files
+*.py[cod]
+
+# Ignore the .pt model files
+*.pt
+
+# Ignore the ZELDA verbalizations
+data/verbalizations/zelda_labels_verbalizations.json
+
