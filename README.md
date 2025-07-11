@@ -247,10 +247,10 @@ python load_and_predict_with_trained_model.py \
 ```
 
 
-#### Predicting on NER datasets
+#### Predicting on data without any or only NER labels
 
-* Let's say we have a dataset, where _mentions_ are annotated (e.g. a NER dataset like `my_custom_NER_set.tsv`), but no entity disambiguation labels are present. We can still predict for it (though we need to ignore the resulting "scores"!):
-
+* You can also predict entity labels for datasets that do not contain entity disambiguation or mention labels at all.
+* If you do have annotated _mentions_ (e.g. a NER dataset like `my_custom_NER_set.tsv`), but no entity disambiguation labels, we can still predict for it (though we need to ignore the resulting "scores"!):
 ``` bash
 python load_and_predict_with_trained_model.py \
   --model base \
@@ -258,23 +258,31 @@ python load_and_predict_with_trained_model.py \
   --column-format '{"0": "text", "1": "entities"}' \
   --label-type 'entities'
 ```
-* The resulting predictions will look like this:
-
-  ``` bash
-  NASA	B-ORG	B-NASA
-  launched	O	O
-  a	O	O
-  new	O	O
-  satellite	O	O
-  from	O	O
-  Cape	B-LOC	B-Cape_Canaveral_Space_Force_Station
-  Canaveral	I-LOC	I-Cape_Canaveral_Space_Force_Station
-  on	O	O
-  Monday	O	O
-  .	O	O
+* If you do not have _any labels at all_, you can still use VerbalizED to predict entity labels. But we need to run an entity NER tagger first!
+  * If you set `--mention-detection` to `True`, a Flair NER tagger will be run on the text first, and the resulting entities are used as mentions for entity disambiguation. Again, ignore the scores.
+  * If `--mention-detection` is set to `True`, all but the first column will be ignored automatically, so don't worry about the column format and label type. Just do:
+``` bash
+python load_and_predict_with_trained_model.py \
+  --model base \
+  --datasets my_custom_data.tsv \
+  --mention-detection True
   ```
-  
-* Before using VerbalizED for Entity Disambiguation you need annotated mentions. Check out our many Flair NER taggers to get there!
+
+* For both cases, the resulting predictions will look like this:
+
+        ``` bash
+        NASA	B-ORG	B-NASA
+        launched	O	O
+        a	O	O
+        new	O	O
+        satellite	O	O
+        from	O	O
+        Cape	B-LOC	B-Cape_Canaveral_Space_Force_Station
+        Canaveral	I-LOC	I-Cape_Canaveral_Space_Force_Station
+        on	O	O
+        Monday	O	O
+        .	O	O
+        ```
 
 
 

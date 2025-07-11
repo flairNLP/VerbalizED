@@ -39,6 +39,13 @@ parser.add_argument(
 )
 
 parser.add_argument(
+    '--mention-detection',
+    type=bool,
+    default=False,
+    help='Set to True to first run a mention detection model on the dataset(s) before running entity disambiguation. This is necessary if the dataset does not contain mention annotations.'
+)
+
+parser.add_argument(
     '--column-format',
     type=json.loads,
     required=False,
@@ -113,7 +120,7 @@ if not args.datasets:
     raise ValueError("You must provide at least one dataset using the --datasets argument.")
 print("Datasets provided:", args.datasets)
 
-#args.datasets = ["aida"] # TODO
+#args.datasets = ["my_custom_NER_set"] # TODO
 #args.column_format = {0: "text", 1: "nel"} # TODO
 #args.model = "custom_dual_encoder/trained_on_custom_dataset/corpus-labels"
 #args.model = "base"
@@ -195,6 +202,8 @@ else:
 evaluate_on = {} # will be a dict with dataset names as keys, each with datasets and label types
 
 for user_input in args.datasets:
+    if args.mention_detection:
+        args.column_format = {0: "text"}
     dataset_info = infer_and_load_dataset(user_input,
                                           document_level=config_args["document_level"],
                                           dataset_path= DATASETS_PATH,
@@ -311,6 +320,18 @@ for name, entry in evaluate_on.items():
 
     sentences = entry["data"]
     label_type = entry["label_type"]
+
+    if args.mention_detection:
+        print("First running Flair NER tagger for mention detection before EL evaluation.")
+        from flair.nn import Classifier
+        tagger = Classifier.load("ner")
+        label_type = "ner"
+        tagger.predict(sentences,
+                       label_name=label_type)
+
+        print("One example sentence after NER tagging, so with annotated mention spans:")
+        print(sentences[0])
+
     model._label_type = label_type
     print("Using label type:", label_type)
 
