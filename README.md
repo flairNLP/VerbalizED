@@ -32,9 +32,9 @@ This repository provides the code for creating verbalizations for new entity lab
 ├── models/                           # Saved model checkpoints
 │   ├── VerbalizED_base_ZELDA/                   # Base VerbalizED model trained on ZELDA
 │   ├── VerbalizED_biterative_ZELDA/             # Iterative VerbalizED model trained on ZELDA
-│   ├── custom_dual_encoder/                     # Custom model outputs (config, checkpoints, predictions)
-│       └── config_aida.ini                      # Example config file to control training behavior
-│   └── [more models]                            # Your saved models will be added here
+│   └── custom_dual_encoder/                     # Custom model outputs (config, checkpoints, predictions)
+│       ├── config_aida.ini                      # Example config file to control training behavior
+│       └── [more models]                        # Your saved models will be added here
 
 ├── README.md                         # Project overview and usage instructions
 ├── .gitignore                        # Git ignore file
@@ -68,6 +68,9 @@ pip install -r requirements.txt
 
 ### Verbalize a list of new labels:
 
+* We provide the verbalizations that we used for our experiments (the ZELDA labels with descriptions, Wikidata categories, Wikipedia paragraph, ...). As it is a large file, you need to download it here:
+  * https://drive.google.com/file/d/17MTxRbJteUkYx47ynzfE728vI47p96kY/view?usp=drive_link
+  * Place the json file in the `data/verbalizations/` folder and rename it to `zelda_labels_verbalizations.json`.
 * If you have a custom list of labels, you can create verbalizations for them using the `label_verbalizer.py` script. This script will generate verbalizations based on the provided label file and save them in a JSON format.
 * Try it out with the demo labels (`demo_labels_list.txt`):
 
@@ -142,8 +145,13 @@ python label_verbalizer.py --label_file demo_labels_list.txt --output demo_label
 
 
 ### Load a VerbalizED model and predict:
-* Using the base (i.e. not iterative) VerbalizED model trained on ZELDA, and predicting for AIDA and Tweeki datasets:
-* [TODO] talk about the corpus format
+* You can use our base and iterative VerbalizED models for prediction. You first need to download the model files here:
+  * base: https://drive.google.com/file/d/1PTy60kGLGuQHkxtvPC5ebA6DTvgEWBWB/view?usp=drive_link
+  * iterative: [TODO]
+  * Save the model files under `models/VerbalizED_base_Zelda` and `models/VerbalizED_iterative_Zelda` respectively, each with the name `final-model.pt` inside the folder.
+* For the `--datasets` argument, you can use either `aida` (for AIDA test) or `zelda`(for all 9 ZELDA test sets) or specific ZELDA ones (like `tweeki` or `reddit-posts`) which are in the `data/datasets/zelda_test` folder.
+  * Or you can add your own custom test dataset under `data/datasets` and use it (like the example `my_custom_test_set.tsv`, see usage below).
+* For example, if you want to use our base (i.e. not iterative) VerbalizED model trained on ZELDA, and evaluate/predict on the AIDA test and Tweeki dataset:
 ``` bash
 python load_and_predict_with_trained_model.py \
   --model base \
@@ -280,14 +288,14 @@ python load_and_predict_with_trained_model.py \
 python train_custom_dual_encoder.py \
   --config config_aida.ini
 ```
-* For training on your own custom dataset, modify the config (see `config_custom_dataset.ini` and the explanations [here](models/custom_dual_encoder/config-details.md)).
+* For training on your own custom dataset, modify the config (see `config_custom_dataset.ini` and the explanations [here](models/custom_dual_encoder/README.md)).
 * The dataset argument needs to be a folder in the `datasets` folder, and it needs to have a `train.tsv` file in the correct format. See the `datasets/data/my_custom_dataset` folder as an example.
 ``` bash
 python train_custom_dual_encoder.py \
   --config config_custom_dataset.ini
 ```
 
-* More explanation about the content of the config file can be found [here](models/custom_dual_encoder/config-details.md).
+* More explanation about the content of the config file can be found [here](models/custom_dual_encoder/README.md).
 
 ### Loading your own custom dual encoder to predict with
 

@@ -6,7 +6,7 @@ This guide explains the structure and options in the configuration file used for
 
 ```ini
 [General]
-outdir = ../../models/custom_dual_encoder
+outdir = ../models/custom_dual_encoder
 model_name = custom_dual_encoder
 suffix = aida-training
 
@@ -14,7 +14,7 @@ suffix = aida-training
 corpus_name = aida
 label_type = nel
 document_level = true
-verbalizations_path = structured_verbalizations_zelda_labels.json
+verbalizations_path = zelda_labels_verbalizations.json
 labels_path = None
 use_corpus_labels = True
 replace_labels = True
