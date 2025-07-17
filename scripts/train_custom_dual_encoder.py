@@ -4,7 +4,7 @@ from flair.models import DualEncoderEntityDisambiguation, GreedyDualEncoderEntit
 from flair.trainers import ModelTrainer
 from pathlib import Path
 import flair
-from flair.distributed_utils import launch_distributed
+#from flair.distributed_utils import launch_distributed
 import json
 import torch
 import argparse

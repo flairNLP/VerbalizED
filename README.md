@@ -160,14 +160,36 @@ python load_and_predict_with_trained_model.py \
   --label-type 'nel'
 ```
 * This will create three files per dataset, all placed in a `evaluation/eval-name` subdirectory of the model folder (e.g. `models/VerbalizED_base_Zelda/evaluation/eval-name`):
-  1. The predictions per document. This will look like this, with the text, and each mention with the gold and predicted label, markings for correct (✓) and incorrect (❌) predictions, and the verbalization of the predicted one.
+  1. The **predictions** per dataset. This will look like this, with the text, and each mention with the gold and predicted label, markings for correct (✓) and incorrect (❌) predictions, and the verbalization of the predicted one. In the second line, you see the top K (per default here only 1) predictions for the mention, with its similarity score.
   ```
   SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT . Nadim Ladki AL-AIN , United Arab Emirates 1996-12-06 
-   - "JAPAN" / Japan_national_football_team --> Japan_national_football_team (✓) "Japan national football team; men's national association football team representing Japan" conf. -19.084 
-   - "CHINA" / China_national_football_team --> China_national_football_team (✓) "China national football team; men's national association football team representing the People's" conf. -19.231 
-   - "AL-AIN" / Al_Ain --> Al_Ain_FC (❌) "Al Ain FC; Emirati association football club; country: United Arab Emirates" conf. -19.788 
+   - "JAPAN" / Japan_national_football_team --> Japan_national_football_team (✓) "Japan national football team; men's national association football team representing Japan"
+     Top K: Japan_national_football_team=-19.084 
+   - "CHINA" / China_national_football_team --> China_national_football_team (✓) "China national football team; men's national association football team representing the People's"
+     Top K: China_national_football_team=-19.231
+   - "AL-AIN" / Al_Ain --> Al_Ain_FC (❌) "Al Ain FC; Emirati association football club"
+     Top K: Al_Ain_FC=-20.076
   ```
-  2. The quantitative results (F score and Accuracy).
+  2. The same predictions, but as a **tsv file** that allows for better readability and further processing, e.g. for evaluation with other tools. Each line contains the token, the gold label (or other label in the column specified by `label_type`, e.g. `mentions`) and the Top-K predicted label(s) with respective score(s):
+  ```
+  SOCCER	O	O, O
+  -	O	O, O
+  JAPAN	B-Japan_national_football_team	B-Japan_national_football_team, -19.084
+  GET	O	O, O
+  LUCKY	O	O, O
+  WIN	O	O, O 
+  ,	O	O, O
+  CHINA	B-China_national_football_team	B-China_national_football_team, -19.231
+  IN	O	O, O
+  SURPRISE	O	O, O
+  DEFEAT	O	O, O
+  .	O	O, O
+  Nadim	O	O, O
+  Ladki	O	O, O
+  AL-AIN	B-Al_Ain	B-Al_Ain_FC, -20.076
+
+  ```
+  3. The **quantitative results** (F score and Accuracy) per dataset.
   ```
   Results:
   - F-score (micro) 0.8194
@@ -175,25 +197,6 @@ python load_and_predict_with_trained_model.py \
   - Accuracy 0.8194
   [additional label-wise results]
   ```
-  3. The predictions as a tsv file that allows for better readability and further processing, e.g. for evaluation with other tools. Each line contains the token, the gold label (or other label in the column specified by `label_type`, e.g. `mentions`) and the predicted label.
-  ```
-  SOCCER	O	O
-  -	O	O
-  JAPAN	B-Japan_national_football_team	B-Japan_national_football_team
-  GET	O	O
-  LUCKY	O	O
-  WIN	O	O
-  ,	O	O
-  CHINA	B-China_national_football_team	B-China_national_football_team
-  IN	O	O
-  SURPRISE	O	O
-  DEFEAT	O	O
-  .	O	O
-  Nadim	O	O
-  Ladki	O	O
-  AL-AIN	B-Al_Ain	B-Al_Ain_FC
-  ```
-
 * Also, an overview table with the main scores for all provided datasets will be created (`overview_results.tsv`), e.g.:
   ``` bash
   Dataset Accuracy
@@ -206,6 +209,7 @@ python load_and_predict_with_trained_model.py \
   test_reddit-posts       0.8834
   test_shadowlinks-shadow 0.6515
   test_shadowlinks-top    0.6604
+  mean	0.8045
   ```
 
 * Now we want to evaluate on a different custom test set. We still use the default VerbalizED labels and verbalizations:
@@ -246,6 +250,32 @@ python load_and_predict_with_trained_model.py \
   --name new-verbalization-strategy
 ```
 
+#### Saving Top-K Predictions to File
+* If you want to save not only the top, but the top-K (e.g. top-5) predictions per mention (maybe to use VerbalizED for candidate generation), you can use the `--top-k` argument:
+``` bash
+python load_and_predict_with_trained_model.py \
+  --model base \
+  --datasets my_custom_test_set.tsv \
+  --column-format '{"0": "text", "1": "nel"}' \
+  --label-type 'nel'
+  --top-k 5
+```
+* The resulting tsv will look like this. It looks a bit crammed, but it is still readable and can be processed further.
+* The format is the following: After the token, you first find the gold label, and then the Top-K predictions, starting with the top prediction, with their respective scores are listed:
+  ```
+  SOCCER	O	O, O	O, O	O, O	O, O	O, O
+  -	O	O, O	O, O	O, O	O, O	O, O
+  JAPAN	B-Japan_national_football_team	B-Japan_national_football_team, -19.631	B-Japan, -19.87	B-Japan_Billie_Jean_King_Cup_team, -23.651	B-Uzbekistan_national_football_team, -24.134	B-China_national_football_team, -24.47
+  GET	O	O, O	O, O	O, O	O, O	O, O
+  LUCKY	O	O, O	O, O	O, O	O, O	O, O
+  WIN	O	O, O	O, O	O, O	O, O	O, O
+  ,	O	O, O	O, O	O, O	O, O	O, O
+  CHINA	B-China_national_football_team	B-China_national_football_team, -19.361	B-China, -20.028	B-Japan_national_football_team, -22.836	B-Italy_national_football_team, -23.807	B-United_Arab_Emirates_national_football_team, -23.981
+  IN	O	O, O	O, O	O, O	O, O	O, O
+  SURPRISE	O	O, O	O, O	O, O	O, O	O, O
+  DEFEAT	O	O, O	O, O	O, O	O, O	O, O
+  .	O	O, O	O, O	O, O	O, O	O, O
+  ```
 
 #### Predicting on data without any or only NER labels
 
@@ -270,19 +300,19 @@ python load_and_predict_with_trained_model.py \
 
 * For both cases, the resulting predictions will look like this:
 
-        ``` bash
-        NASA	B-ORG	B-NASA
-        launched	O	O
-        a	O	O
-        new	O	O
-        satellite	O	O
-        from	O	O
-        Cape	B-LOC	B-Cape_Canaveral_Space_Force_Station
-        Canaveral	I-LOC	I-Cape_Canaveral_Space_Force_Station
-        on	O	O
-        Monday	O	O
-        .	O	O
-        ```
+  ``` bash
+  NASA	B-ORG	B-NASA, -14.495
+  launched	O	O, O
+  a	O	O, O
+  new	O	O, O
+  satellite	O	O, O
+  from	O	O, O
+  Cape	B-LOC	B-Cape_Canaveral_Space_Force_Station, -18.044
+  Canaveral	I-LOC	I-Cape_Canaveral_Space_Force_Station, -18.044
+  on	O	O, O
+  Monday	O	O, O
+  .	O	O, O      
+  ```
 
 
 

@@ -110,6 +110,12 @@ parser.add_argument(
     help='Set to True to print predictions to a file in the model directory. If False, predictions are not saved as column file.'
 )
 
+parser.add_argument(
+    '--top-k',
+    type=int,
+    default=1,
+    help='Number of top-k predictions to save. Default is 1, meaning only the best prediction will be saved.'
+)
 
 args = parser.parse_args()
 
@@ -282,32 +288,49 @@ if args.label_list is None and args.verbalization_dict is not None:
 
 # PREDICT ON THE DATA
 
-def print_to_column_file(sentences, target_path, label_type):
+
+def print_to_column_file(sentences, target_path, label_type, save_top_k = None):
     with open(target_path, "w", encoding="utf-8") as out:
         for nr, sentence in enumerate(sentences):
             # convert to token level BIO tagging
             span_label_types = [label_type, "predicted"]
+            if save_top_k:
+                for k in range(1, save_top_k + 1):
+                    span_label_types.append(f"top_{k}")
 
             for span_label_type in span_label_types:
                 spans = sentence.get_spans(span_label_type)
                 for s in spans:
                     label = s.get_label(span_label_type).value
+                    score = round(s.get_label(span_label_type).score, 3)
                     if label == "O":
                         for i in range(s[0].idx - 1, s[-1].idx):
                             sentence[i].set_label(f"{span_label_type}_BIO", "O")
                     else:
                         sentence[s[0].idx - 1].set_label(f"{span_label_type}_BIO", "B-" + label)
+                        sentence[s[0].idx - 1].set_label(f"{span_label_type}_score", score)
                         for i in range(s[0].idx, s[-1].idx):
                             sentence[i].set_label(f"{span_label_type}_BIO", "I-" + label)
+                            sentence[i].set_label(f"{span_label_type}_score", score)
 
             # print everything per token/line
             for token in sentence:
                 token_text = token.text
-                out.write(
-                    f"{token_text}\t"
-                    f"{token.get_label(f'{label_type}_BIO').value}\t"
-                    f"{token.get_label('predicted_BIO').value}\n"
-                )
+                if not save_top_k:
+                    out.write(
+                        f"{token_text}\t"
+                        f"{token.get_label(f'{label_type}_BIO').value}\t"
+                        f"{token.get_label('predicted_BIO').value}, {token.get_label('predicted_score').value}\n"
+                    )
+                else:
+                    out.write(
+                        f"{token_text}\t"
+                        f"{token.get_label(f'{label_type}_BIO').value}"
+                    )
+                    for k in range(1, save_top_k + 1):
+                        out.write(f"\t{token.get_label(f'top_{k}_BIO').value}, {token.get_label(f'top_{k}_score').value}")
+
+                    out.write("\n")
 
             # print newline at end of each sentence, not after last sentence
             if nr < len(sentences) - 1:
@@ -344,6 +367,7 @@ for name, entry in evaluate_on.items():
                              out_path=eval_path / f"{name}_predictions.txt",
                              gold_label_type=label_type,
                              return_loss=True,
+                             save_top_k=args.top_k,
                             )
     print("--> Main Score:", results.main_score)
     #print(results)
@@ -356,7 +380,7 @@ for name, entry in evaluate_on.items():
     # print predictions to column file
     if args.print_predictions_to_file:
         print(f"Printing predictions to {eval_path / f'predictions_column_format_{name}.tsv'}")
-        print_to_column_file(sentences, eval_path / f"predictions_column_format_{name}.tsv", label_type=label_type)
+        print_to_column_file(sentences, eval_path / f"predictions_column_format_{name}.tsv", label_type=label_type, save_top_k=args.top_k)
 
     # saving the scores per dataset
     evaluate_on[name]["Scores"] = results.scores
@@ -384,34 +408,28 @@ output_tsv_path = eval_path / "results_overview.tsv"
 print("Writing results overview to:", output_tsv_path)
 
 accuracies = []
-f_scores = []
 
 with open(output_tsv_path, "w") as f:
     # Write header
-    header = "Dataset\tAccuracy\tF1_(micro avg)\n"
+    header = "Dataset\tAccuracy\n"
     f.write(header)
     print(header.strip())  # Print without trailing newline
 
     # Write data rows
     for name in evaluate_on:
         accuracy = evaluate_on[name]['Scores'].get('accuracy', 'N/A')
-        f_score = evaluate_on[name]['Scores'].get(('micro avg', 'f1-score'), 'N/A')
 
         if isinstance(accuracy, float):
             accuracies.append(accuracy)
-        if isinstance(f_score, float):
-            f_scores.append(f_score)
-            f_score = round(f_score, 4)
 
-        row = f"{name}\t{accuracy}\t{f_score}\n"
+        row = f"{name}\t{accuracy}\n"
         f.write(row)
         print(row.strip())  # Print without trailing newline
 
     # Calculate mean
     mean_accuracy = round(sum(accuracies) / len(accuracies), 4) if accuracies else "N/A"
-    mean_f1 = round(sum(f_scores) / len(f_scores), 4) if f_scores else "N/A"
 
     # Write mean row
-    mean_row = f"mean\t{mean_accuracy}\t{mean_f1}\n"
+    mean_row = f"mean\t{mean_accuracy}\n"
     f.write(mean_row)
     print(mean_row.strip())
