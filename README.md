@@ -346,17 +346,19 @@ python load_and_predict_with_trained_model.py \
 
 ## Citation
 
-If you use this code in your research, please cite our paper:
+If you use this code or our verbalizations in your research, please cite our paper:
 
 ```
-@article{rücker2025evaluatingdesigndecisionsdual,
-        title={Evaluating Design Decisions for Dual Encoder-based Entity Disambiguation}, 
-        author={Susanna Rücker and Alan Akbik},
-        year={2025},
-        eprint={2505.11683},
-        archivePrefix={arXiv},
-        primaryClass={cs.CL},
-        url={https://arxiv.org/abs/2505.11683}, 
+@inproceedings{rucker-akbik-2025-evaluating,
+    title = "Evaluating Design Decisions for Dual Encoder-based Entity Disambiguation",
+    author = {R{\"u}cker, Susanna  and Akbik, Alan},
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.764/",
+    pages = "15685--15701",
 }
 ```
 
