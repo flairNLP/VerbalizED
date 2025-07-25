@@ -259,12 +259,11 @@ if args.verbalization_dict is None:
         print("Model was trained on the verbalization strategy:", config_args["verbalization_strategy"])
         print("Now using the verbalization strategy:", args.verbalization_strategy)
         print("On the verbalizations provided here:", config_args["verbalizations_path"])
-        new_verbalization_dict = read_in_verbalizations_and_do_cutoff(VERBALIZATIONS_PATH / config_args["verbalizations_path"],
-                                                                      args.verbalization_strategy,
-                                                                      config_args["max_verbalization_length_soft"])
-    else:
-        print("Using the verbalization dictionary the model was trained on.")
-        new_verbalization_dict = None
+
+    new_verbalization_dict = read_in_verbalizations_and_do_cutoff(
+        VERBALIZATIONS_PATH / config_args["verbalizations_path"],
+        args.verbalization_strategy,
+        config_args["max_verbalization_length_soft"])
 
 else:
     print("Loading verbalization dictionary from:", VERBALIZATIONS_PATH / args.verbalization_dict)

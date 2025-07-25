@@ -145,10 +145,9 @@ python label_verbalizer.py --label_file demo_labels_list.txt --output demo_label
 
 
 ### Load a VerbalizED model and predict:
-* You can use our base and iterative VerbalizED models for prediction. You first need to download the model files here:
-  * base: https://drive.google.com/file/d/1PTy60kGLGuQHkxtvPC5ebA6DTvgEWBWB/view?usp=drive_link
-  * iterative: [TODO]
-  * Save the model files under `models/VerbalizED_base_Zelda` and `models/VerbalizED_iterative_Zelda` respectively, each with the name `final-model.pt` inside the folder.
+* You can use our base and iterative VerbalizED models for prediction. You first need to download the model files here: https://drive.google.com/drive/folders/1MczG12si9hCyGXbwoFkrxrN2WYKgBrig?usp=sharing
+  * You will find two folders, `VerbalizED_base_Zelda` and `VerbalizED_iterative_Zelda`, each containing a `final-model.pt` file as well as a config file.
+  * Save the model and config files under `models/VerbalizED_base_Zelda` and `models/VerbalizED_iterative_Zelda` respectively, each with the name `final-model.pt` and `config.ini` inside.
 * For the `--datasets` argument, you can use either `aida` (for AIDA test) or `zelda`(for all 9 ZELDA test sets) or specific ZELDA ones (like `tweeki` or `reddit-posts`) which are in the `data/datasets/zelda_test` folder.
   * Or you can add your own custom test dataset under `data/datasets` and use it (like the example `my_custom_test_set.tsv`, see usage below).
 * For example, if you want to use our base (i.e. not iterative) VerbalizED model trained on ZELDA, and evaluate/predict on the AIDA test and Tweeki dataset:
