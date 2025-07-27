@@ -14,8 +14,8 @@ This repository provides the code for creating verbalizations for new entity lab
 ├── data/                             # Datasets, labels and verbalizations
 │   ├── verbalizations/               # Labels and verbalizations
 │   │   ├── demo_labels.txt
-│   │   ├── demo_labels_verbalizations.txt
-│   │   ├── zelda_labels_verbalizations.txt
+│   │   ├── demo_labels_verbalizations.json
+│   │   ├── zelda_labels_verbalizations.json     # --> Google drive link
 │   │   └── zelda_labels.txt
 │   └── datasets/                     # Evaluation and training datasets
 │       ├── zelda_test/                          # the ZELDA test sets
@@ -30,8 +30,8 @@ This repository provides the code for creating verbalizations for new entity lab
 │   └── load_and_predict_with_trained_model.py   # Load a VerbalizED or custom model and make predictions
 
 ├── models/                           # Saved model checkpoints
-│   ├── VerbalizED_base_ZELDA/                   # Base VerbalizED model trained on ZELDA
-│   ├── VerbalizED_biterative_ZELDA/             # Iterative VerbalizED model trained on ZELDA
+│   ├── VerbalizED_base_ZELDA/                   # Base VerbalizED model trained on ZELDA --> Google drive link
+│   ├── VerbalizED_biterative_ZELDA/             # Iterative VerbalizED model trained on ZELDA --> Google drive link
 │   └── custom_dual_encoder/                     # Custom model outputs (config, checkpoints, predictions)
 │       ├── config_aida.ini                      # Example config file to control training behavior
 │       └── [more models]                        # Your saved models will be added here
