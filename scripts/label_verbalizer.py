@@ -263,6 +263,7 @@ def process_labels(label_list: list,
             "wikipedia_paragraph": None
         }
 
+        data["wikidata_title"] = label.replace("_", " ")
         wd_id, wikipedia_shortdescription = get_wikidata_id_and_shortdesc(label)
         if wd_id:
             data["wikidata_id"] = wd_id
